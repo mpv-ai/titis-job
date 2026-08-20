@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Titi's Job">
+  <meta name="theme-color" content="#FFFFFF">
+  <meta name="description" content="Marketing jobs in Boston and New York — curated for Titi.">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="icon" type="image/png" href="icon.png">
+  <title>Titi's Job</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="phone">
+    <div class="app" id="app">
+      <header class="topbar">
+        <img class="app-icon" src="icon.png" alt="" width="40" height="40">
+        <div class="brand">
+          <h1>Titi's Job</h1>
+          <p>Marketing jobs · Boston &amp; NYC</p>
+        </div>
+        <button class="icon-btn search-btn" id="search-open" type="button" aria-label="Search and filter jobs">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M16.5 16.5L21 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </header>
+
+      <div class="chips" id="chips" role="toolbar" aria-label="Quick filters">
+        <button type="button" class="chip is-active" data-chip="all">All</button>
+        <button type="button" class="chip" data-chip="applyFirst">Apply first</button>
+        <button type="button" class="chip" data-chip="boston">Boston</button>
+        <button type="button" class="chip" data-chip="newyork">New York</button>
+        <button type="button" class="chip" data-chip="fulltime">Full-time</button>
+        <button type="button" class="chip" data-chip="hybrid">Hybrid</button>
+      </div>
+
+      <main class="feed" id="feed" tabindex="-1">
+        <div class="feed-loading" aria-live="polite">Loading jobs…</div>
+      </main>
+
+      <nav class="tabbar" aria-label="Primary">
+        <button type="button" class="tab is-active" data-tab="jobs" aria-current="page">
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <rect x="3" y="7" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/>
+            <path d="M8 7V6a4 4 0 0 1 8 0v1" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span>Jobs</span>
+        </button>
+        <button type="button" class="tab" data-tab="boston">
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M12 21s7-5.4 7-11a7 7 0 1 0-14 0c0 5.6 7 11 7 11z" fill="none" stroke="currentColor" stroke-width="1.8"/>
+            <circle cx="12" cy="10" r="2.2" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span>Boston</span>
+        </button>
+        <button type="button" class="tab" data-tab="newyork">
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M4 20V9l4-2 4 2 4-2 4 2v11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+            <path d="M8 20v-6h3v6M13 20v-8h3v8" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span>New York</span>
+        </button>
+        <button type="button" class="tab" data-tab="saved">
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M7 4h10a1 1 0 0 1 1 1v16l-6-3.2L6 21V5a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span>Saved</span>
+        </button>
+      </nav>
+
+      <div class="backdrop" id="search-backdrop" hidden></div>
+      <section class="sheet" id="search-sheet" role="dialog" aria-modal="true" aria-labelledby="search-title" hidden>
+        <div class="sheet-handle" aria-hidden="true"></div>
+        <div class="sheet-top">
+          <button type="button" class="icon-btn" id="search-close" aria-label="Close search">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+              <path d="M15 5L8 12l7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <h2 id="search-title">Search jobs</h2>
+          <button type="button" class="text-btn" id="search-clear">Clear</button>
+        </div>
+        <label class="search-field">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M16.5 16.5L21 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input id="search-input" type="search" placeholder="Title, company, or keyword" autocomplete="off" enterkeyhint="search">
+        </label>
+        <p class="filter-label">City</p>
+        <div class="seg" role="radiogroup" aria-label="City">
+          <button type="button" class="seg-btn is-active" data-city="All">All</button>
+          <button type="button" class="seg-btn" data-city="Boston">Boston</button>
+          <button type="button" class="seg-btn" data-city="New York">New York</button>
+        </div>
+        <label class="toggle-row">
+          <span>
+            <strong>Apply first</strong>
+            <em>Only roles Titi should hit first</em>
+          </span>
+          <input type="checkbox" id="apply-first-toggle">
+          <span class="switch" aria-hidden="true"></span>
+        </label>
+        <p class="search-count" id="search-count"></p>
+      </section>
+
+      <div class="backdrop" id="detail-backdrop" hidden></div>
+      <section class="sheet sheet-full" id="detail-sheet" role="dialog" aria-modal="true" aria-labelledby="detail-title" hidden>
+        <div class="sheet-handle" id="detail-handle" aria-hidden="true"></div>
+        <div class="sheet-top">
+          <button type="button" class="icon-btn" id="detail-close" aria-label="Close job details">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+              <path d="M15 5L8 12l7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <h2 class="sr-only" id="detail-heading">Job details</h2>
+          <span></span>
+          <button type="button" class="icon-btn" id="detail-save" aria-label="Save job">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+              <path d="M7 4h10a1 1 0 0 1 1 1v16l-6-3.2L6 21V5a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="1.8"/>
+            </svg>
+          </button>
+        </div>
+        <div class="detail-body" id="detail-body"></div>
+        <div class="detail-cta">
+          <a class="btn-apply btn-apply-lg" id="detail-apply" href="#" target="_blank" rel="noopener noreferrer">Apply</a>
+        </div>
+      </section>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
