@@ -1,5 +1,5 @@
 /* Titi's Job — app-shell service worker */
-const CACHE = "titis-job-v1";
+const CACHE = "titis-job-v2";
 const ASSETS = [
   "./",
   "./index.html",
