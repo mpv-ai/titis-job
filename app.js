@@ -429,7 +429,9 @@ async function init() {
   state.jobs = await loadJobs();
   render();
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("./sw.js").catch(() => {});
+    navigator.serviceWorker.getRegistrations().then((regs) =>
+      Promise.all(regs.map((r) => r.unregister()))
+    ).catch(() => {});
   }
 }
 
