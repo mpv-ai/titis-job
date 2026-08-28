@@ -1,5 +1,5 @@
 /* Titi's Job — network-first so the phone never sticks on an old date */
-const CACHE = "titis-job-v3";
+const CACHE = "titis-job-v4";
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
