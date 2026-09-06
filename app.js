@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "jet-direct-marketing-assistant",
+    "title": "Marketing Specialist",
+    "company": "Jet Direct Mortgage",
+    "city": "New York",
+    "location": "Bohemia, NY",
+    "workplace": "Long Island (Bay Shore / Bohemia) · in-house mortgage marketing assistant (print, web, social, email)",
+    "salary": "Not listed",
+    "experience": "Entry. Marketing assistant supporting Director of Marketing; Adobe Creative Suite helpful; no hard years bar in JD.",
+    "posted": "1 hour ago",
+    "applicants": "27 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4422465566/",
+    "why": "Jet Direct Mortgage Marketing Specialist (assistant JD) on Long Island. True entry marketing production across print/web/social/email. Stretch LI geo.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Sun ~1–7 PM ET. LinkedIn id 4422465566. Title Specialist; JD is marketing assistant under Dir of Marketing. Bohemia/Bay Shore LI stretch. 27 applicants.",
+    "initials": "JD",
+    "color": "#0D47A1"
+  },
+  {
     "id": "stella-mccartney-communications-intern",
     "title": "Communications Intern",
     "company": "Stella McCartney",
@@ -59,26 +79,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. First 25. On-site Baldwin → Woodbury. Reports to Sr Manager Marketing. LinkedIn id 4456519144. Caught Sun ~7 AM ET r21600.",
     "initials": "EQ",
     "color": "#00897B"
-  },
-  {
-    "id": "pacagen-marketing-associate",
-    "title": "Marketing Associate",
-    "company": "Pacagen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · DTC/consumer-health startup (Pacagen + RE:YOU); paid/organic + product ops",
-    "salary": "Not listed",
-    "experience": "Entry. BS/BA; 0–3 yrs high-pressure preferred. Sept/Oct 2026 start. Twin refresh of closed listing.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462651833/",
-    "why": "Pacagen NYC Marketing Associate twin refresh. Venture-backed DTC house of brands; founders-mentored. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. First 25. Twin of closed 4460621455. LinkedIn id 4462651833. Caught Sun ~1 AM ET r21600.",
-    "initials": "PA",
-    "color": "#2E7D32"
   },
   {
     "id": "pacagen-marketing-operations-associate",
@@ -539,26 +539,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Catch ~9h posted; open on guest. LinkedIn id 4461199168.",
     "initials": "FL",
     "color": "#111111"
-  },
-  {
-    "id": "mogao-marketing-specialist",
-    "title": "Marketing Specialist",
-    "company": "Mogao Hospitality Group",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC onsite · support brand growth across Mogao Asian dining / catering portfolio",
-    "salary": "",
-    "experience": "LinkedIn Entry level; hospitality multi-brand marketing support (stretch specialist title)",
-    "posted": "",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461172703/",
-    "why": "Mogao Hospitality Marketing Specialist (entry-level tag). NYC restaurant-group brand growth, first 25. Stretch specialist.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 PM–Sat ~1 AM ET. LinkedIn id 4461172703. Specialist-title stretch.",
-    "initials": "MH",
-    "color": "#C0392B"
   },
   {
     "id": "mattel-american-girl-community-event-coordinator",
@@ -5961,7 +5941,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 6 · 1:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Sep 6 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
