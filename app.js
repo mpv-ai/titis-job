@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "stella-mccartney-communications-intern",
+    "title": "Communications Intern",
+    "company": "Stella McCartney",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "NYC · luxury fashion communications (press, celebrity, events) through Dec 2026",
+    "salary": "$35,360",
+    "experience": "Paid full-time intern/recent-grad track. Fashion/comms passion; organized, detail-oriented.",
+    "posted": "4 hours ago",
+    "applicants": "Over 200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4441814252/",
+    "why": "Stella McCartney NYC Communications Intern (paid $35.4k, FT to Dec 2026). Press, celebrity, events. Stretch intern.",
+    "applyFirst": false,
+    "employment": "Internship",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Sun ~7 AM–1 PM ET. LinkedIn id 4441814252. Paid FT intern; 200+ applicants.",
+    "initials": "SM",
+    "color": "#1B5E20"
+  },
+  {
     "id": "hdr-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "HDR",
@@ -5941,7 +5961,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 6 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Sep 6 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
