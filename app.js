@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "later-influencer-coordinator-nyc",
+    "title": "Influencer Marketing Coordinator",
+    "company": "Later",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Influencer Marketing Services Account Coordinator (LinkedIn title Influencer Marketing Coordinator)",
+    "salary": "$55,000–$62,000 + bonus",
+    "experience": "1–2 years influencer marketing, digital campaigns, or client services; agency/SaaS preferred.",
+    "posted": "1 hour ago",
+    "applicants": "Over 200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4455249742/",
+    "why": "Later NYC Influencer Marketing Coordinator / Account Coordinator — real influencer SaaS (Nike, Unilever clients). True 1–2 yr early-career campaign execution. Boston twin already in feed (4455246801); this is the NYC posting.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Mon ~7 AM–1 PM ET. LinkedIn id 4455249742. Distinct from Boston Later 4455246801 (both open). $55–62k + bonus. Over 200 applicants (not first 25). Mid-Senior badge but JD asks 1–2 yrs.",
+    "initials": "LT",
+    "color": "#2E86AB"
+  },
+  {
     "id": "bloomingdales-site-merchandising-assistant-temp",
     "title": "Site Merchandising Assistant TEMP",
     "company": "Bloomingdale's",
@@ -5941,7 +5961,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Sep 7 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Sep 7 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
