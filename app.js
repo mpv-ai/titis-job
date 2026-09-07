@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "harpercollins-assistant-publicist",
+    "title": "Assistant Publicist (NYC Hybrid)",
+    "company": "HarperCollins Publishers",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC hybrid · adult trade publicity (William Morrow, Mariner, HarperOne, Avon, Dey Street)",
+    "salary": "$52,500",
+    "experience": "Prior publishing/PR internship a plus; true assistant publicist — own campaigns under supervision.",
+    "posted": "5 hours ago",
+    "applicants": "32 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464373405/",
+    "why": "HarperCollins NYC hybrid Assistant Publicist — real Big Five trade publicity. Internship-level quals, $52.5k, drafts pitches/press, author tour logistics, influencer outreach. Classic entry PR.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Mon ~1–7 PM ET. LinkedIn id 4464373405. Filter miss (publicist not in title regex) recovered manually. LinkedIn employment badge says Volunteer but JD lists $52,500 salary — treat as paid FT. 32 applicants (not first 25). Cover letter preferred.",
+    "initials": "HC",
+    "color": "#1A237E"
+  },
+  {
+    "id": "equinox-ecommerce-coordinator",
+    "title": "E-Commerce Coordinator",
+    "company": "Equinox",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Shopify storefront / digital merchandising ops (reports to Senior Manager, E-Commerce)",
+    "salary": "$70,000–$85,000",
+    "experience": "1–3 years e-commerce, digital merchandising, or online retail ops; Shopify admin hands-on.",
+    "posted": "4 hours ago",
+    "applicants": "31 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464368789/",
+    "why": "Equinox NYC E-Commerce Coordinator — real fitness lifestyle brand digital storefront. 1–3 yrs Shopify/e-comm merchandising, $70–85k. Early-career digital retail marketing ops.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Mon ~1–7 PM ET. LinkedIn id 4464368789. Associate seniority. $70–85k. 31 applicants (not first 25). JD: Shopify, Nosto, D365, product launches/promos.",
+    "initials": "EQ",
+    "color": "#212121"
+  },
+  {
     "id": "later-influencer-coordinator-nyc",
     "title": "Influencer Marketing Coordinator",
     "company": "Later",
@@ -2159,26 +2199,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest ~33 applicants. Capital-markets PR focus.",
     "initials": "PF",
     "color": "#1B365D"
-  },
-  {
-    "id": "newhouse-influencer-marketing-coordinator",
-    "title": "Influencer Marketing Coordinator",
-    "company": "Newhouse",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · freelance influencer coordinator; entertainment + brand clients",
-    "salary": "",
-    "experience": "At least 1 year brand/agency in similar capacity. Bachelor’s preferred.",
-    "posted": "Today",
-    "applicants": "81 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4460605481/",
-    "why": "Freelance influencer marketing coordinator. ~1 year. Entertainment agency NYC.",
-    "applyFirst": false,
-    "employment": "Contract / Freelance",
-    "stretch": true,
-    "notes": "Guest ~81 applicants. Freelance framing in JD.",
-    "initials": "NH",
-    "color": "#6C3483"
   },
   {
     "id": "considine-ecvc-ip-event-coordinator",
@@ -5961,7 +5981,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Sep 7 · 1:00 PM ET";
+const LAST_UPDATED = "Updated Mon, Sep 7 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
