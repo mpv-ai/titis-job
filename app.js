@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "addition-bd-coordinator",
+    "title": "Business Development Coordinator",
+    "company": "Addition Management",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid",
+    "salary": "$75,000–$85,000 + bonus",
+    "experience": "Bachelor’s + min 2 years marketing/BD in professional services. Law firm preferred.",
+    "posted": "2 hours ago",
+    "applicants": "First 25",
+    "url": "https://www.linkedin.com/jobs/view/4464433408/",
+    "why": "Coordinator. Pitches, bios, directories, CRM. Same path as other law-firm marketing seats. Fresh LinkedIn repost (old 4458152739 closed).",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Mon ~7 PM–Tue ~1 AM ET. LinkedIn id 4464433408 (repost; prior 4458152739 closed). $75–85k + bonus. First 25. Hybrid NYC. 2-year bar; stretch.",
+    "initials": "AB",
+    "color": "#1B365D"
+  },
+  {
+    "id": "addition-communications-event-coordinator",
+    "title": "Communications Event Coordinator",
+    "company": "Addition Management",
+    "city": "New York",
+    "location": "New York, NY (Midtown)",
+    "workplace": "Onsite",
+    "salary": "$85,000–$91,000 + bonus",
+    "experience": "Bachelor’s in marketing/communications. No years listed. CRM + PowerPoint.",
+    "posted": "2 hours ago",
+    "applicants": "First 25",
+    "url": "https://www.linkedin.com/jobs/view/4464413453/",
+    "why": "Coordinator, no years bar, first-25. Events, pitches, social, website at a NYC law firm via recruiter. Fresh LinkedIn repost (old 4458147636 closed).",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Mon ~7 PM–Tue ~1 AM ET. LinkedIn id 4464413453 (repost; prior 4458147636 closed). JD title Business Development / Events Coordinator. $85–91k + bonus. First 25. Fully in-office Midtown.",
+    "initials": "AE",
+    "color": "#1B365D"
+  },
+  {
     "id": "harpercollins-assistant-publicist",
     "title": "Assistant Publicist (NYC Hybrid)",
     "company": "HarperCollins Publishers",
@@ -4261,46 +4301,6 @@ const FALLBACK_JOBS = [
     "color": "#14B8A6"
   },
   {
-    "id": "addition-bd-coordinator",
-    "title": "Business Development Coordinator",
-    "company": "Addition Management",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid",
-    "salary": "$75,000–$85,000 + bonus",
-    "experience": "Bachelor’s + min 2 years marketing/BD in professional services. Law firm preferred.",
-    "posted": "2 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4458152739/",
-    "why": "Coordinator. Pitches, bios, directories, CRM. Same path as other law-firm marketing seats.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Different Addition posting from the events coordinator. 2-year bar; internships plus 1 year is a try.",
-    "initials": "AB",
-    "color": "#1B365D"
-  },
-  {
-    "id": "addition-communications-event-coordinator",
-    "title": "Communications Event Coordinator",
-    "company": "Addition Management",
-    "city": "New York",
-    "location": "New York, NY (Midtown)",
-    "workplace": "Onsite",
-    "salary": "$85,000–$91,000 + bonus",
-    "experience": "Bachelor’s in marketing/communications. No years listed. CRM + PowerPoint.",
-    "posted": "2 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4458147636/",
-    "why": "Coordinator, no years bar, first-25. Events, pitches, social, website at a NYC law firm via recruiter.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Unnamed growing Midtown law firm. Fully in-office. InterAction CRM a plus.",
-    "initials": "AE",
-    "color": "#1B365D"
-  },
-  {
     "id": "alexandra-beth-marketing-associate",
     "title": "Marketing Associate",
     "company": "Alexandra Beth Fine Jewelry",
@@ -5981,7 +5981,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Sep 7 · 7:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Sep 8 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
