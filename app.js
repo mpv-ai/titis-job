@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "weber-shandwick-associate-corporate-issues",
+    "title": "Associate, Corporate Issues (Crisis Communications)",
+    "company": "Weber Shandwick",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Global Crisis and Issues Practice (Weber Advisory)",
+    "salary": "$52,000–$60,000",
+    "experience": "1–2 years agency/strategic communications, issues management, or public affairs. Basic PR skills.",
+    "posted": "1 hour ago",
+    "applicants": "163 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4444853290/",
+    "why": "Weber Shandwick NYC Associate on Global Crisis & Issues — classic entry PR/agency seat. 1–2 yrs, $52–60k. Real Omnicom PR path.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Tue ~1–7 AM ET. LinkedIn id 4444853290. Filter miss (Corporate Issues / not explicit marketing title) recovered from near-miss pass. JD title Associate, Crisis Communications. $52–60k (Omnicom band also cites $52–55k). 163 applicants (not first 25). NYC.",
+    "initials": "WS",
+    "color": "#C8102E"
+  },
+  {
+    "id": "inizio-evoke-growth-coordinator",
+    "title": "Growth Coordinator",
+    "company": "Inizio Evoke",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Remote · based out of NYC office (reports to Associate Director, Growth)",
+    "salary": "$55,000–$70,000",
+    "experience": "1+ years agency preferred. Apply even if you don't meet every requirement.",
+    "posted": "1 hour ago",
+    "applicants": "163 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4452274696/",
+    "why": "Growth Coordinator at Inizio Evoke — health/comms agency pitch-ops. NYC remote, $55–70k, 1+ yrs agency. Explicit apply-anyway language.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Tue ~1–7 AM ET. LinkedIn id 4452274696 (twin refresh; prior Greenhouse https://job-boards.greenhouse.io/inizioevoke/jobs/8128597). Filter miss (Growth Coordinator without 'marketing' in title) recovered from near-miss pass. $55–70k. 163 applicants (not first 25; prior feed row had applyFirst true / empty apps). Remote NYC.",
+    "initials": "IE",
+    "color": "#00A3A1"
+  },
+  {
     "id": "addition-bd-coordinator",
     "title": "Business Development Coordinator",
     "company": "Addition Management",
@@ -5501,26 +5541,6 @@ const FALLBACK_JOBS = [
     "color": "#2C3E6B"
   },
   {
-    "id": "inizio-evoke-growth-coordinator",
-    "title": "Growth Coordinator",
-    "company": "Inizio Evoke",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote",
-    "salary": "$55,000–$70,000",
-    "experience": "1+ years agency preferred. Apply even if you don't meet every requirement.",
-    "posted": "4 days ago",
-    "applicants": "",
-    "url": "https://job-boards.greenhouse.io/inizioevoke/jobs/8128597",
-    "why": "Coordinator title, NYC remote, explicit apply-anyway language.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Health/comms agency pitch-ops.",
-    "initials": "IE",
-    "color": "#00A3A1"
-  },
-  {
     "id": "sp-global-coordinator",
     "title": "Marketing Coordinator",
     "company": "S&P Global",
@@ -5981,7 +6001,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Sep 8 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Sep 8 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
