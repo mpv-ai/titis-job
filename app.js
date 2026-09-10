@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "omnicom-media-planner",
+    "title": "Media Planner",
+    "company": "Omnicom Media",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · Hybrid ≥3 days in office · media planning & buying",
+    "salary": "$60,000–$80,000",
+    "experience": "Media planning role; guest JD thin beyond salary + office policy.",
+    "posted": "6 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464132468/",
+    "why": "Omnicom Media Planner NYC — first 25, $60–80k. Planner title; thin guest JD so treat as mild stretch vs Associate Planner seats already in feed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Wed ~7 PM–Thu ~1 AM ET. LinkedIn id 4464132468. First 25. Thin guest JD (salary + hybrid policy).",
+    "initials": "OM",
+    "color": "#C62828"
+  },
+  {
+    "id": "disney-live-sports-dtc-coordinator",
+    "title": "Coordinator, Live & Sports DTC Marketing NYC",
+    "company": "The Walt Disney Company",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · On-site near 7 Hudson Square · Disney+/Hulu Live & Sports DTC campaigns",
+    "salary": "$56,600–$75,900",
+    "experience": "2+ years marketing/media (internships + sports/entertainment TV a plus). Bachelor’s.",
+    "posted": "5 hours ago",
+    "applicants": "73 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464138705/",
+    "why": "Disney NYC Live & Sports DTC Marketing Coordinator — $56.6–75.9k. Tune-in/sports campaign ops on Disney+/Hulu; stretch on 2+ yrs.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Wed ~7 PM–Thu ~1 AM ET. LinkedIn id 4464138705. Twin Studios tag 4465346892 skipped. Stretch: 2+ yrs.",
+    "initials": "WD",
+    "color": "#1565C0"
+  },
+  {
+    "id": "burson-aae-global-marcomms",
+    "title": "Assistant Account Executive, Burson Global Marketing & Communications",
+    "company": "Burson",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · Hybrid · agency Global MarComms / PR",
+    "salary": "$35,000–$75,000",
+    "experience": "At least six months including internships in PR; agency a plus. Hybrid NYC.",
+    "posted": "5 hours ago",
+    "applicants": "37 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4463082647/",
+    "why": "Burson NYC AAE Global Marketing & Communications — true entry AAE ($35–75k band), 6+ months incl. internships. Distinct from Health & Wellness AAE already in feed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Wed ~7 PM–Thu ~1 AM ET. LinkedIn id 4463082647. Not a twin of burson-aae-health-wellness 4460753962.",
+    "initials": "BU",
+    "color": "#6A1B9A"
+  },
+  {
+    "id": "weldon-brand-content-strategy-associate",
+    "title": "Brand & Content Strategy Associate",
+    "company": "WELDON",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "Remote / NYC preferred · boutique brand & content house (lifestyle/beauty/wellness/fashion)",
+    "salary": "",
+    "experience": "1–3 years brand, social, content production, or agency/client services (internships count).",
+    "posted": "6 hours ago",
+    "applicants": "198 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4465354013/",
+    "why": "WELDON Brand & Content Strategy Associate — remote/NYC boutique content seat, 1–3 yrs. Account + content pipeline support.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Wed ~7 PM–Thu ~1 AM ET. LinkedIn id 4465354013. 198 applicants. Stretch: 1–3 yrs + no salary listed.",
+    "initials": "WE",
+    "color": "#00897B"
+  },
+  {
     "id": "roc-nation-distribution-marketing-intern",
     "title": "Fall 2026 Intern - Distribution Marketing (Paid)",
     "company": "Roc Nation",
@@ -6461,7 +6541,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Sep 9 · 7:00 PM ET";
+const LAST_UPDATED = "Updated Thu, Sep 10 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
