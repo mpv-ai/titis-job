@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "ekspert-counsel-bd-coordinator",
+    "title": "Business Development Coordinator (Law Firm)",
+    "company": "Ekspert Counsel",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "NYC metro · law-firm marketing & BD (pitches, events, CRM, rankings)",
+    "salary": "$70,000–$85,000",
+    "experience": "1–2 years marketing and/or business development experience within a law firm required. Bachelor’s.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464525856/",
+    "why": "Ekspert Counsel NYC law-firm BD Coordinator — first 25, $70–85k, 1–2 yrs law-firm marketing/BD required. Pitches, rankings, events, CRM.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM–1 PM ET. LinkedIn id 4464525856. First 25. True entry law-firm BD/marketing.",
+    "initials": "EK",
+    "color": "#1565C0"
+  },
+  {
+    "id": "freshfields-communications-coordinator",
+    "title": "Communications Coordinator",
+    "company": "Freshfields",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · US brand & communications / media relations / internal comms",
+    "salary": "$75,000–$90,000",
+    "experience": "1–3 years relevant PR/communications experience; agency a plus. Bachelor’s in Communications/Journalism/Marketing/English preferred.",
+    "posted": "2 hours ago",
+    "applicants": "53 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4465800100/",
+    "why": "Freshfields NYC Communications Coordinator — $75–90k, 1–3 yrs PR/comms. Big-law brand, media, social, internal comms seat.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM–1 PM ET. LinkedIn id 4465800100. Stretch: 1–3 yrs band.",
+    "initials": "FF",
+    "color": "#0D47A1"
+  },
+  {
+    "id": "michael-kors-digital-content-experience-coordinator",
+    "title": "Digital Content & Experience Coordinator",
+    "company": "Michael Kors",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "NYC metro · e-commerce digital content / site experience (MK + Outlet)",
+    "salary": "$65,000",
+    "experience": "1+ years e-commerce, digital content, site operations, project coordination, or retail-related. Execution-focused.",
+    "posted": "3 hours ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4440973842/",
+    "why": "Michael Kors Digital Content & Experience Coordinator — $65k, 1+ yrs e-comm site content. Distinct from Junior Copywriter (Social) already in feed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM–1 PM ET. LinkedIn id 4440973842. Not a twin of michael-kors-junior-copywriter-social 4446851986. 200 applicants.",
+    "initials": "MK",
+    "color": "#212121"
+  },
+  {
+    "id": "kennedy-comms-social-content-coordinator",
+    "title": "Communications and Social Media Content Coordinator",
+    "company": "Kennedy International School",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · school marketing & communications / social / web",
+    "salary": "$31.25/hr (~$65k FTE)",
+    "experience": "Demonstrated social/content experience; education/nonprofit/comms preferred. No hard years bar. Bilingual FR/JP a plus.",
+    "posted": "3 hours ago",
+    "applicants": "40 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4465677744/",
+    "why": "Kennedy International School NYC Comms & Social Content Coordinator — ~$31.25/hr with benefits, social/web/editorial. True coordinator seat.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM–1 PM ET. LinkedIn id 4465677744. Hourly $31.25 + benefits.",
+    "initials": "KI",
+    "color": "#6A1B9A"
+  },
+  {
     "id": "omnicom-media-planner",
     "title": "Media Planner",
     "company": "Omnicom Media",
@@ -139,26 +219,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Wed ~1–7 PM ET. LinkedIn id 4464151168. First 25. Stretch: 2+ years social.",
     "initials": "CA",
     "color": "#3949AB"
-  },
-  {
-    "id": "pacagen-junior-marketing-associate",
-    "title": "Junior Marketing Associate",
-    "company": "Pacagen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · On-site · DTC biotech / pet allergy + RE:YOU haircare · creative + paid social",
-    "salary": "",
-    "experience": "Entry-level. BA/BS; Adobe Premiere/After Effects + Creative Cloud willingness to learn. Paid social creative.",
-    "posted": "54 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464141159/",
-    "why": "Pacagen NYC Junior Marketing Associate — first 25, entry DTC creative/paid social + influencer at VC-backed startup.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Wed ~1–7 PM ET. LinkedIn id 4464141159. First 25. On-site NYC. Distinct from any prior Pacagen report-only ID.",
-    "initials": "PA",
-    "color": "#00897B"
   },
   {
     "id": "partners-in-health-marcomms-coordinator",
@@ -2801,26 +2861,6 @@ const FALLBACK_JOBS = [
     "color": "#1565C0"
   },
   {
-    "id": "nike-comms-influencer-marketing-associate",
-    "title": "Influencer Marketing Associate",
-    "company": "Nike Communications, Inc.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Digital/influencer team (spirits brands); prestige PR firm",
-    "salary": "$60,000–$66,000",
-    "experience": "Minimum 2 years influencer marketing; 1 year client correspondence; 6 months mentoring interns/staff.",
-    "posted": "10 hours ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4452280380/",
-    "why": "Nike Communications Influencer Marketing Associate (spirits). 2-year bar stretch. 200+ applicants. $60–66k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Not Nike the brand — Nike Communications PR firm. Stretch on years.",
-    "initials": "NK",
-    "color": "#C62828"
-  },
-  {
     "id": "groupeconnect-associate-copywriter",
     "title": "Associate Copywriter",
     "company": "GroupeConnect (Publicis)",
@@ -3899,26 +3939,6 @@ const FALLBACK_JOBS = [
     "notes": "Stretch: 2–3 years. LinkedIn 56 minutes ago (42 applicants).",
     "initials": "NL",
     "color": "#1A1A1A"
-  },
-  {
-    "id": "jmclaughlin-creative-marketing-coordinator",
-    "title": "Creative Marketing Coordinator",
-    "company": "J.McLaughlin",
-    "city": "New York",
-    "location": "Brooklyn, NY",
-    "workplace": "Hybrid · Greenpoint, Brooklyn",
-    "salary": "$26–$30/hr",
-    "experience": "Entry. 0–2 years project coordination, marketing, or operations. Fashion/retail a plus.",
-    "posted": "1 hour ago",
-    "applicants": "28",
-    "url": "https://www.linkedin.com/jobs/view/4458675800/",
-    "why": "Fashion brand creative-marketing ops coordinator. 0–2 years, hybrid Greenpoint, $26–30/hr.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Apply first: 1 hour ago, 28 applicants. Timelines/assets across creative, social, PR, events.",
-    "initials": "JM",
-    "color": "#2C4A3E"
   },
   {
     "id": "brilliant-influencer-celebrity-coordinator",
@@ -5421,26 +5441,6 @@ const FALLBACK_JOBS = [
     "color": "#1E3A8A"
   },
   {
-    "id": "vivo-architecture-office-marketing",
-    "title": "Office and Marketing Coordinator",
-    "company": "Vivo Architecture",
-    "city": "Boston",
-    "location": "Charlestown, Boston, MA",
-    "workplace": "Onsite",
-    "salary": "",
-    "experience": "Entry. No years listed. MS Office + Adobe. Social a plus.",
-    "posted": "6 hours ago",
-    "applicants": "29",
-    "url": "https://www.linkedin.com/jobs/view/4456244062/",
-    "why": "Boston coordinator mix of office ops + social/BD. No years bar.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Email PDF resume + cover to TeamVivo@vivoarch.co. May be full or part-time. No recruiters.",
-    "initials": "VA",
-    "color": "#2E5A88"
-  },
-  {
     "id": "aipac-marketing-associate",
     "title": "Marketing Associate",
     "company": "AIPAC",
@@ -6521,7 +6521,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Sep 10 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Sep 10 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
