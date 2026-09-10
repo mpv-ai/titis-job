@@ -3201,26 +3201,6 @@ const FALLBACK_JOBS = [
     "color": "#0F4C5C"
   },
   {
-    "id": "factory360-account-coordinator",
-    "title": "Account Coordinator",
-    "company": "Factory360",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC (remote-friendly; Miami office too) · experiential / social / digital agency",
-    "salary": "$65,000–$70,000",
-    "experience": "Stretch. Bachelor’s in marketing/advertising preferred; internship-level marketing plus 1–3 years events/experiential (agency or in-house).",
-    "posted": "5 hours ago",
-    "applicants": "44 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461081741/",
-    "why": "Factory360 NYC Account Coordinator. Experiential/social/digital campaigns. 1–3 years. $65–70k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Posted in ~6h window Mon ~7 AM–1 PM ET. Guest page salary $65–70k (44 applicants). LinkedIn wrongly tags Volunteer. Supports AM/AD across campaign cycle. Some travel; driver’s license a plus. Not a street-sales mill.",
-    "initials": "F3",
-    "color": "#C0392B"
-  },
-  {
     "id": "pimco-etf-alternatives-marketing-associate",
     "title": "Associate, ETF & Alternatives Marketing",
     "company": "PIMCO",
@@ -6541,7 +6521,7 @@ const FALLBACK_JOBS = [
     "color": "#5D4E37"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Sep 10 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Sep 10 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
