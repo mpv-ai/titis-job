@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "allison-account-coordinator-technology-pr",
+    "title": "Account Coordinator, Technology Public Relations",
+    "company": "Allison Worldwide",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC hybrid (2+ days in office) · Technology PR account coordinator",
+    "salary": "$45,000–$55,000",
+    "experience": "True entry-level. Preferred experience as an intern/apprentice in PR, marketing, or related. Tech-industry interest preferred.",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4464879062/",
+    "why": "Allison Worldwide Account Coordinator, Technology PR — first 25, true entry $45–55k, preferred intern only. NYC hybrid tech PR seat.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted in ~6h window Fri ~1–7 AM ET. LinkedIn id 4464879062. First 25. Distinct from allison-aae-corporate-affairs 4407950624.",
+    "initials": "AW",
+    "color": "#7C3AED"
+  },
+  {
     "id": "himedi-growth-marketing-intern",
     "title": "Growth Marketing Intern",
     "company": "Himedi",
@@ -6481,7 +6501,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Sep 11 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Sep 11 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
