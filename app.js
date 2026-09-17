@@ -1,6 +1,66 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "jack-morton-production-coordinator-integrated",
+    "title": "Production Coordinator - Integrated Marketing",
+    "company": "Jack Morton Worldwide",
+    "city": "Boston",
+    "location": "Boston, MA",
+    "workplace": "Boston hybrid · Production Coordinator Integrated Marketing (campaigns / media / digital)",
+    "salary": "",
+    "experience": "Early-career production coordinator. New grads with internship experience encouraged. Hybrid Boston.",
+    "posted": "9 hours ago",
+    "applicants": "35 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4466237012/",
+    "why": "Jack Morton Production Coordinator Integrated Marketing — early-career Boston hybrid; new grads with internship experience encouraged. True coordinator seat.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Catch-window Thu 1 AM ET (posted ~9h). LinkedIn id 4466237012. 35 applicants. Seen in Wed 7 PM prefilter but not published then.",
+    "initials": "JM",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "macys-admin-assistant-corporate-communication",
+    "title": "Administrative Assistant, Corporate Communication",
+    "company": "Macy's",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "On-site NYC · Admin Assistant supporting SVP Corp Comms / VP External Comms + Brand PR exposure",
+    "salary": "$67,560–$112,440",
+    "experience": "1–3 years communications/PR/journalism (internships included). Stretch: executive-admin heavy vs pure marketing coordinator.",
+    "posted": "13 hours ago",
+    "applicants": "Over 200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4468256278/",
+    "why": "Macy's Admin Assistant Corporate Communication — fashion/retail priority; 1–3 yrs (internships included) supporting Enterprise/External Comms + Brand PR exposure. Stretch: executive-admin heavy.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Catch-window Thu 1 AM ET (posted ~13h / r86400 fashion). LinkedIn id 4468256278. Over 200 applicants. Fashion priority stretch.",
+    "initials": "MA",
+    "color": "#DC2626"
+  },
+  {
+    "id": "bng-investor-relations-marketing-associate",
+    "title": "Investor Relations & Marketing Associate",
+    "company": "BNG Consulting, Inc.",
+    "city": "Boston",
+    "location": "Boston, MA",
+    "workplace": "Onsite Boston · IR & Marketing Associate via BNG for investment-management client (decks / writing)",
+    "salary": "",
+    "experience": "1–3 years financial services / investment / consulting / marketing. Early-career stretch IR + marketing.",
+    "posted": "11 hours ago",
+    "applicants": "41 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4468251944/",
+    "why": "BNG IR & Marketing Associate — Boston early-career 1–3 yrs decks/writing for investment IR + marketing. Stretch: finance IR staffing via consultancy.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Catch-window Thu 1 AM ET (posted ~11h). LinkedIn id 4468251944. 41 applicants. Stretch finance IR.",
+    "initials": "BN",
+    "color": "#0369A1"
+  },
+  {
     "id": "dkc-account-coordinator-media-tech",
     "title": "Account Coordinator - Media and Technology Team",
     "company": "DKC",
@@ -7741,7 +7801,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Sep 16 · 7:00 PM ET";
+const LAST_UPDATED = "Updated Thu, Sep 17 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
