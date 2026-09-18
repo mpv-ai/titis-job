@@ -1,6 +1,66 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "wealthspire-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "Wealthspire",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Marketing Coordinator supporting brand, events, Hubspot marketing automation at wealth management firm",
+    "salary": "$51,800-$63,700",
+    "experience": "Degree or background in marketing/communications. Internship experience within wealth management or similar. Hubspot/Marketo familiarity. True entry coordinator.",
+    "posted": "5 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4468832905/",
+    "why": "Wealthspire Marketing Coordinator. NYC true entry coordinator; internship-friendly; Hubspot/events; applyFirst.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 1 AM ET (posted ~5h / r21600). LinkedIn id 4468832905. Be among the first 25. Salary $51,800-$63,700.",
+    "initials": "WS",
+    "color": "#0F766E"
+  },
+  {
+    "id": "berlinrosen-account-coordinator-public-affairs",
+    "title": "Account Coordinator, Public Affairs",
+    "company": "BerlinRosen",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Account Coordinator, Public Affairs at BerlinRosen (Orchestra strategic communications / PR)",
+    "salary": "$66,300",
+    "experience": "Internship or other relevant experience in strategic communications, journalism, politics, or advocacy. Excellent writing and organizational skills. True entry Account Coordinator.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4468862355/",
+    "why": "BerlinRosen Account Coordinator, Public Affairs. NYC PR/comms agency AAE-style seat; internship counts; applyFirst.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 1 AM ET (posted ~3h / r21600). LinkedIn id 4468862355. Be among the first 25. Salary $66,300. LinkedIn employment type Volunteer looks like a data error; posting lists paid salary.",
+    "initials": "BR",
+    "color": "#1D4ED8"
+  },
+  {
+    "id": "cut-and-cropped-marketing-assistant",
+    "title": "Marketing Assistant",
+    "company": "Cut and Cropped",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "NYC · Marketing Assistant / PA & Marketing Intern at Cut and Cropped (fashion retail / jewelry / lifestyle)",
+    "salary": "$18-$20/hour",
+    "experience": "Entry level. Personal Assistant & Marketing Intern hybrid supporting social, ads, Shopify, content. Fashion/retail/jewelry interest a plus. No years required.",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4466663038/",
+    "why": "Cut and Cropped Marketing Assistant. NYC fashion/retail/jewelry social + ads + Shopify; true entry; fashion priority; applyFirst.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 1 AM ET (posted ~1h / r21600). LinkedIn id 4466663038. Be among the first 25. Paid $18-$20/hr. Fashion priority.",
+    "initials": "CC",
+    "color": "#BE185D"
+  },
+  {
     "id": "intercos-america-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Intercos America",
@@ -7421,26 +7481,6 @@ const FALLBACK_JOBS = [
     "color": "#C4A35A"
   },
   {
-    "id": "katten-marketing-engagement",
-    "title": "Marketing and Engagement Coordinator",
-    "company": "Katten Muchin Rosenman LLP",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid",
-    "salary": "$55,000–$60,000 (Chicago range; NY may differ)",
-    "experience": "0–2 years marketing/comms or internships.",
-    "posted": "1 day ago",
-    "applicants": "172",
-    "url": "https://www.linkedin.com/jobs/view/4456133557/",
-    "why": "Explicit 0–2 years. Bios, social, CMS, Canva. Legal marketing.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "NY office option. Same reqs across offices.",
-    "initials": "KA",
-    "color": "#1A365D"
-  },
-  {
     "id": "lease-labau-bd-coordinator",
     "title": "Marketing and Business Development Coordinator",
     "company": "Unnamed NYC law firm via Lease & LaBau",
@@ -8021,7 +8061,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Sep 17 · 7:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Sep 18 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
