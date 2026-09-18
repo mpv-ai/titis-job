@@ -1,6 +1,66 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "jcrew-merchandising-information-coordinator",
+    "title": "Merchandising Information Coordinator",
+    "company": "J.Crew",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Merchandising Information Coordinator supporting product data / systems for J.Crew fashion",
+    "salary": "$20.91–$24.21/hour",
+    "experience": "0–1 years. SAP/Jira/Salesforce a plus. Strong Excel and detail. Fashion priority true coordinator seat.",
+    "posted": "1 hour ago",
+    "applicants": "156 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4458052451/",
+    "why": "J.Crew Merchandising Information Coordinator — NYC fashion priority; 0–1 yrs; classic merch ops coordinator. Stretch vs pure brand marketing.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Fri 7 AM ET (posted ~1h / r21600). LinkedIn id 4458052451. 156 applicants. Fashion stretch.",
+    "initials": "JC",
+    "color": "#111827"
+  },
+  {
+    "id": "jmclaughlin-assistant-planner-accessories-mens",
+    "title": "Assistant Planner, Accessories & Men's Apparel",
+    "company": "J.McLaughlin",
+    "city": "New York",
+    "location": "Brooklyn, NY",
+    "workplace": "Hybrid Brooklyn Greenpoint · Assistant Planner supporting inventory/OTB and promo analysis for Accessories & Men's Apparel",
+    "salary": "$26–$30/hour",
+    "experience": "0–2 years retail planning, merchandising analytics, or inventory planning. Bachelor’s preferred. Fashion apparel priority.",
+    "posted": "1 minute ago",
+    "applicants": "94 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4449758609/",
+    "why": "J.McLaughlin Assistant Planner Accessories & Men's Apparel — Brooklyn hybrid fashion retail; 0–2 yrs; promo/pricing analysis. Stretch vs pure marketing coordinator.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Fri 7 AM ET (posted ~1 min / r21600). LinkedIn id 4449758609. 94 applicants. Fashion stretch.",
+    "initials": "JM",
+    "color": "#1E3A5F"
+  },
+  {
+    "id": "mcb-marketing-events-associate",
+    "title": "Marketing & Events Associate",
+    "company": "Metropolitan Commercial Bank",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "NYC · Marketing & Events Associate (campaigns, calendar, social, promotional materials)",
+    "salary": "$65,000–$85,000",
+    "experience": "Bachelor’s in Marketing/Comms preferred; 2–3 years marketing or admin preferred. Stretch vs pure ~1yr entry.",
+    "posted": "2 hours ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4458632916/",
+    "why": "Metropolitan Commercial Bank Marketing & Events Associate — NYC true marketing title (campaigns/social/events). Stretch 2–3 yrs preferred.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Fri 7 AM ET (posted ~2h / r21600). LinkedIn id 4458632916. 200 applicants. Non-fashion stretch.",
+    "initials": "MB",
+    "color": "#0E4D92"
+  },
+  {
     "id": "wealthspire-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Wealthspire",
@@ -119,26 +179,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu 7 PM ET (posted ~3h / r21600). LinkedIn id 4468802550. 66 applicants. Luxury beauty priority.",
     "initials": "WA",
     "color": "#9D174D"
-  },
-  {
-    "id": "fairplay-marketing-operations-coordinator",
-    "title": "Marketing Operations Coordinator",
-    "company": "FairPlay Sports Media",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote (must live within commuting distance of NYC) · Marketing Operations Coordinator at sports media / BetTech network",
-    "salary": "$50,000-$60,000",
-    "experience": "Associate-level marketing operations coordinator. Campaign setup, partner inventory, reporting. True coordinator title.",
-    "posted": "5 hours ago",
-    "applicants": "45 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466607106/",
-    "why": "FairPlay Sports Media Marketing Operations Coordinator. NYC-commute remote; true marketing ops coordinator seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 7 PM ET (posted ~5h / r21600). LinkedIn id 4466607106. 45 applicants. Remote with NYC commute requirement.",
-    "initials": "FP",
-    "color": "#0369A1"
   },
   {
     "id": "liaison-associate-copywriter",
@@ -2759,26 +2799,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Wed ~1–7 PM ET. LinkedIn id 4463079246. 35 applicants. $63–70k.",
     "initials": "UJ",
     "color": "#880E4F"
-  },
-  {
-    "id": "practical-media-brand-marketing-intern",
-    "title": "Brand Marketing Intern",
-    "company": "Practical Media",
-    "city": "New York",
-    "location": "Great Neck, NY",
-    "workplace": "Great Neck, NY · In-person · ~15–20 hrs/wk · beauty brand influencer/UGC",
-    "salary": "$18–$20/hour",
-    "experience": "Paid part-time internship. Creator outreach + UGC tracking for beauty brand.",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464110352/",
-    "why": "Practical Media Great Neck Brand Marketing Intern — first 25, $18–20/hr paid influencer/UGC seat.",
-    "applyFirst": true,
-    "employment": "Internship",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Wed ~1–7 PM ET. LinkedIn id 4464110352. First 25. Long Island NY metro.",
-    "initials": "PM",
-    "color": "#F9A825"
   },
   {
     "id": "langan-marketing-coordinator",
@@ -7521,26 +7541,6 @@ const FALLBACK_JOBS = [
     "color": "#6B2D5B"
   },
   {
-    "id": "new-settlement-dev-comms-coordinator",
-    "title": "Development and Communications Coordinator",
-    "company": "New Settlement",
-    "city": "New York",
-    "location": "Bronx, NY",
-    "workplace": "Hybrid",
-    "salary": "$52,000–$62,000",
-    "experience": "1–3 years development, fundraising, comms, or nonprofit admin. Internships count.",
-    "posted": "1 day ago",
-    "applicants": "46",
-    "url": "https://www.linkedin.com/jobs/view/4435920235/",
-    "why": "Coordinator. Social, website, donor comms, Canva. Only 46 applicants.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Fundraising + comms, not brand. Salesforce/Classy. Site visits required.",
-    "initials": "NS",
-    "color": "#2B6CB0"
-  },
-  {
     "id": "olaplex-crm",
     "title": "Global CRM Coordinator",
     "company": "OLAPLEX",
@@ -7579,26 +7579,6 @@ const FALLBACK_JOBS = [
     "notes": "Independent program ownership expected. 200+ applicants.",
     "initials": "RA",
     "color": "#4B5563"
-  },
-  {
-    "id": "shiseido-brand-marketing",
-    "title": "Coordinator, Brand Marketing",
-    "company": "Shiseido",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "",
-    "salary": "$33–$45/hr",
-    "experience": "Up to 2 years’ marketing in beauty, retail, or luxury. College plus internship/beauty retail is enough.",
-    "posted": "1 day ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4456043819/",
-    "why": "Explicitly up to 2 years. College plus internship/beauty retail is enough.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Twin-refresh Sun Sep 13 1 AM ET: LinkedIn id 4455781135 → 4456043819. Guest open. $33–45/hr. 200 applicants.",
-    "initials": "SH",
-    "color": "#7B1F3A"
   },
   {
     "id": "hallmark-content-distribution-coordinator",
@@ -8061,7 +8041,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Sep 18 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Sep 18 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
