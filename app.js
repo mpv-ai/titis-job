@@ -61,26 +61,6 @@ const FALLBACK_JOBS = [
     "color": "#DB2777"
   },
   {
-    "id": "forte-pr-assistant",
-    "title": "Public Relations Assistant",
-    "company": "Forte Public Relations",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · PR Assistant at boutique fashion/beauty/lifestyle/hospitality agency",
-    "salary": "",
-    "experience": "Entry; fashion/media/agency internships count. Hands-on media relations, events, gifting.",
-    "posted": "5 hours ago",
-    "applicants": "69 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467885561/",
-    "why": "Forte Public Relations Assistant. Hybrid NYC; fashion/luxury/beauty/lifestyle boutique PR. True entry PR assistant.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~5h / r21600). LinkedIn id 4467885561. 69 applicants. Fashion/beauty PR priority.",
-    "initials": "FP",
-    "color": "#9D174D"
-  },
-  {
     "id": "ao-co-haeze-pr-coordinator",
     "title": "Public Relations Coordinator",
     "company": "AO + co",
@@ -6941,26 +6921,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3A6A"
   },
   {
-    "id": "nfl-club-college-social",
-    "title": "Club and College Social Marketing Associate",
-    "company": "National Football League",
-    "city": "New York",
-    "location": "New York, NY (League Office)",
-    "workplace": "Onsite",
-    "salary": "$30–$35/hr",
-    "experience": "1+ years social/content/editorial. Sports preferred. Internships plus 1 year is enough to try.",
-    "posted": "24 minutes ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4454143347/",
-    "why": "Brand-name social marketing associate posted this afternoon, still first-25.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "External agency staff. Nights/weekends in season. 5–10% travel. No relocation.",
-    "initials": "NF",
-    "color": "#013369"
-  },
-  {
     "id": "fanatics-athlete-partnerships-associate",
     "title": "Associate, Athlete Partnerships - Signings",
     "company": "Fanatics",
@@ -7299,26 +7259,6 @@ const FALLBACK_JOBS = [
     "notes": "Lifestyle team. Up to 4 weeks work-from-anywhere in the US. Competitive (162 applicants).",
     "initials": "HU",
     "color": "#1B365D"
-  },
-  {
-    "id": "instylla-events-coordinator",
-    "title": "Marketing Events Coordinator",
-    "company": "Instylla",
-    "city": "Boston",
-    "location": "Bedford, MA",
-    "workplace": "Onsite",
-    "salary": "",
-    "experience": "1–3 years marketing. Events/tradeshow preferred.",
-    "posted": "5 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4456010206/",
-    "why": "Early-career event marketing at a Bedford medical-device company. Posted midday, first-25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Up to ~40% domestic travel. Evenings/weekends around conferences.",
-    "initials": "IN",
-    "color": "#0077B6"
   },
   {
     "id": "thg-dermstore-paid-search",
@@ -8121,7 +8061,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Sep 19 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Sat, Sep 19 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
