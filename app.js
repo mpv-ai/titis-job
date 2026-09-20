@@ -381,26 +381,6 @@ const FALLBACK_JOBS = [
     "color": "#1D4ED8"
   },
   {
-    "id": "cut-and-cropped-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "Cut and Cropped",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC · Marketing Assistant / PA & Marketing Intern at Cut and Cropped (fashion retail / jewelry / lifestyle)",
-    "salary": "$18-$20/hour",
-    "experience": "Entry level. Personal Assistant & Marketing Intern hybrid supporting social, ads, Shopify, content. Fashion/retail/jewelry interest a plus. No years required.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466663038/",
-    "why": "Cut and Cropped Marketing Assistant. NYC fashion/retail/jewelry social + ads + Shopify; true entry; fashion priority; applyFirst.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1 AM ET (posted ~1h / r21600). LinkedIn id 4466663038. Be among the first 25. Paid $18-$20/hr. Fashion priority.",
-    "initials": "CC",
-    "color": "#BE185D"
-  },
-  {
     "id": "intercos-america-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Intercos America",
@@ -6501,26 +6481,6 @@ const FALLBACK_JOBS = [
     "color": "#A51C30"
   },
   {
-    "id": "twentyfourseven-fashion-marketing-coordinator",
-    "title": "Marketing Coordinator (Fashion)",
-    "company": "24 Seven Talent (unnamed fashion / consumer brands)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Onsite · 5x/week NYC",
-    "salary": "$65,000–$70,000",
-    "experience": "Entry level. Social/content/influencer/marketing coordination preferred; fashion/lifestyle interest. No hard years listed.",
-    "posted": "4 hours ago",
-    "applicants": "55",
-    "url": "https://www.linkedin.com/jobs/view/4459354707/",
-    "why": "Fashion marketing coordinator via 24 Seven: social, content, influencer, ecommerce support. Entry tagged, solid pay.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Staffing placement; client unnamed. Separate from beauty ops contract already in feed.",
-    "initials": "24",
-    "color": "#C7185A"
-  },
-  {
     "id": "karla-otto-account-assistant-lifestyle",
     "title": "Account Assistant, Lifestyle",
     "company": "KARLA OTTO",
@@ -8001,7 +7961,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 20 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Sep 20 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
