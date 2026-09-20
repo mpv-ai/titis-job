@@ -3106,17 +3106,17 @@ const FALLBACK_JOBS = [
     "company": "Omnicom Media",
     "city": "New York",
     "location": "New York, NY",
-    "workplace": "New York, NY · Contingent · media inventory / Activation Ops · 3+ days office",
-    "salary": "$50/hour",
+    "workplace": "New York, NY · Full-time · Activation Ops · 3+ days office",
+    "salary": "$50,000",
     "experience": "Entry contingent Activation Ops. Excel (VLOOKUP/SUMIFS/pivots); MediaOcean a plus.",
-    "posted": "16 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4463888611/",
-    "why": "Omnicom Media NYC Assistant Analyst, Activation Operations — contingent media-ops seat, first 25, $50/hr. True entry activation inventory tracking.",
-    "applyFirst": true,
-    "employment": "Contract",
+    "posted": "1 hour ago",
+    "applicants": "143 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4450911777/",
+    "why": "Omnicom Media NYC Assistant Analyst, Activation Operations - full-time media-ops seat, $50k, Prisma/MBOX inventory. Twin-refreshed LinkedIn id; 143 applicants so not apply-first.",
+    "applyFirst": false,
+    "employment": "Full-time",
     "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Wed ~7 AM–1 PM ET. LinkedIn id 4463888611. First 25. Contingent $50/hr. Distinct from OMnet / Social Investment / Ptarmigan associates already in feed.",
+    "notes": "Guest page open. Posted in ~6h window Wed ~7 AM-1 PM ET. LinkedIn id 4463888611. First 25. Contingent $50/hr. Distinct from OMnet / Social Investment / Ptarmigan associates already in feed. Twin-refresh Sun 7 AM ET: LinkedIn id 4463888611 -> 4450911777 (same Omnicom Assistant Analyst, Activation Operations; now full-time $50k, 143 applicants).",
     "initials": "OM",
     "color": "#0D47A1"
   },
@@ -6321,26 +6321,6 @@ const FALLBACK_JOBS = [
     "color": "#CC0000"
   },
   {
-    "id": "scholastic-cross-channel-assistant",
-    "title": "Temp: Cross Channel Assistant",
-    "company": "Scholastic",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid · SoHo min 2 days/week",
-    "salary": "$28.67/hr",
-    "experience": "Entry. Admin support to Director of Cross Channel Marketing; advanced Sheets/Excel. No years required.",
-    "posted": "1 hour ago",
-    "applicants": "66",
-    "url": "https://www.linkedin.com/jobs/view/4449658837/",
-    "why": "Paid temp supporting Scholastic Cross Channel Marketing (Trade ↔ School): brand/marketing approvals, seasonal grids.",
-    "applyFirst": false,
-    "employment": "Temporary",
-    "stretch": true,
-    "notes": "Not a re-add of scholastic-trade-assistant. Stretch: temp/part-time and more ops/admin than campaign creative.",
-    "initials": "SC",
-    "color": "#C0392B"
-  },
-  {
     "id": "wme-comedy-tour-marketing-coordinator",
     "title": "Coordinator, Comedy Tour Marketing",
     "company": "WME Group",
@@ -8021,7 +8001,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 20 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Sep 20 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
