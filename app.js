@@ -1941,26 +1941,6 @@ const FALLBACK_JOBS = [
     "color": "#E21B23"
   },
   {
-    "id": "macys-promo-events-assistant-home",
-    "title": "Promo and Events Assistant - Home",
-    "company": "Macy's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site / hybrid TBD",
-    "salary": null,
-    "experience": "Entry/assistant site promo & events with Marketing/Creative partners (Home category).",
-    "posted": "5 days ago",
-    "applicants": "200+",
-    "url": "https://www.linkedin.com/jobs/view/4455993367/",
-    "why": "Macys.com promo/events assistant. Fashion-retail digital marketing execution (Home division).",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Home category; still Macy's fashion-retail marketing org.",
-    "initials": "MC",
-    "color": "#E21B23"
-  },
-  {
     "id": "steve-madden-wholesale-product-coordinator",
     "title": "Wholesale Product Coordinator",
     "company": "Steve Madden",
@@ -7961,7 +7941,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 20 · 1:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Sep 20 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
