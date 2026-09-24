@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "simon-and-schuster-books-publicity-assistant-simon-schuster-flagship",
+    "title": "Publicity Assistant, Simon & Schuster Flagship",
+    "company": "Simon and Schuster Books",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site",
+    "salary": "",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "Today",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471451481/",
+    "why": "Entry-level Publicity Assistant at Simon & Schuster Flagship imprint in New York. Supports two Publicity directors on book publicity (nonfiction focus). Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu 7:00 AM ET (24 minutes ago / tpr=r21600). LinkedIn id 4471451481. Be among the first 25 applicants.",
+    "initials": "SS",
+    "color": "#BE185D"
+  },
+  {
     "id": "the-hartz-mountain-corporation-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "The Hartz Mountain Corporation",
@@ -8781,7 +8801,7 @@ const FALLBACK_JOBS = [
     "color": "#6C3483"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Sep 24 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Sep 24 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
