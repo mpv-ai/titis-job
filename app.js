@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "royal-apparel-digital-marketing-ecommerce-coordinator",
+    "title": "Digital Marketing & Ecommerce Coordinator",
+    "company": "Royal Apparel",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Digital Marketing & Ecommerce Coordinator at Royal Apparel",
+    "salary": "",
+    "experience": "2-5 Years) in digital marketing, ecommerce, merchandising, or a related role Fami",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471865733/",
+    "why": "Royal Apparel Digital Marketing & Ecommerce Coordinator. New York, NY, Hybrid. Fashion/beauty-adjacent. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 7:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4471865733. Be among the first 25 applicants.",
+    "initials": "RA",
+    "color": "#BE185D"
+  },
+  {
+    "id": "bof-careers-ralph-lauren-brand-marketing-associate-wholesale-luxury",
+    "title": "Ralph Lauren Brand Marketing Associate, Wholesale Luxury",
+    "company": "BoF Careers",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Ralph Lauren Brand Marketing Associate, Wholesale Luxury at BoF Careers",
+    "salary": "",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4470096109/",
+    "why": "BoF Careers Ralph Lauren Brand Marketing Associate, Wholesale Luxury. New York, NY, On-site. Fashion/beauty-adjacent. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 7:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4470096109. Be among the first 25 applicants.",
+    "initials": "BC",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "harlem-children-s-zone-associate-design-and-marketing",
+    "title": "Associate, Design and Marketing",
+    "company": "Harlem Children's Zone",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Associate, Design and Marketing at Harlem Children's Zone",
+    "salary": "$60,000",
+    "experience": "2-3 years' experience using design software and applications, especially Canva and Adobe",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4461916851/",
+    "why": "Harlem Children's Zone Associate, Design and Marketing. New York, NY, On-site. $60,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 7:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4461916851. Be among the first 25 applicants. Pay signal: $60,000.",
+    "initials": "HC",
+    "color": "#2563EB"
+  },
+  {
+    "id": "orchestra-account-coordinator-real-estate",
+    "title": "Account Coordinator, Real Estate",
+    "company": "Orchestra",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Account Coordinator, Real Estate at Orchestra",
+    "salary": "$56,000",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "26 minutes ago",
+    "applicants": "185 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4452752166/",
+    "why": "Orchestra Account Coordinator, Real Estate. New York, NY, Hybrid. $56,000.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri 7:00 AM ET (26 minutes ago / tpr=r21600). LinkedIn id 4452752166. 185 applicants. Pay signal: $56,000.",
+    "initials": "OR",
+    "color": "#059669"
+  },
+  {
     "id": "revops-report-marketing-operations-coordinator",
     "title": "Marketing Operations Coordinator",
     "company": "RevOps Report",
@@ -4109,12 +4189,12 @@ const FALLBACK_JOBS = [
     "experience": "Entry level. Client Services ads campaign support; SFDC/Tableau/Prisma; 1+ years digital media / AM preferred on prior listing.",
     "posted": "2 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4380150066/",
+    "url": "https://www.linkedin.com/jobs/view/4462883773/",
     "why": "Roku ads Account Coordinator - hybrid NYC $65-72k, first 25 (twin-refresh).",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Twin-refresh LinkedIn id 4462883773 → 4380150066. Guest page open. First 25. Salary now $65-72k. Posted ~2h in Sun ~1 AM-7 AM ET window. Distinct from roku-ad-marketing-coordinator / roku-content-specialist-associate.",
+    "notes": "Twin-refresh LinkedIn id 4462883773 → 4380150066. Guest page open. First 25. Salary now $65-72k. Posted ~2h in Sun ~1 AM-7 AM ET window. Distinct from roku-ad-marketing-coordinator / roku-content-specialist-associate. Twin refresh Fri 7:00 AM ET: url updated 4380150066 -> 4462883773.",
     "initials": "RO",
     "color": "#0033A0"
   },
@@ -8219,26 +8299,6 @@ const FALLBACK_JOBS = [
     "color": "#6C2BD9"
   },
   {
-    "id": "steve-madden-brand-associate",
-    "title": "Brand Associate",
-    "company": "Steve Madden",
-    "city": "New York",
-    "location": "New York, NY (LIC office)",
-    "workplace": "Onsite",
-    "salary": "$60,000-$65,000",
-    "experience": "Bachelor’s or equivalent. No years hard req. Org/tracking/creative output.",
-    "posted": "3 minutes ago",
-    "applicants": "Over 200",
-    "url": "https://www.linkedin.com/jobs/view/4448328098/",
-    "why": "Entry wholesale footwear brand associate: decks, timelines, product/marketing/partnerships execution. Fresh listing this morning.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Includes sample tracking and mannequin execution. Applicant count already high despite fresh post (possible re-list).",
-    "initials": "SM",
-    "color": "#111111"
-  },
-  {
     "id": "mccann-gotham-aae",
     "title": "Assistant Account Executive",
     "company": "McCann / Gotham",
@@ -9279,7 +9339,7 @@ const FALLBACK_JOBS = [
     "color": "#17A589"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Sep 25 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Sep 25 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
