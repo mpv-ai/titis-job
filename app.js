@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "ff-inc-marketing-assistant",
+    "title": "Marketing Assistant",
+    "company": "FF Inc",
+    "city": "Hoboken",
+    "location": "Hoboken, NJ",
+    "workplace": "On-site Hoboken · Marketing Assistant at FF Inc",
+    "salary": "$50,000",
+    "experience": "Entry level",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471062631/",
+    "why": "FF Inc Marketing Assistant. Hoboken, NJ, On-site. $50,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4471062631. Be among the first 25 applicants. Pay signal: $50,000.",
+    "initials": "FF",
+    "color": "#BE185D"
+  },
+  {
+    "id": "ff-inc-brand-experience-associate",
+    "title": "Brand Experience Associate",
+    "company": "FF Inc",
+    "city": "Hoboken",
+    "location": "Hoboken, NJ",
+    "workplace": "On-site Hoboken · Brand Experience Associate at FF Inc",
+    "salary": "$50,000",
+    "experience": "0-2+ years of experience (entry level candidates welcomed to apply",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471060736/",
+    "why": "FF Inc Brand Experience Associate. Hoboken, NJ, On-site. $50,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4471060736. Be among the first 25 applicants. Pay signal: $50,000.",
+    "initials": "FF",
+    "color": "#7C3AED"
+  },
+  {
     "id": "drive-marketing-assistant",
     "title": "Marketing Assistant",
     "company": "Drive",
@@ -7978,26 +8018,6 @@ const FALLBACK_JOBS = [
     "color": "#6B2D5C"
   },
   {
-    "id": "workgenius-junior-marketing-consultant-beauty",
-    "title": "Junior Marketing Consultant",
-    "company": "WorkGenius (beauty innovation client)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Contract · 6 months · beauty innovation",
-    "salary": "$24.82/hr",
-    "experience": "Entry. 1+ years marketing/product/innovation; beauty preferred. Bachelor’s.",
-    "posted": "1 hour ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4458919927/",
-    "why": "Beauty innovation junior marketing consultant, First 25, 6-month contract NYC.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Apply first: 1 hour ago, First 25. Trend analysis, concepts, AI tools. Same beauty-innovation brief as Aquent AQ-15195 Clark NJ - keep NYC posting only.",
-    "initials": "WG",
-    "color": "#0B6E4F"
-  },
-  {
     "id": "sony-marketing-admin-coordinator",
     "title": "Marketing and Administrative Coordinator",
     "company": "Sony Electronics",
@@ -8036,26 +8056,6 @@ const FALLBACK_JOBS = [
     "notes": "Stretch: 2-3 years. LinkedIn 56 minutes ago (42 applicants).",
     "initials": "NL",
     "color": "#1A1A1A"
-  },
-  {
-    "id": "digital-remedy-solutions-marketing-associate",
-    "title": "Solutions Marketing Associate",
-    "company": "Digital Remedy",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY",
-    "salary": "$28.85-$33.65/hr",
-    "experience": "Stretch. 1-3 years sales support, marketing, research, enablement, or coordinator/associate.",
-    "posted": "4 hours ago",
-    "applicants": "25",
-    "url": "https://www.linkedin.com/jobs/view/4459895013/",
-    "why": "Ad-tech solutions marketing / sales enablement. First 25 applicants. $29-34/hr.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Stretch: more sales-enablement decks and prospecting than brand campaigns.",
-    "initials": "DR",
-    "color": "#0B3D5C"
   },
   {
     "id": "fti-marcomms-associate",
@@ -9398,7 +9398,7 @@ const FALLBACK_JOBS = [
     "color": "#17A589"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Sep 26 · 1:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Sep 26 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
