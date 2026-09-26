@@ -1668,12 +1668,12 @@ const FALLBACK_JOBS = [
     "experience": "Entry-level / ~1 year preferred.",
     "posted": "4 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470679872/",
+    "url": "https://www.linkedin.com/jobs/view/4472251819/",
     "why": "Referment Internal Communications Associate (0B0975D). New York, NY. $135,000. Early applicant window.",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470679872. Be among the first 25 applicants. Pay signal: $135,000.",
+    "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470679872. Be among the first 25 applicants. Pay signal: $135,000. Twin refresh Sat 7:00 AM ET: url updated 4470679872 -> 4472251819.",
     "initials": "RE",
     "color": "#2563EB"
   },
@@ -1688,12 +1688,12 @@ const FALLBACK_JOBS = [
     "experience": "Entry-level / ~1 year preferred.",
     "posted": "4 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470683746/",
+    "url": "https://www.linkedin.com/jobs/view/4472253733/",
     "why": "Referment Thought Leadership Associate - External Communications (EDECD50). New York, NY. $135,000. Early applicant window.",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470683746. Be among the first 25 applicants. Pay signal: $135,000.",
+    "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470683746. Be among the first 25 applicants. Pay signal: $135,000. Twin refresh Sat 7:00 AM ET: url updated 4470683746 -> 4472253733.",
     "initials": "RE",
     "color": "#059669"
   },
@@ -8518,26 +8518,6 @@ const FALLBACK_JOBS = [
     "color": "#FF6B00"
   },
   {
-    "id": "canopy-retail-account-coordinator",
-    "title": "Retail Account Coordinator",
-    "company": "Canopy",
-    "city": "New York",
-    "location": "New York City Metropolitan Area (or Austin)",
-    "workplace": "Remote or hybrid NYC",
-    "salary": "$55,000-$75,000 + bonus/equity",
-    "experience": "2+ years account/sales coordinator. Mass/specialty retail a plus.",
-    "posted": "3 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4457178135/",
-    "why": "Coordinator. Retail product pages, promo calendar, pitch decks at a home-wellness brand.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Reports to Sales. 2+ year bar. Brooklyn office option.",
-    "initials": "CN",
-    "color": "#059669"
-  },
-  {
     "id": "corcoran-nyc-field-marketing",
     "title": "Marketing Coordinator - NYC Field Marketing",
     "company": "Corcoran",
@@ -9358,7 +9338,7 @@ const FALLBACK_JOBS = [
     "color": "#17A589"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Sep 26 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Sat, Sep 26 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
