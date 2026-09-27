@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "ralph-lauren-brand-merchandising-associate-luxury-accessories",
+    "title": "Brand Merchandising Associate, Luxury Accessories",
+    "company": "Ralph Lauren",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Brand Merchandising Associate, Luxury Accessories at Ralph Lauren",
+    "salary": "$62,000 - $95,935",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "56 minutes ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4432725061/",
+    "why": "Ralph Lauren Brand Merchandising Associate, Luxury Accessories. New York, NY. $62,000 - $95,935. Fashion/beauty-adjacent.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sun 1:00 PM ET (56 minutes ago / tpr=r21600). LinkedIn id 4432725061. 200 applicants. Pay signal: $62,000 - $95,935.",
+    "initials": "RL",
+    "color": "#BE185D"
+  },
+  {
     "id": "ff-inc-marketing-assistant",
     "title": "Marketing Assistant",
     "company": "FF Inc",
@@ -7398,26 +7418,6 @@ const FALLBACK_JOBS = [
     "color": "#1B365D"
   },
   {
-    "id": "brooklinen-freelance-community-social",
-    "title": "Freelance Community & Social Coordinator (Part-Time)",
-    "company": "Brooklinen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · part-time freelance organic social / community",
-    "salary": "$32/hr",
-    "experience": "1-2 years supporting social media or community. Stretch freelance/PT.",
-    "posted": "Today",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4452020798/",
-    "why": "Part-time freelance community & social coordinator. 1-2 years. Different from existing Brooklinen growth associate.",
-    "applyFirst": false,
-    "employment": "Part-time / Freelance",
-    "stretch": true,
-    "notes": "Guest over 200 applicants. $32/hr. Not a twin of brooklinen-growth-marketing-associate.",
-    "initials": "BF",
-    "color": "#0E7490"
-  },
-  {
     "id": "hallmark-ad-sales-planner",
     "title": "Ad Sales Planner",
     "company": "Hallmark Media",
@@ -7718,26 +7718,6 @@ const FALLBACK_JOBS = [
     "color": "#9A3412"
   },
   {
-    "id": "brooklinen-growth-marketing-associate",
-    "title": "Growth Marketing Associate",
-    "company": "Brooklinen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid · paid social / CTV / display",
-    "salary": "$55,000-$70,000",
-    "experience": "Entry / 1-2 years growth, brand, or performance marketing. DTC eComm a plus.",
-    "posted": "1 hour ago",
-    "applicants": "200+",
-    "url": "https://www.linkedin.com/jobs/view/4452016804/",
-    "why": "Brooklinen growth marketing associate. $55-70k plus equity. Paid social, CTV, display.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "200+ applicants. Reports to Growth Marketing Manager. Hybrid two core in-office days Tue-Thu.",
-    "initials": "BL",
-    "color": "#243B55"
-  },
-  {
     "id": "touchcare-growth-marketing-associate",
     "title": "Growth Marketing Associate",
     "company": "TouchCare",
@@ -7776,26 +7756,6 @@ const FALLBACK_JOBS = [
     "notes": "113 applicants. Sister role to Omnicom/Mediahub investment associates already on the list.",
     "initials": "OW",
     "color": "#4C1D95"
-  },
-  {
-    "id": "mbooth-account-coordinator-brand",
-    "title": "Account Coordinator, Brand Marketing",
-    "company": "M Booth",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · brand marketing / PR agency",
-    "salary": "",
-    "experience": "True entry. 0-1 years (internships included). Bachelor’s or equivalent.",
-    "posted": "12 minutes ago",
-    "applicants": "Be among the first 25",
-    "url": "https://www.linkedin.com/jobs/view/4460375397/",
-    "why": "True-entry Brand Marketing account coordinator at M Booth. Food/fitness/CPG PR, earned + influencer.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Early applicant window. Integrated PR/comms on consumer brands.",
-    "initials": "MB",
-    "color": "#E31C3D"
   },
   {
     "id": "digitas-associate-planner-video",
@@ -9398,7 +9358,7 @@ const FALLBACK_JOBS = [
     "color": "#17A589"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Sep 27 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Sep 27 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
