@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "cyrus-social-media-creative-content-coordinator",
+    "title": "Social Media & Creative Content Coordinator",
+    "company": "Cyrus",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Social Media & Creative Content Coordinator at Cyrus",
+    "salary": "",
+    "experience": "Entry level",
+    "posted": "50 minutes ago",
+    "applicants": "45 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471517390/",
+    "why": "Cyrus Social Media & Creative Content Coordinator. New York, NY, On-site. Fashion/beauty-adjacent.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon 1:00 PM ET (50 minutes ago / tpr=r21600). LinkedIn id 4471517390. 45 applicants.",
+    "initials": "CY",
+    "color": "#BE185D"
+  },
+  {
+    "id": "toteme-public-relations-assistant",
+    "title": "Public Relations Assistant",
+    "company": "TOTEME",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Public Relations Assistant at TOTEME",
+    "salary": "$50,000",
+    "experience": "entry level role, previous professional experience is not required",
+    "posted": "5 hours ago",
+    "applicants": "178 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4470863592/",
+    "why": "TOTEME Public Relations Assistant. New York, NY. $50,000. Fashion/beauty-adjacent.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon 1:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4470863592. 178 applicants. Pay signal: $50,000.",
+    "initials": "TO",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "movado-group-inc-assistant-account-executive",
+    "title": "Assistant Account Executive",
+    "company": "Movado Group, Inc",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Assistant Account Executive at Movado Group, Inc",
+    "salary": "$60,000",
+    "experience": "1-2 years of professional experience in wholesale, sales coordination, or merchandising.",
+    "posted": "2 hours ago",
+    "applicants": "63 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4453466403/",
+    "why": "Movado Group, Inc Assistant Account Executive. New York, NY. $60,000. Fashion/beauty-adjacent.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon 1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4453466403. 63 applicants. Pay signal: $60,000.",
+    "initials": "MO",
+    "color": "#2563EB"
+  },
+  {
+    "id": "area-23-account-coordinator",
+    "title": "Account Coordinator",
+    "company": "AREA 23",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Account Coordinator at AREA 23",
+    "salary": "$45,000-$60,000",
+    "experience": "1+ year of work experience",
+    "posted": "21 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4471526079/",
+    "why": "AREA 23 Account Coordinator. New York, NY. $45,000-$60,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon 1:00 PM ET (21 minutes ago / tpr=r21600). LinkedIn id 4471526079. Be among the first 25 applicants. Pay signal: $45,000-$60,000.",
+    "initials": "A2",
+    "color": "#059669"
+  },
+  {
     "id": "wolf-badger-brand-partnerships-associate-jr-account-executive-fashion",
     "title": "Brand Partnerships Associate / Jr. Account Executive - Fashion Marketplace",
     "company": "Wolf & Badger",
@@ -139,26 +219,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Sat 1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4472296034. Be among the first 25 applicants. Pay signal: $35.",
     "initials": "RH",
     "color": "#2563EB"
-  },
-  {
-    "id": "aquent-marketing-assistant-coordinator-iii-aq-19512",
-    "title": "Marketing Assistant/Coordinator III [AQ-19512]",
-    "company": "Aquent",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Assistant/Coordinator III [AQ-19512] at Aquent",
-    "salary": "$44",
-    "experience": "3-5 years of experience supporting creative teams in coordination, creative operations, o",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470562327/",
-    "why": "Aquent Marketing Assistant/Coordinator III [AQ-19512]. New York, NY. $44. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat 1:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4470562327. Be among the first 25 applicants. Pay signal: $44.",
-    "initials": "AQ",
-    "color": "#059669"
   },
   {
     "id": "kipling-jansport-eastpak-associate-planner-ecommerce",
@@ -881,26 +941,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "du-berry-social-media-content-coordinator",
-    "title": "Social Media & Content Coordinator",
-    "company": "Du & Berry",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Social Media & Content Coordinator at Du & Berry",
-    "salary": "$30-$50",
-    "experience": "2-4 years of relevant experience in social media, content creation, fashion, lifestyle, o",
-    "posted": "3 hours ago",
-    "applicants": "30 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470024320/",
-    "why": "Du & Berry Social Media & Content Coordinator. New York, NY, On-site. $30-$50.",
-    "applyFirst": false,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470024320. 30 applicants. Pay signal: $30-$50.",
-    "initials": "DB",
-    "color": "#0891B2"
-  },
-  {
     "id": "envogue-international-assistant-account-executive",
     "title": "Assistant Account Executive",
     "company": "EnVogue International",
@@ -1185,27 +1225,6 @@ const FALLBACK_JOBS = [
     "initials": "JP",
     "color": "#0891B2",
     "jid": "4471483913"
-  },
-  {
-    "id": "dexian-social-media-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Dexian",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Social Media Coordinator at Dexian",
-    "salary": "$27",
-    "experience": "1-2 years of experience in media, ad operations, or a related coordination role Str",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469674799/",
-    "why": "Dexian Social Media Coordinator. New York, NY, On-site. $27. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4469674799. Be among the first 25 applicants. Pay signal: $27.",
-    "initials": "DE",
-    "color": "#4F46E5",
-    "jid": "4469674799"
   },
   {
     "id": "shadow-account-coordinator-beauty",
@@ -7738,26 +7757,6 @@ const FALLBACK_JOBS = [
     "color": "#0E7490"
   },
   {
-    "id": "orion-associate-social-investment",
-    "title": "Associate, Investment - Social",
-    "company": "Orion Worldwide",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · social media investment",
-    "salary": "",
-    "experience": "Entry / associate. Excel-heavy social investment support; Prisma a plus. No years required.",
-    "posted": "2 hours ago",
-    "applicants": "113",
-    "url": "https://www.linkedin.com/jobs/view/4446774287/",
-    "why": "Orion (IPG) associate social investment. Tracks and stewards social media buys.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "113 applicants. Sister role to Omnicom/Mediahub investment associates already on the list.",
-    "initials": "OW",
-    "color": "#4C1D95"
-  },
-  {
     "id": "digitas-associate-planner-video",
     "title": "Associate Planner, Video Investment",
     "company": "Digitas North America",
@@ -7996,26 +7995,6 @@ const FALLBACK_JOBS = [
     "notes": "29 applicants. Marketing calendars, sales materials, social initiatives, admin.",
     "initials": "SE",
     "color": "#000000"
-  },
-  {
-    "id": "nili-lotan-social-media-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Nili Lotan New York",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · luxury fashion",
-    "salary": "$68,000-$75,000",
-    "experience": "Stretch. 2-3 years social/digital/content; fashion, luxury, beauty, lifestyle, or editorial a plus.",
-    "posted": "56 minutes ago",
-    "applicants": "42",
-    "url": "https://www.linkedin.com/jobs/view/4458673877/",
-    "why": "Fashion social coordinator at Nili Lotan, $68-75k. IG/TikTok/Pinterest, founder-voice storytelling.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Stretch: 2-3 years. LinkedIn 56 minutes ago (42 applicants).",
-    "initials": "NL",
-    "color": "#1A1A1A"
   },
   {
     "id": "fti-marcomms-associate",
@@ -9338,7 +9317,7 @@ const FALLBACK_JOBS = [
     "color": "#17A589"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Sep 28 · 7:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Sep 28 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
