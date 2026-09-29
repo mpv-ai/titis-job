@@ -41,26 +41,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "ao-co-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "AO + co",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Marketing Coordinator at AO + co",
-    "salary": "$25",
-    "experience": "Entry level",
-    "posted": "5 hours ago",
-    "applicants": "96 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472782054/",
-    "why": "AO + co Marketing Coordinator. New York, NY, On-site. $25. Beauty/creator marketing and PR launch support.",
-    "applyFirst": false,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7:00 PM ET (5 hours ago / live guest). LinkedIn id 4472782054. 96 applicants. Pay signal: $25.",
-    "initials": "AO",
-    "color": "#2563EB"
-  },
-  {
     "id": "day-one-agency-associate-strategist-integrated-communications",
     "title": "Associate Strategist, Integrated Communications",
     "company": "Day One Agency",
@@ -439,26 +419,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470393619. 45 applicants. Pay signal: $60,000.",
     "initials": "MS",
     "color": "#BE185D"
-  },
-  {
-    "id": "pacagen-product-marketing-associate",
-    "title": "Product Marketing Associate",
-    "company": "Pacagen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Product Marketing Associate at Pacagen",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470716437/",
-    "why": "Pacagen Product Marketing Associate. New York, NY. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470716437. Be among the first 25 applicants.",
-    "initials": "PA",
-    "color": "#7C3AED"
   },
   {
     "id": "msl-global-assistant-account-executive-consumer",
@@ -2297,26 +2257,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "method-communications-public-relations-associate",
-    "title": "Public Relations Associate",
-    "company": "Method Communications",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Public Relations Associate at Method Communications",
-    "salary": "$50,000 - $60,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "2 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470486262/",
-    "why": "Method Communications Public Relations Associate. New York, NY, Hybrid. $50,000 - $60,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (2 minutes ago / tpr=r21600). LinkedIn id 4470486262. Be among the first 25 applicants. Pay signal: $50,000 - $60,000.",
-    "initials": "MC",
-    "color": "#D97706"
-  },
-  {
     "id": "hearst-project-coordinator-public-affairs-communications",
     "title": "Project Coordinator, Public Affairs & Communications",
     "company": "Hearst",
@@ -2495,26 +2435,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 1 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4461558831. 49 applicants. Pay signal: $18.",
     "initials": "LN",
     "color": "#7C3AED"
-  },
-  {
-    "id": "method-communications-public-relations-associate-0058",
-    "title": "Public Relations Associate",
-    "company": "Method Communications",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Public Relations Associate at Method Communications",
-    "salary": "$50,000 - $60,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "2 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470490058/",
-    "why": "Method Communications Public Relations Associate. Boston, MA, Hybrid. $50,000 - $60,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (2 minutes ago / tpr=r21600). LinkedIn id 4470490058. Be among the first 25 applicants. Pay signal: $50,000 - $60,000.",
-    "initials": "MC",
-    "color": "#2563EB"
   },
   {
     "id": "recovry-physical-therapy-social-media-administrative-assistant-part-ti",
@@ -9337,7 +9257,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Sep 28 · 7:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Sep 29 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
