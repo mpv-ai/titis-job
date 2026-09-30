@@ -2037,26 +2037,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "ecogpt-marketing-associate",
-    "title": "Marketing Associate",
-    "company": "EcoGPT",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Marketing Associate at EcoGPT",
-    "salary": "$120,000",
-    "experience": "Entry level",
-    "posted": "49 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470709963/",
-    "why": "EcoGPT Marketing Associate. New York, NY, On-site. $120,000.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4470974813. 125 applicants. Pay signal: $120,000. Twin refresh Fri 7:00 PM ET: url updated 4470974813 -> 4470709963.",
-    "initials": "EC",
-    "color": "#D97706"
-  },
-  {
     "id": "hearts-united-media-planner-new-york",
     "title": "Media Planner (New York)",
     "company": "Hearts United",
@@ -9497,7 +9477,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Sep 30 · 1:00 AM ET";
+const LAST_UPDATED = "Updated Wed, Sep 30 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
