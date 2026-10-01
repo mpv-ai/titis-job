@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "junbi-matcha-tea-brookline-part-time-social-media-assistant-instagram",
+    "title": "Part-Time Social Media Assistant (Instagram)",
+    "company": "Junbi Matcha & Tea - Brookline",
+    "city": "Brookline",
+    "location": "Brookline, MA",
+    "workplace": "On-site",
+    "salary": "$15/hr",
+    "experience": "Entry level",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4472383914/",
+    "why": "Part-time Instagram social assistant for a Brookline matcha shop. Fresh entry content role.",
+    "applyFirst": true,
+    "employment": "Part-time",
+    "stretch": false,
+    "notes": "",
+    "initials": "JM",
+    "color": "#BE185D"
+  },
+  {
+    "id": "sbh-fashion-creative-coordinator",
+    "title": "Creative Coordinator",
+    "company": "SBH Fashion",
+    "city": "Brooklyn",
+    "location": "Brooklyn, NY",
+    "workplace": "On-site",
+    "salary": "$60,000-$75,000",
+    "experience": "Entry level",
+    "posted": "5 hours ago",
+    "applicants": "46 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4473984155/",
+    "why": "Fashion brand creative coordinator supporting campaigns, approvals, and brand assets in Brooklyn.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "",
+    "initials": "SF",
+    "color": "#7C3AED"
+  },
+  {
     "id": "baccarat-inc-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Baccarat, Inc.",
@@ -2627,12 +2667,12 @@ const FALLBACK_JOBS = [
     "experience": "Entry-level / ~1 year preferred.",
     "posted": "35 minutes ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470672771/",
+    "url": "https://www.linkedin.com/jobs/view/4474120365/",
     "why": "BioSpace Leadership Enablement and Communications Coordinator. Cambridge, MA. Early applicant window.",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (35 minutes ago / tpr=r21600). LinkedIn id 4470672771. Be among the first 25 applicants.",
+    "notes": "Guest page open. Primary window Tue 7 PM ET (35 minutes ago / tpr=r21600). LinkedIn id 4470672771. Be among the first 25 applicants. Twin refresh Thu ~1:00 AM ET: url updated 4470672771 -> 4474120365.",
     "initials": "BI",
     "color": "#D97706"
   },
@@ -9577,7 +9617,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Sep 30 · ~9:30 PM ET";
+const LAST_UPDATED = "Updated Thu, Oct 1 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
