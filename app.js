@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "cond-nast-associate-producer-revenue-marketing",
+    "title": "Associate Producer, Revenue Marketing",
+    "company": "Condé Nast",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Associate Producer, Revenue Marketing at Condé Nast",
+    "salary": "$65,000-$77,000",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "5 hours ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4446968823/",
+    "why": "Condé Nast Associate Producer, Revenue Marketing. New York, NY, On-site. $65,000-$77,000.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~7:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4446968823. 200 applicants. Pay signal: $65,000-$77,000.",
+    "initials": "CN",
+    "color": "#BE185D"
+  },
+  {
     "id": "brilliant-infotech-inc-assistant-account-executive-public-relations",
     "title": "Assistant Account Executive, Public Relations",
     "company": "Brilliant Infotech Inc.",
@@ -8222,26 +8242,6 @@ const FALLBACK_JOBS = [
     "color": "#1565C0"
   },
   {
-    "id": "amsive-account-coordinator-cx",
-    "title": "Account Coordinator, Customer Experience",
-    "company": "Amsive",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "",
-    "salary": "",
-    "experience": "0-2 years in coordination-focused role",
-    "posted": "3 hours ago",
-    "applicants": "37 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4463111822/",
-    "why": "Performance marketing agency Account Coordinator CX track; LinkedIn Entry level; 0-2 years; NYC.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "37 applicants. Guest page open. Posted in ~1 PM-9 PM ET window Thu Sep 3 (12h/24h catch). LinkedIn id 4463111822.",
-    "initials": "AM",
-    "color": "#5C2D91"
-  },
-  {
     "id": "morning-brew-associate-gtm-strategy",
     "title": "Associate, GTM Strategy",
     "company": "Morning Brew Inc.",
@@ -8260,26 +8260,6 @@ const FALLBACK_JOBS = [
     "notes": "Remote-friendly but team NYC-based. Guest page open. Posted in ~1 PM-9 PM ET window Thu Sep 3 (12h/24h catch). LinkedIn id 4461943144.",
     "initials": "MB",
     "color": "#FF5C35"
-  },
-  {
-    "id": "makeup-by-mario-intl-pr-influencer-coordinator",
-    "title": "International PR & Influencer Marketing Coordinator",
-    "company": "MAKEUP BY MARIO",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "Hybrid",
-    "salary": "",
-    "experience": "Entry level (supports Senior Manager, Influencer & Communications)",
-    "posted": "2 hours ago",
-    "applicants": "57 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4463123810/",
-    "why": "Prestige beauty brand PR/influencer coordinator; LinkedIn Entry level; hybrid NYC metro; strong marketing title match.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "57 applicants. Guest page open. Posted in ~1 PM-9 PM ET window Thu Sep 3 (12h/24h catch). LinkedIn id 4463123810.",
-    "initials": "MB",
-    "color": "#F15A29"
   },
   {
     "id": "jenny-yoo-part-time-marketing-assistant",
@@ -10442,7 +10422,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 3 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Oct 3 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
