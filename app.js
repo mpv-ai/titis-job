@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "horizon-media-account-coordinator-hs-e",
+    "title": "Account Coordinator, HS&E",
+    "company": "Horizon Media",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Account Coordinator, HS&E at Horizon Media",
+    "salary": "$40,000",
+    "experience": "Entry level",
+    "posted": "5 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4473190590/",
+    "why": "Horizon Media Account Coordinator, HS&E. New York, NY. $40,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4473190590. Be among the first 25 applicants. Pay signal: $40,000.",
+    "initials": "HM",
+    "color": "#BE185D"
+  },
+  {
+    "id": "macy-s-site-merchandising-associate-ready-to-wear-innerwear-sleepwear",
+    "title": "Site Merchandising Associate - Ready to Wear Innerwear & Sleepwear",
+    "company": "Macy's",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Site Merchandising Associate - Ready to Wear Innerwear & Sleepwear at Macy's",
+    "salary": "$81,840",
+    "experience": "3-5 years direct experience Strong analytical skills, with ability to draw insigh",
+    "posted": "4 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4475055851/",
+    "why": "Macy's Site Merchandising Associate - Ready to Wear Innerwear & Sleepwear. New York, NY, On-site. $81,840. Fashion/beauty-adjacent. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4475055851. Be among the first 25 applicants. Pay signal: $81,840.",
+    "initials": "MS",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "west-elm-assistant-ecommerce-producer-west-elm",
+    "title": "Assistant eCommerce Producer - West Elm",
+    "company": "West Elm",
+    "city": "Brooklyn",
+    "location": "Brooklyn, NY",
+    "workplace": "On-site Brooklyn · Assistant eCommerce Producer - West Elm at West Elm",
+    "salary": "$70,000-$85,000",
+    "experience": "1-2 years experience with content management systems (CMS) Proficiency in MS E",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4475082010/",
+    "why": "West Elm Assistant eCommerce Producer - West Elm. Brooklyn, NY, On-site. $70,000-$85,000. Fashion/beauty-adjacent. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4475082010. Be among the first 25 applicants. Pay signal: $70,000-$85,000.",
+    "initials": "WE",
+    "color": "#2563EB"
+  },
+  {
+    "id": "orchestra-account-coordinator-arts-culture",
+    "title": "Account Coordinator, Arts & Culture",
+    "company": "Orchestra",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Account Coordinator, Arts & Culture at Orchestra",
+    "salary": "$60,000",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "10 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4473387159/",
+    "why": "Orchestra Account Coordinator, Arts & Culture. New York, NY, Hybrid. $60,000. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (10 hours ago / tpr=r43200). LinkedIn id 4473387159. Be among the first 25 applicants. Pay signal: $60,000.",
+    "initials": "OR",
+    "color": "#059669"
+  },
+  {
     "id": "spot-tango-influencer-brand-marketing-associate",
     "title": "Influencer & Brand Marketing Associate",
     "company": "Spot & Tango",
@@ -9,14 +89,14 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Influencer & Brand Marketing Associate at Spot & Tango",
     "salary": "$80,000-$100,000",
     "experience": "Entry-level / ~1 year preferred.",
-    "posted": "3 hours ago",
-    "applicants": "",
-    "url": "https://www.ziprecruiter.com/c/Spot-&-Tango/Job/Influencer-&-Brand-Marketing-Associate/-in-New-York,NY?jid=28e43fd52f8d1c6b",
+    "posted": "10 hours ago",
+    "applicants": "74 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4474795948/",
     "why": "Spot & Tango Influencer & Brand Marketing Associate. New York, NY. $80,000-$100,000. Fashion/beauty-adjacent.",
     "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "ZipRecruiter posting. Window Fri ~7:00 PM ET Oct 2 (3 hours ago). ZR jid 28e43fd52f8d1c6b. Pay signal: $80,000-$100,000.",
+    "notes": "ZipRecruiter posting. Window Fri ~7:00 PM ET Oct 2 (3 hours ago). ZR jid 28e43fd52f8d1c6b. Pay signal: $80,000-$100,000. Twin refresh Sat ~1:00 AM ET: url updated 28e43fd52f8d1c6b -> 4474795948.",
     "initials": "ST",
     "color": "#BE185D",
     "source": "ziprecruiter"
@@ -8162,26 +8242,6 @@ const FALLBACK_JOBS = [
     "color": "#E91E63"
   },
   {
-    "id": "tarte-marketing-development-operations-coordinator",
-    "title": "Marketing Development & Operations Coordinator",
-    "company": "Tarte Cosmetics",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · product launch / assortment marketing ops",
-    "salary": "$66,350-$66,500",
-    "experience": "Entry/early. 1-3 years marketing/promotional experience.",
-    "posted": "5 hours ago",
-    "applicants": "160 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461366055/",
-    "why": "Tarte NYC Marketing Development & Ops Coordinator. New-product launch trackers + cross-functional. 1-3 yrs. ~$66k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. LinkedIn id 4461366055.",
-    "initials": "TR",
-    "color": "#AD1457"
-  },
-  {
     "id": "within-junior-copywriter",
     "title": "Junior Copywriter",
     "company": "WITHIN",
@@ -10162,7 +10222,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 2 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Oct 3 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
