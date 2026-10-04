@@ -8106,26 +8106,6 @@ const FALLBACK_JOBS = [
     "color": "#2E7D32"
   },
   {
-    "id": "pink-rose-office-social-media-assistant",
-    "title": "Office Coordinator + Social Media Assistant",
-    "company": "Pink Rose Clothing",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC wholesale fashion office · front desk + sample ops + social assist",
-    "salary": "$55,000-$65,000",
-    "experience": "Entry-level; 1+ year reception/admin/office; social/content a plus (fashion/retail)",
-    "posted": "3 hours ago",
-    "applicants": "54 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461976421/",
-    "why": "Pink Rose Clothing Office Coordinator + Social Media Assistant. Entry, 1+ yr admin, social assist across fashion brands. $55-65k. 54 apps.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 AM-1 PM ET. LinkedIn id 4461976421. Hybrid admin/social stretch.",
-    "initials": "PK",
-    "color": "#C2185B"
-  },
-  {
     "id": "omd-associate-media-operations",
     "title": "Associate, Media Operations",
     "company": "OMD",
@@ -9266,26 +9246,6 @@ const FALLBACK_JOBS = [
     "color": "#0B6E4F"
   },
   {
-    "id": "fanatics-associate-buyer-paid-social",
-    "title": "Associate Buyer, Paid Social",
-    "company": "Fanatics (Betting & Gaming)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid · NYC office ~3 days/week",
-    "salary": "$80,000-$100,000",
-    "experience": "Entry. 1+ years paid social/digital media/performance marketing/analytics; internships count. Meta/TikTok/Snap/Sheets preferred.",
-    "posted": "1 hour ago",
-    "applicants": "102",
-    "url": "https://www.linkedin.com/jobs/view/4448035314/",
-    "why": "True entry paid-social associate at Fanatics Betting & Gaming. Campaign build/trafficking/QA/pacing/reporting. Internships count.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Not a re-add of the Fanatics athlete-partnerships associate. Greenhouse confirms FT. 102 applicants.",
-    "initials": "FN",
-    "color": "#CC0000"
-  },
-  {
     "id": "cbs-nfl-social-coordinator",
     "title": "Social Media Coordinator, NFL on CBS",
     "company": "CBS Sports (Paramount)",
@@ -10066,26 +10026,6 @@ const FALLBACK_JOBS = [
     "color": "#C4A35A"
   },
   {
-    "id": "ramp-virtual-events-associate",
-    "title": "Virtual Events Associate",
-    "company": "Ramp",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Onsite",
-    "salary": "",
-    "experience": "Demand-gen / field / virtual events at startups. No hard years listed.",
-    "posted": "1 day ago",
-    "applicants": "200+",
-    "url": "https://www.linkedin.com/jobs/view/4430748261/",
-    "why": "Associate title still accepting. Webinars, email/social promo, HubSpot/Salesforce.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Independent program ownership expected. 200+ applicants.",
-    "initials": "RA",
-    "color": "#4B5563"
-  },
-  {
     "id": "winston-taylor-bd-coordinator",
     "title": "Business Development Coordinator",
     "company": "Winston Taylor",
@@ -10406,7 +10346,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 4 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Oct 4 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
