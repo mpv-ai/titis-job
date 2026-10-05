@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "orthodox-union-social-media-coordinator",
+    "title": "Social Media Coordinator",
+    "company": "Orthodox Union",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Manhattan, NY · Full-time",
+    "salary": "$50,000-$65,000",
+    "experience": "1-5 years of social content experience; coordinator level, salary scales with experience.",
+    "posted": "2 hours ago",
+    "applicants": "",
+    "url": "https://www.ziprecruiter.com/c/Orthodox-Union/Job/Social-Media-Coordinator/-in-Manhattan,NY?jid=1e80c236895f6371",
+    "why": "Orthodox Union Social Media Coordinator in Manhattan. $50,000-$65,000. Creates and schedules content across Instagram, TikTok, LinkedIn, and more, with reels, stories, and influencer partnership support. Coordinator level with 1-5 years asked, so a strong internship background can fit. Posted ~2 hours before this refresh.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "ZipRecruiter posting. Window Mon ~7:00 AM ET (2 hours ago). ZR jid 1e80c236895f6371. Pay signal: $50,000-$65,000. Not fashion; kept as a true coordinator-level social role.",
+    "initials": "OU",
+    "color": "#0891B2"
+  },
+  {
     "id": "northeast-electrical-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "NorthEast Electrical",
@@ -10285,7 +10305,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 5 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Oct 5 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
