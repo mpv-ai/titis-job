@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "northeast-electrical-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "NorthEast Electrical",
+    "city": "Brockton",
+    "location": "Brockton, MA",
+    "workplace": "On-site Brockton · Marketing Coordinator at NorthEast Electrical",
+    "salary": "$58,000-$68,000",
+    "experience": "Entry level. Posting calls it an entry-level role; eager to learn, organized, detail-oriented.",
+    "posted": "21 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4473608383/",
+    "why": "NorthEast Electrical (Sonepar group) Marketing Coordinator. Brockton, MA, On-site. $58,000-$68,000. Explicitly entry-level role supporting events, tradeshows, branch merchandising, and day-to-day marketing under the Director of Marketing. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon ~1:00 AM ET (21 minutes ago / tpr=r21600). LinkedIn id 4473608383. Be among the first 25 applicants. Pay signal: $58,000-$68,000. Greater Boston (south shore, ~25 mi from Boston).",
+    "initials": "NE",
+    "color": "#BE185D"
+  },
+  {
+    "id": "retrofete-social-media-intern",
+    "title": "Social Media Intern",
+    "company": "Retrofête",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Social Media Intern at Retrofête",
+    "salary": "$17.50/hr + school credit",
+    "experience": "Internship. Strong Figma and Instagram Stories skills; interest in fashion and social media.",
+    "posted": "5 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4475511793/",
+    "why": "Retrofête Social Media Intern. New York, NY, On-site. $17.50/hr. Paid internship at an NYC fashion brand creating Instagram Story sets, social graphics, and launch content with the social and creative teams. Fashion/beauty-adjacent. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Internship",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon ~1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4475511793. Be among the first 25 applicants. Pay signal: $17.50/hr + school credit. Manual rescue from prefilter skip (Intern title tripped a non-marketing pattern). Also on ZipRecruiter (jid 4bcbe1339fd422ad); one card, LinkedIn link kept.",
+    "initials": "RE",
+    "color": "#7C3AED"
+  },
+  {
     "id": "january-digital-coordinator-paid-media",
     "title": "Coordinator, Paid Media",
     "company": "January Digital",
@@ -7455,12 +7495,12 @@ const FALLBACK_JOBS = [
     "experience": "Bachelor’s in marketing/communications. No years listed. CRM + PowerPoint.",
     "posted": "2 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472455880/",
-    "why": "Coordinator, no years bar, first-25. Events, pitches, social, website at a NYC law firm via recruiter. Fresh LinkedIn repost (old 4464413453 closed).",
+    "url": "https://www.linkedin.com/jobs/view/4475520607/",
+    "why": "Coordinator, no years bar, first-25. Events, pitches, social, website at a NYC law firm via recruiter. Fresh LinkedIn repost (old 4472455880 closed).",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Twin-refresh Mon ~1 AM ET Sep 14: LinkedIn id 4467042034 (prior 4464413453 closed - no longer accepting). JD title Business Development / Events Coordinator. $85-91k + bonus. First 25. Fully in-office Midtown. Twin refresh Tue 1 AM ET: url updated 4467042034 -> 4470237895.",
+    "notes": "Guest page open. Recurring LinkedIn repost (JD title Business Development / Events Coordinator). $85-91k + bonus. First 25. Fully in-office Midtown. Twin refresh Mon ~1:00 AM ET Oct 5: url updated 4472455880 (closed) -> 4475520607.",
     "initials": "AE",
     "color": "#1B365D"
   },
@@ -10245,7 +10285,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 4 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Mon, Oct 5 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
