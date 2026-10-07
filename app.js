@@ -1,6 +1,106 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "shore-fire-media-publicity-assistant-2026",
+    "title": "Publicity Assistant",
+    "company": "Shore Fire Media",
+    "city": "Brooklyn",
+    "location": "Brooklyn, NY",
+    "workplace": "Hybrid Brooklyn · Publicity Assistant at Shore Fire Media (music and culture PR)",
+    "salary": "$46,000-$48,000",
+    "experience": "Entry level. Two PR or communications internships, or about 1 year in a comparable communications role.",
+    "posted": "11 hours ago",
+    "applicants": "129 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4476355110/",
+    "why": "Shore Fire Media re-posted its entry-level Publicity Assistant role in Brooklyn. Music, books, festivals, and culture PR agency. Drafts press releases and pitches, tracks coverage, pitches clients for media, and coordinates interviews and events. Hybrid, $46k-$48k. This is a fresh posting (the earlier Shore Fire card closed on Oct 2), so apply soon.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Re-post of the Shore Fire Publicity Assistant role (old LinkedIn id 4462415925 closed Oct 2). Window Wed ~1:00 AM ET (11 hours ago / tpr=r43200). LinkedIn id 4476355110. 129 applicants. Pay signal: $46,000-$48,000.",
+    "initials": "SF",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "eversource-associate-marketing-specialist-energy-efficiency",
+    "title": "Associate Marketing Specialist, Energy Efficiency",
+    "company": "Eversource Energy",
+    "city": "Westwood",
+    "location": "Westwood, MA",
+    "workplace": "Hybrid Westwood, MA · Associate Marketing Specialist at Eversource Energy",
+    "salary": "$72,950-$81,050",
+    "experience": "0-3 years marketing experience. Bachelor's in marketing, communications, English, or business. Energy efficiency program experience preferred.",
+    "posted": "34 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4475169286/",
+    "why": "Eversource Energy entry-level Associate Marketing Specialist on the Energy Efficiency marketing team. Supports marketing and ad campaigns, coordinates copywriters, designers, and vendors, helps create collateral, press releases, and case studies, and helps run events and sponsorships. Hybrid in Westwood, MA (Boston metro), $72,950-$81,050, about 10% travel. Explicitly open to 0 years of experience and posted minutes ago with under 25 applicants. No visa sponsorship.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~1:00 AM ET (34 minutes ago / tpr=r21600). LinkedIn id 4475169286. Be among the first 25 applicants. Same role also posted under the NSTAR page as 4474445146 (not carded, dedup). Pay signal: $72,950-$81,050.",
+    "initials": "EE",
+    "color": "#2563EB"
+  },
+  {
+    "id": "premier-lacrosse-league-growth-marketing-coordinator",
+    "title": "Growth Marketing Coordinator",
+    "company": "Premier Lacrosse League",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Growth Marketing Coordinator at Premier Lacrosse League",
+    "salary": "$65,000-$75,000",
+    "experience": "1-3 years in performance marketing, paid media, or a related role (agency experience counts).",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4474426374/",
+    "why": "Premier Lacrosse League Growth Marketing Coordinator in New York. Helps run paid social, paid search, display, and partnership media, is the day-to-day contact for the media agency, and supports ticketing, merch, youth events, and tune-in campaigns across email, web, app, and out-of-home. On-site, $65k-$75k, starts Nov 1. Posted 3 hours ago with under 25 applicants. Wants some hands-on paid media experience.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4474426374. Be among the first 25 applicants. Pay signal: $65,000-$75,000.",
+    "initials": "PL",
+    "color": "#BE185D"
+  },
+  {
+    "id": "nhl-coordinator-fan-engagement-analytics",
+    "title": "Coordinator, Fan Engagement & Analytics",
+    "company": "National Hockey League (NHL)",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Coordinator, Fan Engagement & Analytics at the NHL",
+    "salary": "$65,000-$70,000",
+    "experience": "1-3 years in sports, marketing, digital operations, or fan engagement.",
+    "posted": "5 hours ago",
+    "applicants": "82 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4476390827/",
+    "why": "NHL league office Coordinator on the digital fan engagement team. Runs day-to-day execution of NHL GameZone, Bracket Challenge, sweepstakes, Fan Vote, and event activations, including partner and club coordination, prize fulfillment, content updates, and performance reporting. Hybrid in New York, $65k-$70k. Mix of marketing operations and analytics.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Rescued from title filter. Window Wed ~1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4476390827. 82 applicants. Pay signal: $65,000-$70,000.",
+    "initials": "NH",
+    "color": "#0F766E"
+  },
+  {
+    "id": "brigade-marketing-social-media-coordinator",
+    "title": "Social Media Coordinator",
+    "company": "Brigade Marketing",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Social Media Coordinator at Brigade (entertainment digital marketing and publicity agency)",
+    "salary": "",
+    "experience": "1+ year of professional social media or digital marketing experience. Community management preferred.",
+    "posted": "5 hours ago",
+    "applicants": "",
+    "url": "https://www.ziprecruiter.com/c/Brigade-Marketing-LLC/Job/Social-Media-Coordinator/-in-New-York,NY?jid=b80040098a12deda",
+    "why": "Brigade is a digital marketing and publicity agency for film, streaming, and TV clients like Universal, Netflix, Focus Features, Hulu, and Disney. The Social Media Coordinator supports the social team with monitoring, community management, sentiment recaps, content calendars, copywriting, and analytics reports. Full-time in New York. Pay not listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "ZipRecruiter posting. Window Wed ~1:00 AM ET (5 hours ago). ZR jid b80040098a12deda. No LinkedIn twin found.",
+    "initials": "BM",
+    "color": "#059669"
+  },
+  {
     "id": "penguin-random-house-marketing-publicity-assistant-crown-currency",
     "title": "Marketing & Publicity Assistant, Crown & Currency",
     "company": "Penguin Random House",
@@ -10000,7 +10100,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 6 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Wed, Oct 7 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
