@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "elemis-retail-marketing-coordinator",
+    "title": "Retail Marketing Coordinator",
+    "company": "ELEMIS",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY (hybrid, Head Office) · Retail Marketing Coordinator at ELEMIS (British luxury skincare, L'Occitane Group)",
+    "salary": "$70,000-$75,000",
+    "experience": "No minimum years listed. Organized, digitally savvy, comfortable in retailer portals; beauty and retail curiosity.",
+    "posted": "34 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4475787676/",
+    "why": "Luxury skincare brand ELEMIS is hiring a Retail Marketing Coordinator on its North America marketing team (E-Commerce dept). Runs day-to-day digital merchandising across Sephora, Ulta Beauty, Amazon, department stores and QVC: product page setup, launch readiness, enhanced content and site QA. Reports to the Director of Channel Marketing. Hybrid NYC, $70,000-$75,000. Strong beauty fit.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (34 minutes ago / tpr=r21600). LinkedIn id 4475787676. Be among the first 25 applicants. Pay signal: $70,000-$75,000. LinkedIn seniority label says Executive but no years required.",
+    "initials": "EL",
+    "color": "#BE185D"
+  },
+  {
+    "id": "reejig-customer-marketing-associate",
+    "title": "Customer Marketing Associate",
+    "company": "Reejig",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · Customer Marketing Associate at Reejig (AI workforce software startup)",
+    "salary": "",
+    "experience": "Early career role. Some marketing, content or customer-facing experience; internships count.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4477109998/",
+    "why": "Reejig, an AI workforce software company, is hiring a Customer Marketing Associate in New York. Runs customer lifecycle campaigns and communications, finds and tells customer success stories, and supports advocacy through webinars, events and references. The posting says it is an early career role and internships count. Pay not listed. Not fashion, but a true entry-level marketing seat.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4477109998. Be among the first 25 applicants. Early career, internships count. No pay listed.",
+    "initials": "RE",
+    "color": "#7C3AED"
+  },
+  {
     "id": "hunter-account-coordinator-consumer-brand",
     "title": "Account Coordinator: Consumer Brand",
     "company": "Hunter",
@@ -10180,7 +10220,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 8 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Oct 8 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
