@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "inhouse-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "InHouse",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York, NY · Marketing Coordinator at InHouse (venture-backed home furnishing and design startup)",
+    "salary": "",
+    "experience": "Seniority listed as Junior. 1-3 yrs marketing operations or campaign execution; familiarity with Google Ads, Meta, GA4 and CRM tools.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4477601632/",
+    "why": "InHouse, an early-stage consumer startup that lets renters visualize and shop furnished rooms, is hiring a junior Marketing Coordinator in New York. Executes paid media and email/SMS campaigns, QAs creative and content, maintains performance dashboards, and coordinates events, partners and vendors. Pay not listed. Not fashion, but a hands-on entry marketing seat at a design-first brand.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4477601632. Be among the first 25 applicants. Seniority Junior, 1-3 yrs. No pay listed.",
+    "initials": "IN",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "walkup-studio-assistant-account-strategist-talent-team",
+    "title": "Assistant Account Strategist - Talent Team",
+    "company": "Walkup Studio",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site SoHo, New York, NY · Assistant Account Strategist, Talent Team at Walkup Studio (social-first agency)",
+    "salary": "",
+    "experience": "1-3 years in a strategic or creative agency or fast-moving startup; bachelor's in Writing, Journalism, Communication or Media Studies. Copywriting a plus.",
+    "posted": "4 hours ago",
+    "applicants": "29 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4477606244/",
+    "why": "Walkup Studio, a social-first agency in SoHo working with brands, creators and talent, is hiring an Assistant Account Strategist on its Talent Team. Supports content planning and copywriting, social and trend research, account audits, reporting and day-to-day account coordination. Pay not listed. Same agency as the Influencer Coordinator card in the feed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4477606244. 29 applicants. LinkedIn label Mid-Senior but title is Assistant and ask is 1-3 yrs. No pay listed.",
+    "initials": "WS",
+    "color": "#2563EB"
+  },
+  {
     "id": "jaeger-lecoultre-brand-experience-coordinator",
     "title": "Brand Experience Coordinator",
     "company": "Jaeger-LeCoultre",
@@ -89,14 +129,14 @@ const FALLBACK_JOBS = [
     "workplace": "New York, NY (onsite) · Marketing Coordinator at Faena New York (luxury hospitality and nightlife)",
     "salary": "$36/hour",
     "experience": "Minimum of 2 years marketing experience preferred, ideally luxury hospitality or lifestyle. Bachelor's in marketing/communications preferred.",
-    "posted": "6 hours ago",
-    "applicants": "174 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474832903/",
+    "posted": "3 hours ago",
+    "applicants": "25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4476235779/",
     "why": "Faena New York is hiring a Marketing Coordinator to support campaigns, events and brand storytelling for its luxury hospitality and nightlife venues. Onsite NYC at about $36/hour. Luxury lifestyle marketing seat (2 years preferred is a mild stretch).",
     "applyFirst": false,
     "employment": "Full-time",
     "stretch": true,
-    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (6 hours ago / tpr=r43200). LinkedIn id 4474832903. 174 applicants. Pay signal: $36/hour.",
+    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (6 hours ago / tpr=r43200). LinkedIn id 4474832903. 174 applicants. Pay signal: $36/hour. Twin refresh Fri ~1:00 AM ET: url updated 4474832903 -> 4476235779.",
     "initials": "FA",
     "color": "#B45309"
   },
@@ -6318,26 +6358,6 @@ const FALLBACK_JOBS = [
     "color": "#A50034"
   },
   {
-    "id": "bloomingdales-ecommerce-junior-merchandiser",
-    "title": "E-Commerce Junior Merchandiser",
-    "company": "Bloomingdale's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site NYC · Bloomingdale's.com e-commerce junior merchandiser (category curation/availability)",
-    "salary": "$56,280-$93,720",
-    "experience": "Junior. No education required; 1-2 years related experience.",
-    "posted": "20 hours ago",
-    "applicants": "72 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466192057/",
-    "why": "Fashion retail: Bloomingdale's E-Commerce Junior Merchandiser - $56-94k, 1-2 yrs, 62 apps. Distinct from BoF twin 4466192057.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Fashion. Merchandising-adjacent (not pure brand marketing). Skip BoF Careers repost twin. Twin-refresh Wed 1 AM ET: LinkedIn id 4466192057 (was 4467719663; prior listing closed). 72 applicants.",
-    "initials": "BD",
-    "color": "#880E4F"
-  },
-  {
     "id": "on-location-paid-media-associate",
     "title": "Paid Media Associate",
     "company": "On Location",
@@ -9938,7 +9958,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 8 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Oct 9 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
