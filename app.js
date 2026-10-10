@@ -6556,26 +6556,6 @@ const FALLBACK_JOBS = [
     "color": "#1E3A8A"
   },
   {
-    "id": "gei-marketing-communications-assistant",
-    "title": "Marketing/Communications Assistant",
-    "company": "GEI Consultants, Inc.",
-    "city": "Boston",
-    "location": "Wakefield, MA",
-    "workplace": "Hybrid Wakefield MA · GEI marketing/communications assistant (A/E firm pursuits)",
-    "salary": "",
-    "experience": "Stretch. Bachelor's marketing/comms/business/English/PR; 1-3 years marketing, communications, administrative, or related.",
-    "posted": "23 hours ago",
-    "applicants": "87 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466150272/",
-    "why": "GEI Marketing/Communications Assistant - hybrid Wakefield (Boston metro), 1-3 yrs. True assistant marketing seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Caught via r86400 fashion/strong-entry catch. LinkedIn id 4466150272. Stretch: 1-3 yrs. Civil engineering firm marketing.",
-    "initials": "GE",
-    "color": "#047857"
-  },
-  {
     "id": "tommy-hilfiger-dtc-marketing-coordinator",
     "title": "Coordinator, DTC Marketing - Tommy Hilfiger",
     "company": "Tommy Hilfiger",
@@ -7256,26 +7236,6 @@ const FALLBACK_JOBS = [
     "color": "#1565C0"
   },
   {
-    "id": "freshfields-communications-coordinator",
-    "title": "Communications Coordinator",
-    "company": "Freshfields",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · US brand & communications / media relations / internal comms",
-    "salary": "$75,000-$90,000",
-    "experience": "1-3 years relevant PR/communications experience; agency a plus. Bachelor’s in Communications/Journalism/Marketing/English preferred.",
-    "posted": "2 hours ago",
-    "applicants": "53 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4465800100/",
-    "why": "Freshfields NYC Communications Coordinator - $75-90k, 1-3 yrs PR/comms. Big-law brand, media, social, internal comms seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM-1 PM ET. LinkedIn id 4465800100. Stretch: 1-3 yrs band.",
-    "initials": "FF",
-    "color": "#0D47A1"
-  },
-  {
     "id": "omnicom-media-planner",
     "title": "Media Planner",
     "company": "Omnicom Media",
@@ -7894,26 +7854,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. 78 applicants. Not a twin of horizon-next-assistant-integrated-investment (4411514189). LinkedIn id 4441555214.",
     "initials": "HZ",
     "color": "#0D47A1"
-  },
-  {
-    "id": "iheart-sales-coordinator-agency-partnerships",
-    "title": "Sales Coordinator, Agency Partnerships",
-    "company": "iHeartMedia",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · iHeartMedia agency partnerships / audio sales coordination",
-    "salary": "$28.85-$36.06/hr",
-    "experience": "Entry/early sales coordination for agency partnerships; audio/podcast media.",
-    "posted": "4 hours ago",
-    "applicants": "123 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4445248414/",
-    "why": "iHeartMedia Sales Coordinator, Agency Partnerships. Media-sales coordination on agency accounts. ~$29-36/hr.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. 123 applicants. Distinct from existing iHeart Katz / Health coordinator seats. LinkedIn id 4445248414.",
-    "initials": "IH",
-    "color": "#C62828"
   },
   {
     "id": "curaleaf-trade-activation-associate",
@@ -10036,7 +9976,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 10 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Sat, Oct 10 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
