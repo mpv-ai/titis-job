@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "sabi-wise-public-relations-coordinator",
+    "title": "Public Relations Coordinator",
+    "company": "Sabi Wise",
+    "city": "New York",
+    "location": "Staten Island, NY",
+    "workplace": "Staten Island, NY · Public Relations Coordinator at Sabi Wise",
+    "salary": "",
+    "experience": "Entry level. Public relations, media outreach, influencer relationships, events and partnerships for a scalp care brand.",
+    "posted": "43 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4478088174/",
+    "why": "Sabi Wise, a growing scalp care brand for styled hair, is hiring an entry-level PR Coordinator. You would help build brand presence through media outreach, influencer relationships, events and strategic partnerships. Beauty-adjacent, entry level, and posted under an hour ago with fewer than 25 applicants, so apply first.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~7:00 PM ET (43 minutes ago). LinkedIn id 4478088174. Be among the first 25 applicants. Entry level, full-time. Beauty brand, Staten Island NYC. Pay not listed.",
+    "initials": "SW",
+    "color": "#BE185D"
+  },
+  {
     "id": "fresh-coordinator-social-media",
     "title": "Coordinator, Social Media",
     "company": "Fresh",
@@ -9976,7 +9996,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 10 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Oct 10 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
