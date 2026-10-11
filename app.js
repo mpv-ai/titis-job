@@ -5476,26 +5476,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "simon-schuster-atria-marketing-social-assistant",
-    "title": "Marketing & Social Media Assistant, Atria Books",
-    "company": "Simon and Schuster Books",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Marketing & Social Media Assistant for Atria Books imprint (campaigns + imprint social)",
-    "salary": "",
-    "experience": "True assistant seat. Social calendar, influencer program, campaign support under Marketing Director/Managers.",
-    "posted": "18 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466927901/",
-    "why": "Simon & Schuster Atria Marketing & Social Media Assistant. NYC; applyFirst true publishing marketing assistant.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~18m / r21600). LinkedIn id 4466927901. Be among the first 25.",
-    "initials": "SS",
-    "color": "#1E3A5F"
-  },
-  {
     "id": "unitedmasters-commerce-artist-marketing-coordinator",
     "title": "Commerce & Artist Marketing Coordinator",
     "company": "UnitedMasters",
@@ -6756,26 +6736,6 @@ const FALLBACK_JOBS = [
     "color": "#8B4513"
   },
   {
-    "id": "simon-schuster-audio-marketing-publicity-assistant",
-    "title": "Marketing & Publicity Assistant/Coordinator, Simon & Schuster Audio",
-    "company": "Simon and Schuster Books",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · S&S Audio marketing & publicity assistant supporting Marketing Manager + Senior Publicity Manager (assets, campaigns, media lists)",
-    "salary": "",
-    "experience": "Previous marketing experience preferred (publishing a plus). True assistant/coordinator supporting MM and Senior Publicity Manager - entry publishing marketing seat.",
-    "posted": "19 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4465238995/",
-    "why": "S&S Audio Marketing & Publicity Assistant/Coordinator - first 25, NYC publishing marketing/publicity seat under Marketing Manager.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Mon ~1-7 PM ET. LinkedIn id 4465238995. First 25. Not the Scribner Social Media Marketing Associate twin path (4465243926 dropped: 2-4 yrs hard).",
-    "initials": "SS",
-    "color": "#0F172A"
-  },
-  {
     "id": "hunter-account-coordinator",
     "title": "Account Coordinator",
     "company": "Hunter",
@@ -6974,86 +6934,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Fri ~1 PM-7 PM ET. LinkedIn id 4465159594. First 25. Distinct from feed omnicom-media-planner 4464132468 and Merkley AMP twin skip.",
     "initials": "OM",
     "color": "#0EA5E9"
-  },
-  {
-    "id": "wayfair-marketing-associate",
-    "title": "Marketing Associate",
-    "company": "Wayfair",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston 4 days in-office Mon-Thu / Fri remote · early-career marketing associate",
-    "salary": "$68,000-$72,500",
-    "experience": "Recent grads with 0-3 years. Rolling early-career hire; campaign planning/execution, briefs, analytics.",
-    "posted": "39 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466400481/",
-    "why": "Wayfair Boston Marketing Associate - first 25, $68-72.5k, 0-3 yrs / recent grads, hybrid HQ.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Fri ~1 PM-7 PM ET. LinkedIn id 4466400481. First 25. Distinct from wayfair-visual-communications-signage-associate 4462425575. No STEM OPT / H-1B sponsorship.",
-    "initials": "WF",
-    "color": "#7C3AED"
-  },
-  {
-    "id": "mbta-communications-coordinator",
-    "title": "Communications Coordinator (Contractor)",
-    "company": "MBTA",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston hybrid · term-limited contractor Communications Coordinator (Operational Readiness / fare system)",
-    "salary": "",
-    "experience": "Contractor supporting customer/community transition comms for new fare payment system. Stretch: term-limited contractor, not MBTA employee.",
-    "posted": "2 hours ago",
-    "applicants": "129 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4445748141/",
-    "why": "MBTA Communications Coordinator (contractor) - hybrid Boston, fare-system rollout comms. Stretch term-limited.",
-    "applyFirst": false,
-    "employment": "Contract",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~1 PM-7 PM ET. LinkedIn id 4445748141. 129 applicants. Stretch: contractor / operational readiness.",
-    "initials": "MB",
-    "color": "#1D4ED8"
-  },
-  {
-    "id": "tommy-john-site-merchandising-coordinator",
-    "title": "Site Merchandising Coordinator",
-    "company": "Tommy John",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "New York HQ on-site · ecommerce site merchandising / product setup",
-    "salary": "$70,000-$75,000",
-    "experience": "1-3 years product setup and merchandising for online platforms (Shopify a plus). Bachelor's or relevant digital merchandising experience.",
-    "posted": "12 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464217478/",
-    "why": "Tommy John Site Merchandising Coordinator - first 25, $70-75k NYC HQ ecommerce merch/product setup; stretch digital merch vs classic brand marketing.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 AM-1 PM ET. LinkedIn id 4464217478. First 25. Stretch: site merchandising/ecomm ops adjacent to marketing.",
-    "initials": "TJ",
-    "color": "#111827"
-  },
-  {
-    "id": "jumpstart-kids-comms-content-coordinator",
-    "title": "Communications and Content Coordinator (Part-Time, Temporary)",
-    "company": "Jumpstart Kids",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Remote (Boston/Atlanta/NYC preferred) · 20-25 hrs/wk · 8-10 month temp",
-    "salary": "$32/hour",
-    "experience": "2+ years digital marketing, communications, content, or design. Stretch vs pure ~1yr; production-focused social/email/web.",
-    "posted": "7 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466357201/",
-    "why": "Jumpstart Kids Comms & Content Coordinator - first 25, $32/hr remote PT temp (Boston preferred), social/email/web production; stretch 2+ yrs + part-time temp.",
-    "applyFirst": true,
-    "employment": "Temporary · Part-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 AM-1 PM ET. LinkedIn id 4466357201. First 25. 20-25 hrs/wk for 8-10 months; no standard benefits. Cover letter required.",
-    "initials": "JK",
-    "color": "#059669"
   },
   {
     "id": "allison-account-coordinator-technology-pr",
@@ -7646,7 +7526,7 @@ const FALLBACK_JOBS = [
     "experience": "Bachelor’s in marketing/communications. No years listed. CRM + PowerPoint.",
     "posted": "2 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475520607/",
+    "url": "https://www.linkedin.com/jobs/view/4478339578/",
     "why": "Coordinator, no years bar, first-25. Events, pitches, social, website at a NYC law firm via recruiter. Fresh LinkedIn repost (old 4472455880 closed).",
     "applyFirst": true,
     "employment": "Full-time",
@@ -9916,7 +9796,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 11 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Oct 11 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
