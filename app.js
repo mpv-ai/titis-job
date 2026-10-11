@@ -3482,46 +3482,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "ff-inc-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "FF Inc",
-    "city": "Hoboken",
-    "location": "Hoboken, NJ",
-    "workplace": "On-site Hoboken · Marketing Assistant at FF Inc",
-    "salary": "$50,000",
-    "experience": "Entry level",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471062631/",
-    "why": "FF Inc Marketing Assistant. Hoboken, NJ, On-site. $50,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4471062631. Be among the first 25 applicants. Pay signal: $50,000.",
-    "initials": "FF",
-    "color": "#BE185D"
-  },
-  {
-    "id": "ff-inc-brand-experience-associate",
-    "title": "Brand Experience Associate",
-    "company": "FF Inc",
-    "city": "Hoboken",
-    "location": "Hoboken, NJ",
-    "workplace": "On-site Hoboken · Brand Experience Associate at FF Inc",
-    "salary": "$50,000",
-    "experience": "0-2+ years of experience (entry level candidates welcomed to apply",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471060736/",
-    "why": "FF Inc Brand Experience Associate. Hoboken, NJ, On-site. $50,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4471060736. Be among the first 25 applicants. Pay signal: $50,000.",
-    "initials": "FF",
-    "color": "#7C3AED"
-  },
-  {
     "id": "drive-marketing-assistant",
     "title": "Marketing Assistant",
     "company": "Drive",
@@ -4804,11 +4764,11 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Thought Leadership Associate - External Communications (EDECD50) at Referment",
     "salary": "$135,000",
     "experience": "Entry-level / ~1 year preferred.",
-    "posted": "5 hours ago",
-    "applicants": "27 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475947452/",
+    "posted": "4 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4478317195/",
     "why": "Referment Thought Leadership Associate - External Communications (EDECD50). New York, NY. $135,000. Early applicant window.",
-    "applyFirst": false,
+    "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
     "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470683746. Be among the first 25 applicants. Pay signal: $135,000. Twin refresh Sat 7:00 AM ET: url updated 4470683746 -> 4472253733.",
@@ -6236,26 +6196,6 @@ const FALLBACK_JOBS = [
     "color": "#0F766E"
   },
   {
-    "id": "omd-associate-video-investment",
-    "title": "Associate, Video Investment",
-    "company": "OMD",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · OMD Associate, Video Investment (media planning/buying, video)",
-    "salary": "$45,000",
-    "experience": "True entry. Bachelor's; interest in advertising/media; willingness to learn video investment and media buying.",
-    "posted": "1 hour ago",
-    "applicants": "93 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4457663142/",
-    "why": "OMD Associate, Video Investment - $45k NYC true-entry video media buying; 93 apps.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. LinkedIn id 4457663142. Distinct from OMD Media Video Planning/Buying, Digital Activation, Media Ops, Integrated Media seats.",
-    "initials": "OM",
-    "color": "#1E3A8A"
-  },
-  {
     "id": "via-consumer-growth-marketing-associate",
     "title": "Consumer Growth Marketing Associate",
     "company": "Via",
@@ -7074,26 +7014,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Fri ~1 PM-7 PM ET. LinkedIn id 4445748141. 129 applicants. Stretch: contractor / operational readiness.",
     "initials": "MB",
     "color": "#1D4ED8"
-  },
-  {
-    "id": "solomon-page-pr-coordinator-fashion",
-    "title": "Public Relations Coordinator",
-    "company": "Solomon Page",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY onsite · fashion brand PR coordinator (staffing placement)",
-    "salary": "$33/hour",
-    "experience": "Internship or professional experience in fashion, PR, communications, events, entertainment, production, or influencer marketing.",
-    "posted": "12 minutes ago",
-    "applicants": "153 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4454641811/",
-    "why": "Solomon Page fashion PR Coordinator - $33/hr NYC onsite, editorial/influencer/fashion-show support; internships count. Distinct from solomon-page-publicity-coordinator 4463092230.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 AM-1 PM ET. LinkedIn id 4454641811. Staffing for top fashion company PR team. Distinct from Publicity Coordinator 4463092230.",
-    "initials": "SP",
-    "color": "#455A64"
   },
   {
     "id": "tommy-john-site-merchandising-coordinator",
@@ -9996,7 +9916,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 11 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Oct 11 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
