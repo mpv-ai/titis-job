@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "amanda-uprichard-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "Amanda Uprichard",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Marketing Coordinator at Amanda Uprichard",
+    "salary": "$58,000-$65,000",
+    "experience": "Entry level",
+    "posted": "1 hour ago",
+    "applicants": "56 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4478547716/",
+    "why": "Contemporary NYC fashion brand (sold at Shopbop, Revolve). Marketing Coordinator, on-site New York, $58k-$65k. LinkedIn tags it entry level, though the posting asks for 2+ years of digital marketing.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4478547716. 56 applicants. Pay signal: $58,000. Posting asks 2+ yrs digital marketing (fashion preferred); LinkedIn seniority Entry level.",
+    "initials": "AU",
+    "color": "#BE185D"
+  },
+  {
+    "id": "birkenstock-ecommerce-coordinator-product-content-digital-americas",
+    "title": "Ecommerce Coordinator, Product & Content, Digital Americas",
+    "company": "BIRKENSTOCK",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Ecommerce Coordinator, Product & Content, Digital Americas at BIRKENSTOCK",
+    "salary": "$68K-$80K",
+    "experience": "1-3 years ecommerce (fashion/consumer goods preferred)",
+    "posted": "2 hours ago",
+    "applicants": "45 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4478550112/",
+    "why": "BIRKENSTOCK Ecommerce Coordinator, Product & Content, Digital Americas. On-site New York, $68K-$80K. Asks 1-3 years of ecommerce site work, fashion preferred.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4478550112. 45 applicants. Pay signal: $68.",
+    "initials": "BI",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "lancesoft-inc-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "LanceSoft, Inc.",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Marketing Coordinator at LanceSoft, Inc.",
+    "salary": "$30-$36/hr (W2 contract)",
+    "experience": "10-15 years of experience candidate may be overqualified Regular interfacing with s",
+    "posted": "2 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4476020800/",
+    "why": "LanceSoft contract Marketing Coordinator (utility marketing support), Newark NJ, hybrid. $30-$36/hr W2, 9-month assignment. Utility experience not required.",
+    "applyFirst": true,
+    "employment": "Contract (9 months)",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4476020800. Be among the first 25 applicants. Pay signal: $30.",
+    "initials": "LA",
+    "color": "#2563EB"
+  },
+  {
+    "id": "omnicom-media-integrated-media-planner",
+    "title": "Integrated Media Planner",
+    "company": "Omnicom Media",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Integrated Media Planner at Omnicom Media",
+    "salary": "$67,000-$75,000",
+    "experience": "1.5-2 years media planning",
+    "posted": "28 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4477587851/",
+    "why": "Omnicom Media Integrated Media Planner, New York, $67k-$75k. Asks about 1.5-2 years of agency media planning.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (28 minutes ago / tpr=r21600). LinkedIn id 4477587851. Be among the first 25 applicants. Pay signal: $67,000-$75,000.",
+    "initials": "OM",
+    "color": "#059669"
+  },
+  {
     "id": "sabi-wise-public-relations-coordinator",
     "title": "Public Relations Coordinator",
     "company": "Sabi Wise",
@@ -4656,26 +4736,6 @@ const FALLBACK_JOBS = [
     "color": "#D97706"
   },
   {
-    "id": "revco-lighting-electrical-supply-inc-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Revco Lighting + Electrical Supply, Inc.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Marketing Coordinator at Revco Lighting + Electrical Supply, Inc.",
-    "salary": "$75,000",
-    "experience": "3-5 years in marketing coordination, project management, event coordination or digital ma",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470968534/",
-    "why": "Revco Lighting + Electrical Supply, Inc. Marketing Coordinator. New York, NY, On-site. $75,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4470968534. Be among the first 25 applicants. Pay signal: $75,000.",
-    "initials": "RL",
-    "color": "#DB2777"
-  },
-  {
     "id": "axis-communications-field-marketing-coordinator-northeast",
     "title": "Field Marketing Coordinator, Northeast",
     "company": "Axis Communications",
@@ -6996,26 +7056,6 @@ const FALLBACK_JOBS = [
     "color": "#F59E0B"
   },
   {
-    "id": "ekspert-counsel-bd-coordinator",
-    "title": "Business Development Coordinator (Law Firm)",
-    "company": "Ekspert Counsel",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · law-firm marketing & BD (pitches, events, CRM, rankings)",
-    "salary": "$70,000-$85,000",
-    "experience": "1-2 years marketing and/or business development experience within a law firm required. Bachelor’s.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464525856/",
-    "why": "Ekspert Counsel NYC law-firm BD Coordinator - first 25, $70-85k, 1-2 yrs law-firm marketing/BD required. Pitches, rankings, events, CRM.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Thu ~7 AM-1 PM ET. LinkedIn id 4464525856. First 25. True entry law-firm BD/marketing.",
-    "initials": "EK",
-    "color": "#1565C0"
-  },
-  {
     "id": "omnicom-media-planner",
     "title": "Media Planner",
     "company": "Omnicom Media",
@@ -7514,26 +7554,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Mon ~1-7 PM ET. LinkedIn id 4464373405. Filter miss (publicist not in title regex) recovered manually. LinkedIn employment badge says Volunteer but JD lists $52,500 salary - treat as paid FT. 32 applicants (not first 25). Cover letter preferred.",
     "initials": "HC",
     "color": "#1A237E"
-  },
-  {
-    "id": "equinox-ecommerce-coordinator",
-    "title": "E-Commerce Coordinator",
-    "company": "Equinox",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Shopify storefront / digital merchandising ops (reports to Senior Manager, E-Commerce)",
-    "salary": "$70,000-$85,000",
-    "experience": "1-3 years e-commerce, digital merchandising, or online retail ops; Shopify admin hands-on.",
-    "posted": "4 hours ago",
-    "applicants": "31 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464368789/",
-    "why": "Equinox NYC E-Commerce Coordinator - real fitness lifestyle brand digital storefront. 1-3 yrs Shopify/e-comm merchandising, $70-85k. Early-career digital retail marketing ops.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Mon ~1-7 PM ET. LinkedIn id 4464368789. Associate seniority. $70-85k. 31 applicants (not first 25). JD: Shopify, Nosto, D365, product launches/promos.",
-    "initials": "EQ",
-    "color": "#212121"
   },
   {
     "id": "bloomingdales-site-merchandising-assistant-temp",
@@ -9736,7 +9756,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 12 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Oct 12 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
