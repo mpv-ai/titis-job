@@ -5616,26 +5616,6 @@ const FALLBACK_JOBS = [
     "color": "#0E4D92"
   },
   {
-    "id": "wealthspire-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Wealthspire",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Marketing Coordinator supporting brand, events, Hubspot marketing automation at wealth management firm",
-    "salary": "$51,800-$63,700",
-    "experience": "Degree or background in marketing/communications. Internship experience within wealth management or similar. Hubspot/Marketo familiarity. True entry coordinator.",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469506603/",
-    "why": "Wealthspire Marketing Coordinator. NYC true entry coordinator; internship-friendly; Hubspot/events; applyFirst.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1 AM ET (posted ~5h / r21600). LinkedIn id 4468832905. Be among the first 25. Salary $51,800-$63,700. Twin-refresh Sat 7 AM ET: LinkedIn id 4468832905 -> 4469506603 (same Wealthspire Marketing Coordinator; still applyFirst).",
-    "initials": "WS",
-    "color": "#0F766E"
-  },
-  {
     "id": "berlinrosen-account-coordinator-public-affairs",
     "title": "Account Coordinator, Public Affairs",
     "company": "BerlinRosen",
@@ -9756,7 +9736,7 @@ const FALLBACK_JOBS = [
     "color": "#7B241C"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 12 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Oct 12 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
