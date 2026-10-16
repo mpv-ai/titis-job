@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "fashion-institute-of-technology-part-time-marketing-social-media-coord",
+    "title": "Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs",
+    "company": "Fashion Institute of Technology",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs at Fashion Institute of Technology",
+    "salary": "$37.09/hr",
+    "experience": "2-4 years of related experience in marketing, communications, social media, digital conte",
+    "posted": "4 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480318894/",
+    "why": "Fashion Institute of Technology Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs. New York, NY. $37.09/hr. Fashion/beauty-adjacent. Early applicant window. Prefers 2-4 years, so stretch, but strong fashion school fit.",
+    "applyFirst": true,
+    "employment": "Part-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Fri ~1:00 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4480318894. Be among the first 25 applicants. Pay signal: $37.09/hr. Prefers 2-4 years related experience (stretch).",
+    "initials": "FI",
+    "color": "#BE185D"
+  },
+  {
     "id": "nars-coordinator-brand-marketing",
     "title": "Coordinator, Brand Marketing (NARS)",
     "company": "NARS Cosmetics (Shiseido)",
@@ -3250,14 +3270,14 @@ const FALLBACK_JOBS = [
     "workplace": "Publicity Coordinator (PH), Searchlight Pictures at The Walt Disney Company",
     "salary": "$56,600-$75,900",
     "experience": "",
-    "posted": "4 hours ago",
-    "applicants": "",
-    "url": "https://www.ziprecruiter.com/c/The-Walt-Disney-Company/Job/Publicity-Coordinator-(PH),-Searchlight-Pictures/-in-New-York,NY?jid=c1fd5f27c957942f",
+    "posted": "5 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4479314921/",
     "why": "The Walt Disney Company Publicity Coordinator (PH), Searchlight Pictures. Publicity coordinator for Searchlight Pictures (Disney specialty film). New York, NY.",
-    "applyFirst": false,
+    "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "ZipRecruiter posting. Window Thu ~7:00 PM ET (4 hours ago). ZR jid c1fd5f27c957942f. Pay signal: $56,600-$75,900.",
+    "notes": "ZipRecruiter posting. Window Thu ~7:00 PM ET (4 hours ago). ZR jid c1fd5f27c957942f. Pay signal: $56,600-$75,900. Twin refresh Fri ~7:00 AM ET: url updated c1fd5f27c957942f -> 4479314921.",
     "initials": "TW",
     "color": "#D97706"
   },
@@ -6394,26 +6414,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Wed ~1-7 PM ET. LinkedIn id 4468302280. First 25.",
     "initials": "PE",
     "color": "#DC2626"
-  },
-  {
-    "id": "people-byrdie-associate-social-editor",
-    "title": "Associate Social Media Editor & In-House Content Creator - Byrdie",
-    "company": "People Inc. (Byrdie)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Byrdie beauty social media editor / in-house content creator",
-    "salary": "$70,000",
-    "experience": "Associate social/content. Bachelor's journalism/comms or equivalent. Beauty brand social seat.",
-    "posted": "2 hours ago",
-    "applicants": "38 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468300292/",
-    "why": "Fashion/beauty: Byrdie Associate Social Media Editor & In-House Content Creator - $70k NYC, 38 apps. Beauty social flagship.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Beauty. Guest page open. Posted in ~6h window Wed ~1-7 PM ET. LinkedIn id 4468300292. Distinct from people-associate-content-creator.",
-    "initials": "BY",
-    "color": "#DB2777"
   },
   {
     "id": "abrams-junior-marketing-designer",
@@ -9616,7 +9616,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 16 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Oct 16 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
