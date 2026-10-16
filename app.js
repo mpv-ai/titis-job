@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "nars-coordinator-brand-marketing",
+    "title": "Coordinator, Brand Marketing (NARS)",
+    "company": "NARS Cosmetics (Shiseido)",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Brand Marketing at NARS Cosmetics (Shiseido Americas)",
+    "salary": "$60,480 - $90,720",
+    "experience": "Coordinator level, bachelor's required, preferably 2 years (stretch)",
+    "posted": "1 hour ago",
+    "applicants": "74 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4479315371/",
+    "why": "Coordinator, Brand Marketing at NARS, the prestige makeup brand in Shiseido Americas' NYC portfolio. Supports the Brand Manager on 360 launch planning, launch calendars, forecasts, competitor and digital trend research, and partner programs like ratings and reviews. Beauty marketing focus, $60,480-$90,720. Posting says preferably 2 years, so it's a stretch, but it is a true coordinator role at a top beauty brand.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Fri ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4479315371. 74 applicants. Pay signal: $60,480 - $90,720. Beauty/prestige fit; asks preferably 2 yrs (stretch). Hand-reviewed Oct 16 1 AM.",
+    "initials": "NC",
+    "color": "#BE185D"
+  },
+  {
     "id": "mccann-assistant-account-executive",
     "title": "Assistant Account Executive",
     "company": "McCann",
@@ -6556,26 +6576,6 @@ const FALLBACK_JOBS = [
     "color": "#BE123C"
   },
   {
-    "id": "digitas-analyst-media-technology-boston",
-    "title": "Analyst, Media Technology",
-    "company": "Digitas North America (Publicis)",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Digitas Analyst, Media Technology (tags, trafficking, media tech support)",
-    "salary": "$50,065",
-    "experience": "Stretch. College + 1-3 years office (preferably communications/media). Media tech / tagging support.",
-    "posted": "7 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466832191/",
-    "why": "Digitas Boston Analyst, Media Technology - first 25, ~$50k media-tech entry/stretch 1-3 yrs office.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. LinkedIn id 4466832191. First 25. Distinct from Digitas Boston Media Associate / Paid Social Planner / Video Investment seats.",
-    "initials": "DG",
-    "color": "#0F766E"
-  },
-  {
     "id": "via-consumer-growth-marketing-associate",
     "title": "Consumer Growth Marketing Associate",
     "company": "Via",
@@ -6616,26 +6616,6 @@ const FALLBACK_JOBS = [
     "color": "#4338CA"
   },
   {
-    "id": "lincoln-center-social-media-associate",
-    "title": "Social Media Associate",
-    "company": "Lincoln Center for the Performing Arts",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · Lincoln Center social media associate (content, community, campaigns)",
-    "salary": "$55,000-$65,000",
-    "experience": "Stretch. Minimum 2 years social media, communications, or related; preferably complex/fast-paced org.",
-    "posted": "3 hours ago",
-    "applicants": "37 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466810812/",
-    "why": "Lincoln Center Social Media Associate - $55-65k hybrid NYC arts marketing, 37 apps. Stretch 2+ yrs social.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Tue ~7 PM-Wed ~1 AM ET. LinkedIn id 4466810812. Stretch: min 2 yrs social/comms.",
-    "initials": "LC",
-    "color": "#B45309"
-  },
-  {
     "id": "tko-paid-media-associate",
     "title": "Paid Media Associate",
     "company": "TKO (On Location)",
@@ -6654,26 +6634,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Tue ~7 PM-Wed ~1 AM ET. LinkedIn id 4465930479. First 25. Stretch: 1-3 yrs paid media.",
     "initials": "TK",
     "color": "#111827"
-  },
-  {
-    "id": "levi-wholesale-account-coordinator",
-    "title": "Wholesale Account Coordinator",
-    "company": "Levi Strauss & Co.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · Levi's wholesale account coordinator (Macy's partnership / sell-in / samples)",
-    "salary": "$53,500-$78,400",
-    "experience": "Entry/early wholesale account coordinator. Sales support, order/sample management, reporting; no hard years bar in guest JD.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466589879/",
-    "why": "Fashion priority: Levi Strauss Wholesale Account Coordinator - first 25, $53.5-78.4k hybrid NYC Macy's wholesale seat.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Fashion apparel. Guest page open. LinkedIn id 4466589879. First 25. Wholesale/account ops with marketing partners.",
-    "initials": "LS",
-    "color": "#1D4ED8"
   },
   {
     "id": "brilliant-aae-public-relations",
@@ -6714,26 +6674,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Tue ~1-7 PM ET. LinkedIn id 4466563957. First 25. Stretch: 3+ media preferred. Prior twin 4466563957->4460081340. Twin refresh Wed 1:00 AM ET: url updated 4460081340 -> 4469411290.",
     "initials": "DG",
     "color": "#0D47A1"
-  },
-  {
-    "id": "mondo-digital-marketing-coordinator-needham",
-    "title": "Digital Marketing Coordinator",
-    "company": "Mondo",
-    "city": "Boston",
-    "location": "Needham, MA (remote ET)",
-    "workplace": "Remote (EST) · Mondo contract Digital Marketing Coordinator for Metrowest client (~6 months)",
-    "salary": "$20-$23/hr",
-    "experience": "Stretch. Bachelor's marketing/comms; 1-3 years. Contract start ~9/21/2026.",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4465922802/",
-    "why": "Mondo Digital Marketing Coordinator - first 25, $20-23/hr remote ET, Boston metro contract. Distinct from Creative Cove Needham specialist twin.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Tue ~1-7 PM ET. LinkedIn id 4465922802. First 25. Skip Creative Cove 4466583415 (specialist 3+).",
-    "initials": "MO",
-    "color": "#0284C7"
   },
   {
     "id": "live-nation-ecommerce-coordinator",
@@ -8556,26 +8496,6 @@ const FALLBACK_JOBS = [
     "color": "#1A1A2E"
   },
   {
-    "id": "hearts-science-associate-video",
-    "title": "Associate, Video",
-    "company": "Hearts & Science",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Omnicom data-driven media agency; video planning/buying",
-    "salary": "$34,000-$60,000",
-    "experience": "Explicit entry-level Associate supporting Video media plans.",
-    "posted": "6 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466821539/",
-    "why": "True-entry Hearts & Science Video Associate (media planning). First 25. $34-60k.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest first-25. Omnicom Hearts & Science. Twin-refresh Wed 7 AM ET: LinkedIn id 4460686044→4466821539 (repost; first 25).",
-    "initials": "HS",
-    "color": "#E31C79"
-  },
-  {
     "id": "roc-nation-digital-department-coordinator",
     "title": "Digital Department Coordinator",
     "company": "Roc Nation",
@@ -9696,7 +9616,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 15 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Oct 16 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
