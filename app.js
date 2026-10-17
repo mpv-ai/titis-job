@@ -6476,26 +6476,6 @@ const FALLBACK_JOBS = [
     "color": "#6B2D5C"
   },
   {
-    "id": "macys-merchandise-assistant-backstage-beauty",
-    "title": "Merchandise Assistant, Macy's Backstage - Beauty",
-    "company": "Macy's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Merchandise Assistant supporting Backstage Beauty buying (POs / vendors / sales reporting)",
-    "salary": "$46,320-$75,840",
-    "experience": "Bachelor’s or equivalent; buying-office experience preferred. Stretch: merchandise assistant / buying support vs pure marketing.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467177729/",
-    "why": "Macy's Merchandise Assistant Backstage Beauty - fashion/beauty priority; applyFirst; buying-office support seat. Stretch vs pure marketing coordinator.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Thu 7 AM ET (posted ~4h / r21600). LinkedIn id 4467177729. Be among the first 25. Fashion stretch.",
-    "initials": "MB",
-    "color": "#E21B23"
-  },
-  {
     "id": "intertek-email-marketing-coordinator",
     "title": "Email Marketing Coordinator",
     "company": "Intertek",
@@ -8636,26 +8616,6 @@ const FALLBACK_JOBS = [
     "color": "#E65100"
   },
   {
-    "id": "bloomingdales-influencer-marketing-coordinator-temp",
-    "title": "Influencer Marketing Coordinator - TEMP",
-    "company": "Bloomingdale's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid (in-store + remote) · marketing & special events / top-client experiences",
-    "salary": "$56,280-$93,720",
-    "experience": "Stretch. Bachelor’s + 1-2 years direct experience.",
-    "posted": "10 hours ago",
-    "applicants": "63 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461558816/",
-    "why": "Bloomingdale’s NYC temp marketing/special-events coordinator. 1-2 years. $56-94k band.",
-    "applyFirst": false,
-    "employment": "Temporary",
-    "stretch": true,
-    "notes": "LinkedIn title Influencer Marketing Coordinator TEMP; JD is Marketing and Special Events Coordinator (store leadership, Top of List clients). Twin listing via BoF Careers 4460258173 - do not add both. LinkedIn id 4461558816.",
-    "initials": "BD",
-    "color": "#880E4F"
-  },
-  {
     "id": "pimco-etf-alternatives-marketing-associate",
     "title": "Associate, ETF & Alternatives Marketing",
     "company": "PIMCO",
@@ -9636,7 +9596,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 17 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Sat, Oct 17 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
