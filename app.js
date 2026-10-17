@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "net-a-porter-pr-coordinator-net-a-porter",
+    "title": "PR Coordinator",
+    "company": "NET-A-PORTER",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · PR Coordinator @NET-A-PORTER at NET-A-PORTER",
+    "salary": "$66,300",
+    "experience": "1-2 years including internships in PR, communications, or fashion. Good fit for a new grad with PR internships.",
+    "posted": "2 hours ago",
+    "applicants": "36 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480836297/",
+    "why": "NET-A-PORTER (luxury fashion) PR Coordinator in New York, hybrid, $66,300. Media lists, press coverage tracking, sample trafficking, and press events.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4480836297. 36 applicants. Pay signal: $66,300. Fashion priority. Luxury e-commerce PR team (US market).",
+    "initials": "NP",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "matco-norca-llc-digital-marketing-associate",
+    "title": "Digital Marketing Associate",
+    "company": "Matco-Norca, LLC",
+    "city": "New York",
+    "location": "Brewster, NY",
+    "workplace": "Hybrid Brewster, NY · Digital Marketing Associate at Matco-Norca, LLC",
+    "salary": "$62,354 - $72,048",
+    "experience": "No years stated. Entry-level digital marketing role.",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4479689429/",
+    "why": "Matco-Norca Digital Marketing Associate in Brewster, NY (Putnam County, about 60 miles north of Manhattan on Metro-North), hybrid, $62K-$72K. Social, email/CRM, blog, and Canva content for a plumbing products supplier. Not fashion.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Sat ~1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4479689429. Be among the first 25 applicants. Pay signal: $62,354. Edge of NYC metro (Brewster). Non-fashion keeper.",
+    "initials": "MN",
+    "color": "#D97706"
+  },
+  {
     "id": "newell-brands-associate-ecommerce-merchandising",
     "title": "Associate, eCommerce Merchandising",
     "company": "Newell Brands",
@@ -6896,26 +6936,6 @@ const FALLBACK_JOBS = [
     "color": "#E31837"
   },
   {
-    "id": "katten-marketing-bd-coordinator",
-    "title": "Marketing And Business Development Coordinator",
-    "company": "Katten Muchin Rosenman LLP",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · Marketing and Business Development Coordinator (law-firm MBD Practice Support)",
-    "salary": "$65,000-$80,000",
-    "experience": "Stretch. Bachelor's preferred + 2-3 years marketing/BD/comms (legal/professional services preferred).",
-    "posted": "4 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4455784089/",
-    "why": "Katten MBD Coordinator - $65-80k hybrid NYC law-firm marketing, 200 apps. Distinct from existing Engagement Coordinator.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "2-3 years bar. Different from katten-marketing-engagement already in feed.",
-    "initials": "KM",
-    "color": "#0D47A1"
-  },
-  {
     "id": "truvideo-marketing-coordinator",
     "title": "Marketing Coordinator - Demand Generation & Marketing Operations",
     "company": "TruVideo",
@@ -9596,7 +9616,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 17 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Sat, Oct 17 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
