@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "newell-brands-associate-ecommerce-merchandising",
+    "title": "Associate, eCommerce Merchandising",
+    "company": "Newell Brands",
+    "city": "Hoboken",
+    "location": "Hoboken, NJ",
+    "workplace": "Hoboken, NJ · Associate, eCommerce Merchandising at Newell Brands (Yankee Candle, Graco, Sharpie)",
+    "salary": "$65,280",
+    "experience": "Entry-level associate (posting says entry-level).",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480599158/",
+    "why": "Newell Brands (Yankee Candle, Graco, Coleman, Sharpie) Associate, eCommerce Merchandising. Hoboken, NJ (NYC metro). $65,280. Explicitly entry-level digital merchandising role supporting product content and retailer launches. Under 25 applicants.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Window Sat ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4480599158. Be among the first 25 applicants. Pay signal: $65,280.",
+    "initials": "NB",
+    "color": "#059669"
+  },
+  {
+    "id": "palette-media-content-operations-production-assistant",
+    "title": "Content Operations & Production Assistant",
+    "company": "Palette Media",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · Content Operations & Production Assistant at Palette Media",
+    "salary": "",
+    "experience": "Entry-level assistant (no years listed).",
+    "posted": "14 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480803545/",
+    "why": "Palette Media Content Operations & Production Assistant. New York, NY. Short-form video media company: social publishing and scheduling across Instagram, TikTok, Snapchat, Facebook and YouTube, community management, and production support for four brands. No pay listed. Posted minutes ago.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Window Sat ~1:00 AM ET (14 minutes ago / tpr=r21600). LinkedIn id 4480803545. Be among the first 25 applicants. No pay listed.",
+    "initials": "PM",
+    "color": "#DC2626"
+  },
+  {
     "id": "exemplar-luxury-group-coordinator-growth-marketing-paid-social",
     "title": "Coordinator, Growth Marketing - Paid Social",
     "company": "Exemplar Luxury Group",
@@ -9596,7 +9636,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 16 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Oct 17 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
