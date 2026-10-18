@@ -4602,26 +4602,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "beacon-bank-regional-marketing-coordinator",
-    "title": "Regional Marketing Coordinator",
-    "company": "Beacon Bank",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Regional Marketing Coordinator at Beacon Bank",
-    "salary": "$21",
-    "experience": "1-3 years of relevant professional experience Experience with Adobe Creative Clou",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470390858/",
-    "why": "Beacon Bank Regional Marketing Coordinator. Boston, MA. $21. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4470390858. Be among the first 25 applicants. Pay signal: $21.",
-    "initials": "BB",
-    "color": "#DB2777"
-  },
-  {
     "id": "precision-aq-strategic-account-associate-medical-communications-2703",
     "title": "Strategic Account Associate, Medical Communications",
     "company": "Precision AQ",
@@ -6354,26 +6334,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~2h / r21600). LinkedIn id 4469253006. 40 applicants. Boston.",
     "initials": "SA",
     "color": "#1D4ED8"
-  },
-  {
-    "id": "jcrew-merchandising-information-coordinator",
-    "title": "Merchandising Information Coordinator",
-    "company": "J.Crew",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Merchandising Information Coordinator supporting product data / systems for J.Crew fashion",
-    "salary": "$20.91-$24.21/hour",
-    "experience": "0-1 years. SAP/Jira/Salesforce a plus. Strong Excel and detail. Fashion priority true coordinator seat.",
-    "posted": "1 hour ago",
-    "applicants": "156 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4458052451/",
-    "why": "J.Crew Merchandising Information Coordinator - NYC fashion priority; 0-1 yrs; classic merch ops coordinator. Stretch vs pure brand marketing.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Fri 7 AM ET (posted ~1h / r21600). LinkedIn id 4458052451. 156 applicants. Fashion stretch.",
-    "initials": "JC",
-    "color": "#111827"
   },
   {
     "id": "mcb-marketing-events-associate",
@@ -9556,7 +9516,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 18 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Oct 18 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
