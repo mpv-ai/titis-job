@@ -6256,26 +6256,6 @@ const FALLBACK_JOBS = [
     "color": "#0E7490"
   },
   {
-    "id": "sony-music-commercial-partnerships-coordinator",
-    "title": "Coordinator, Commercial Partnerships",
-    "company": "Sony Music Entertainment",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Coordinator, Commercial Partnerships (DSP account support / release assets / pitch decks)",
-    "salary": "$50,000-$58,000",
-    "experience": "1-2 years music or entertainment preferred. True Commercial Partnerships Coordinator.",
-    "posted": "1 hour ago",
-    "applicants": "25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468019423/",
-    "why": "Sony Music Coordinator, Commercial Partnerships. NYC; $50-58k; 1-2 yrs entertainment. Classic label coordinator seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~1h / r21600). LinkedIn id 4468019423. 25 applicants.",
-    "initials": "SN",
-    "color": "#111827"
-  },
-  {
     "id": "samuels-associates-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Samuels & Associates",
@@ -6534,26 +6514,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Catch window Wed ~1-7 PM ET (posted ~10h). LinkedIn id 4417507190. Stretch: 2-4 yrs crypto growth.",
     "initials": "GE",
     "color": "#00DCFA"
-  },
-  {
-    "id": "mccann-junior-copywriter",
-    "title": "Junior Copywriter",
-    "company": "McCann",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC (Omnicom ≥3 days/week) · McCann junior copywriter",
-    "salary": "$55,000-$65,000",
-    "experience": "Junior / entry creative copy. Omnicom hybrid policy (≥3 days in office).",
-    "posted": "12 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468025533/",
-    "why": "McCann Junior Copywriter - first 25, $55-65k hybrid NYC agency creative. True junior marketing creative.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Wed ~7 AM-1 PM ET. LinkedIn id 4466866943. First 25. Distinct from mccann-gotham-aae. Twin-refresh Fri 7 PM ET: LinkedIn id 4466866943 -> 4468025533 (same McCann Junior Copywriter).",
-    "initials": "MC",
-    "color": "#DC2626"
   },
   {
     "id": "orion-assistant-analyst-activation",
@@ -9416,7 +9376,7 @@ const FALLBACK_JOBS = [
     "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 18 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Oct 18 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
