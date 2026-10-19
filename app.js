@@ -481,26 +481,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "nyfw-collections-account-coordinator-brand-partnerships",
-    "title": "Account Coordinator, Brand Partnerships",
-    "company": "NYFW Collections (N4XT)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Account Coordinator, Brand Partnerships at NYFW Collections (N4XT)",
-    "salary": "",
-    "experience": "Early career, 1-2 yrs (account management, brand partnerships, marketing or PR)",
-    "posted": "3 hours ago",
-    "applicants": "85 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478816234/",
-    "why": "Fashion Week brand partnerships role at N4XT / NYFW Collections. Manage 2-4 brand partner accounts across NYFW, LAFW and year-round programming, build decks and recaps in PowerPoint and Canva, and work on-site during fashion weeks. Pitched for someone early in their career.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4478816234. 85 applicants. Fashion Week brand partnerships, in person NYC. Hand-reviewed Oct 15 1 PM.",
-    "initials": "NC",
-    "color": "#BE185D"
-  },
-  {
     "id": "solcomms-account-coordinator-digital-health-oct15",
     "title": "Account Coordinator",
     "company": "SolComms",
@@ -999,26 +979,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4479079760. Be among the first 25 applicants. Pay signal: $50,000.",
     "initials": "PS",
     "color": "#059669"
-  },
-  {
-    "id": "ssi-people-ads-account-coordinator",
-    "title": "Ads Account Coordinator",
-    "company": "SSi People",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Ads Account Coordinator (order intake, creative upload, client execution)",
-    "salary": "",
-    "experience": "1-3 years in account coordination or sales planning asked. Coordinator level.",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4476462832/",
-    "why": "SSi People Ads Account Coordinator - hybrid NYC advertising sales-ops coordinator via staffing firm. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue ~7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4476462832. Be among the first 25 applicants.",
-    "initials": "SP",
-    "color": "#0891B2"
   },
   {
     "id": "burlington-stores-inc-temporary-merchandising-assistant",
@@ -3842,26 +3802,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "42west-assistant-account-executive",
-    "title": "Assistant Account Executive",
-    "company": "42West",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Assistant Account Executive at 42West",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "40 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473791873/",
-    "why": "42West Assistant Account Executive. New York, NY, On-site.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4473791873. 40 applicants.",
-    "initials": "42",
-    "color": "#0891B2"
-  },
-  {
     "id": "jonesworks-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "JONESWORKS",
@@ -4590,14 +4530,14 @@ const FALLBACK_JOBS = [
     "workplace": "Hybrid New York · Account Coordinator at griffin360",
     "salary": "",
     "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470331290/",
+    "posted": "4 hours ago",
+    "applicants": "47 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481241655/",
     "why": "griffin360 Account Coordinator. New York, NY, Hybrid. Early applicant window.",
-    "applyFirst": true,
+    "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470331290. Be among the first 25 applicants.",
+    "notes": "Guest page open. Primary window Fri 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470331290. Be among the first 25 applicants. Twin refresh Mon ~7:00 PM ET: url updated 4470331290 -> 4481241655.",
     "initials": "GR",
     "color": "#DC2626"
   },
@@ -6196,26 +6136,6 @@ const FALLBACK_JOBS = [
     "color": "#0E7490"
   },
   {
-    "id": "samuels-associates-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Samuels & Associates",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "On-site Boston · Marketing Coordinator across Fenway / Lyrik / S&A Collection (social, events, residential)",
-    "salary": "",
-    "experience": "Entry-level; 1-3 years (internships count). True Marketing Coordinator for Boston real-estate developer portfolio.",
-    "posted": "2 hours ago",
-    "applicants": "40 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469253006/",
-    "why": "Samuels & Associates Marketing Coordinator. Boston on-site; 1-3 yrs / internships count; social/events/content. Boston keeper.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~2h / r21600). LinkedIn id 4469253006. 40 applicants. Boston.",
-    "initials": "SA",
-    "color": "#1D4ED8"
-  },
-  {
     "id": "mcb-marketing-events-associate",
     "title": "Marketing & Events Associate",
     "company": "Metropolitan Commercial Bank",
@@ -6416,26 +6336,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "nytp-marketing-event-coordinator",
-    "title": "Marketing Event Coordinator",
-    "company": "New York Technology Partners",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · marketing event coordinator / marketing ops (registration, logistics, inbox)",
-    "salary": "$80,000",
-    "experience": "Entry marketing/events ops. Bachelor's marketing/business/comms preferred.",
-    "posted": "4 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473294853/",
-    "why": "NYTP Marketing Event Coordinator - $80k NYC metro marketing ops/events. True coordinator seat.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Wed ~1-7 PM ET. LinkedIn id 4468270544. Twin refresh Tue 1:00 PM ET: url updated 4468270544 -> 4473294853.",
-    "initials": "NT",
-    "color": "#2563EB"
-  },
-  {
     "id": "gemini-associate-growth-marketing",
     "title": "Associate, Growth Marketing (Advanced Trading Products)",
     "company": "Gemini",
@@ -6454,26 +6354,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Catch window Wed ~1-7 PM ET (posted ~10h). LinkedIn id 4417507190. Stretch: 2-4 yrs crypto growth.",
     "initials": "GE",
     "color": "#00DCFA"
-  },
-  {
-    "id": "orion-assistant-analyst-activation",
-    "title": "Assistant Analyst, Activation Operations",
-    "company": "Orion Worldwide",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Onsite NYC · Orion Worldwide media activation operations / Prisma & MBOX",
-    "salary": "",
-    "experience": "Entry-level labeled. Media schedule data, capital billing, invoice matching in Prisma. Media ops track.",
-    "posted": "3 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4443567999/",
-    "why": "Orion Assistant Analyst, Activation Operations - entry media ops NYC, 200 apps. Distinct from Orion Social Investment Associate.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Wed ~7 AM-1 PM ET. LinkedIn id 4443567999. Stretch: ops/analyst title vs classic coordinator.",
-    "initials": "OR",
-    "color": "#7C3AED"
   },
   {
     "id": "bloomingdales-digital-merchandise-coordinator-temp",
@@ -7714,26 +7594,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Deferred from Fri 7 PM keep; still open. LinkedIn id 4436123643.",
     "initials": "NY",
     "color": "#0033A0"
-  },
-  {
-    "id": "fanduel-league-team-marketing-coordinator",
-    "title": "League & Team Marketing Coordinator",
-    "company": "FanDuel",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · league/team marketing campaigns with CRM/growth/social partners",
-    "salary": "",
-    "experience": "~1 year marketing preferred; campaign timelines/deployment; bachelor's preferred",
-    "posted": "4 hours ago",
-    "applicants": "58 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461194129/",
-    "why": "FanDuel League & Team Marketing Coordinator. 1yr marketing preferred, campaign deployment. 58 applicants.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Fri ~1-7 PM ET. LinkedIn id 4461194129.",
-    "initials": "FA",
-    "color": "#1565C0"
   },
   {
     "id": "gotham-park-social-digital-content-coordinator",
@@ -9256,7 +9116,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 19 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Mon, Oct 19 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
