@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "heroes-model-management-communications-social-media-assistant",
+    "title": "Communications/Social Media Assistant",
+    "company": "Heroes Model Management",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Communications/Social Media Assistant at Heroes Model Management",
+    "salary": "",
+    "experience": "Entry level (early career)",
+    "posted": "3 hours ago",
+    "applicants": "160 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480995369/",
+    "why": "Fashion pick: early-career Social Media & Communications Assistant at Heroes Model Management (NYC modeling agency). Runs the agency's Instagram/TikTok, shoots and edits content at shows, shoots and fittings, supports brand partnerships and press. Salary not posted.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4480995369. 160 applicants. Salary not posted; LinkedIn lists Entry level. Adobe Premiere strongly preferred.",
+    "initials": "HM",
+    "color": "#059669"
+  },
+  {
     "id": "lasante-health-center-digital-marketing-coordinator",
     "title": "Digital Marketing Coordinator",
     "company": "LaSante Health Center",
@@ -701,26 +721,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "real-mccoy-hospitality-brand-social-media-coordinator",
-    "title": "Brand & Social Media Coordinator",
-    "company": "Real McCoy Hospitality Group",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site NYC · Social and content for one NYC venue (The Flying Cock, The Horny Ram, Buddy's, Turtle Bay Tavern group)",
-    "salary": "Pay n/a (based on experience)",
-    "experience": "Entry level. Portfolio or examples of content strongly encouraged.",
-    "posted": "4 hours ago",
-    "applicants": "76 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478492213/",
-    "why": "Real McCoy Hospitality Brand & Social Media Coordinator - entry level, owns Instagram/TikTok and creator outreach for one NYC bar/restaurant concept. Nights and weekends as needed.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4478492213. 76 applicants.",
-    "initials": "RM",
-    "color": "#7C3AED"
-  },
-  {
     "id": "m-booth-account-coordinator-consumer",
     "title": "Account Coordinator, Consumer",
     "company": "M Booth",
@@ -859,26 +859,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~1:00 PM ET (1 hour ago / tpr=r64800). LinkedIn id 4478474142. Be among the first 25 applicants. Pay signal: $55,000 - $75,000.",
     "initials": "BE",
     "color": "#7C3AED"
-  },
-  {
-    "id": "silverlining-development-social-media-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Silverlining Development",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Silverlining Development social content and posting calendar",
-    "salary": "",
-    "experience": "Entry level. Coursework or practical experience in marketing or communications preferred. Part-time.",
-    "posted": "15 hours ago",
-    "applicants": "50 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478401207/",
-    "why": "Silverlining Development Social Media Coordinator - part-time hybrid NYC role running Instagram and TikTok content for a real estate developer. Entry level, pay not listed.",
-    "applyFirst": false,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (15 hours ago / tpr=r64800). LinkedIn id 4478401207. 50 applicants.",
-    "initials": "SD",
-    "color": "#0D9488"
   },
   {
     "id": "rate-marketing-assistant",
@@ -1139,26 +1119,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4477909764. Be among the first 25 applicants. Part-time on-site Southborough MA (MetroWest Boston). Entry level; experience a plus.",
     "initials": "PP",
     "color": "#DB2777"
-  },
-  {
-    "id": "birkenstock-ecommerce-coordinator-product-content-digital-americas",
-    "title": "Ecommerce Coordinator, Product & Content, Digital Americas",
-    "company": "BIRKENSTOCK",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Ecommerce Coordinator, Product & Content, Digital Americas at BIRKENSTOCK",
-    "salary": "$68K-$80K",
-    "experience": "1-3 years ecommerce (fashion/consumer goods preferred)",
-    "posted": "2 hours ago",
-    "applicants": "45 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478550112/",
-    "why": "BIRKENSTOCK Ecommerce Coordinator, Product & Content, Digital Americas. On-site New York, $68K-$80K. Asks 1-3 years of ecommerce site work, fashion preferred.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4478550112. 45 applicants. Pay signal: $68.",
-    "initials": "BI",
-    "color": "#7C3AED"
   },
   {
     "id": "omnicom-media-integrated-media-planner",
@@ -1619,26 +1579,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu ~7:00 PM ET (5 hours ago / tpr=r43200). LinkedIn id 4477444562. 78 applicants. Pay signal: $67,500.",
     "initials": "GU",
     "color": "#111827"
-  },
-  {
-    "id": "creative-circle-junior-content-creator-beauty",
-    "title": "Junior Content Creator",
-    "company": "Creative Circle",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY (onsite) · Junior Content Creator via Creative Circle for a leading global beauty brand",
-    "salary": "$30/hour",
-    "experience": "Entry level. Strong Instagram/TikTok capture and editing. Beauty/fashion experience not required.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474859225/",
-    "why": "Creative Circle is staffing a Junior Content Creator for a leading global beauty brand in New York. Entry-level social content capture and editing for Instagram and TikTok, onsite, about $30/hour. Beauty-adjacent social seat with first-25 timing.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (3 hours ago / tpr=r43200). LinkedIn id 4474859225. Be among the first 25 applicants. Pay signal: $30/hour. Staffing for a global beauty brand client.",
-    "initials": "CC",
-    "color": "#DB2777"
   },
   {
     "id": "the-shipyard-account-coordinator",
@@ -6616,26 +6556,6 @@ const FALLBACK_JOBS = [
     "color": "#111827"
   },
   {
-    "id": "brilliant-aae-public-relations",
-    "title": "Assistant Account Executive, Public Relations",
-    "company": "Brilliant Agency",
-    "city": "New York",
-    "location": "New York, NY (remote)",
-    "workplace": "Remote · Brilliant Agency consumer PR AAE (LinkedIn company: Brilliant Infotech Inc.)",
-    "salary": "$48,000-$58,000",
-    "experience": "1+ years full-time agency experience in consumer products PR or integrated marketing. Bachelor's preferred.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473150890/",
-    "why": "Brilliant Agency AAE Public Relations - first 25, $48-58k remote NY consumer PR. True AAE track.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Tue ~1-7 PM ET. LinkedIn id 4465929156. First 25. Twin-refresh Wed 1 PM ET: LinkedIn id 4466873437 (was 4465929156). First 25. Twin refresh Fri ~1:00 PM ET: url updated 4466873437 -> 4473150890.",
-    "initials": "BA",
-    "color": "#7C3AED"
-  },
-  {
     "id": "digitas-planner-paid-social-nyc",
     "title": "Planner, Paid Social",
     "company": "Digitas North America (Publicis)",
@@ -8016,26 +7936,6 @@ const FALLBACK_JOBS = [
     "color": "#0D47A1"
   },
   {
-    "id": "roku-content-specialist-associate",
-    "title": "Content Specialist Associate",
-    "company": "Roku",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid · The Roku Channel content partnerships / licensing support",
-    "salary": "$74,900-$99,900",
-    "experience": "Entry/early stretch. 1-3 years relevant experience; Bachelor's required. Not a twin of roku-ad-marketing-coordinator.",
-    "posted": "2 hours ago",
-    "applicants": "29 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4443932147/",
-    "why": "Roku NYC Content Specialist Associate. Content partnerships track. 1-3 yrs. ~$75-100k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Distinct from roku-ad-marketing-coordinator 4461278200. LinkedIn id 4443932147.",
-    "initials": "RK",
-    "color": "#546E7A"
-  },
-  {
     "id": "macys-brand-management-nbd-assistant",
     "title": "Brand Management & New Business Development Assistant",
     "company": "Macy's",
@@ -9354,29 +9254,9 @@ const FALLBACK_JOBS = [
     "notes": "",
     "initials": "EC",
     "color": "#8B1E3F"
-  },
-  {
-    "id": "mamiye-junior-coordinator",
-    "title": "Junior Marketing Coordinator",
-    "company": "Mamiye Brothers",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "",
-    "salary": "",
-    "experience": "Junior title. Fashion/apparel marketing support.",
-    "posted": "2 weeks ago",
-    "applicants": "",
-    "url": "https://www.linkedin.com/jobs/view/4446653137/",
-    "why": "Title is Junior. Fashion/apparel marketing support.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "",
-    "initials": "MB",
-    "color": "#4A235A"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 19 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Oct 19 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
