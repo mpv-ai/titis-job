@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "conair-llc-customer-marketing-coordinator",
+    "title": "Customer Marketing Coordinator",
+    "company": "Conair LLC",
+    "city": "Stamford",
+    "location": "Stamford, CT",
+    "workplace": "Hybrid Stamford, CT · Customer Marketing Coordinator at Conair LLC (Beauty & Home Care)",
+    "salary": "$65,000-$90,000",
+    "experience": "1-3 years preferred (marketing, retail/shopper marketing, sales support, or project coordination). Bachelor's preferred.",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481542956/",
+    "why": "Conair (Beauty & Home Care portfolio) Customer Marketing Coordinator in Stamford, CT (NYC metro), hybrid, $65,000-$90,000. Coordinates retailer displays, samples, and customer marketing programs for big retail accounts. Under 25 applicants.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue ~7:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4481542956. Be among the first 25 applicants. Pay signal: $65k-$90k base. Beauty-adjacent.",
+    "initials": "CO",
+    "color": "#BE185D"
+  },
+  {
     "id": "lasante-health-center-digital-marketing-coordinator",
     "title": "Digital Marketing Coordinator",
     "company": "LaSante Health Center",
@@ -8916,26 +8936,6 @@ const FALLBACK_JOBS = [
     "color": "#3182CE"
   },
   {
-    "id": "kate-spade-assistant-ecommerce",
-    "title": "Assistant, eCommerce (Canada)",
-    "company": "kate spade new york",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid (typical Tapestry)",
-    "salary": "$30.25-$31.25/hour",
-    "experience": "2+ years ecommerce / digital merchandising / site ops / digital marketing.",
-    "posted": "3 days ago",
-    "applicants": "200+",
-    "url": "https://www.linkedin.com/jobs/view/4454163996/",
-    "why": "Assistant title at Tapestry. Site ops and launches more than brand marketing.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Supports Kate Spade Canada site. SFCC/Demandware preferred. Twin-refresh LinkedIn 4454163996 (was https://www.linkedin.com/jobs/view/4454154114/).",
-    "initials": "KS",
-    "color": "#D53F8C"
-  },
-  {
     "id": "bisnow-email-coordinator",
     "title": "Marketing Coordinator - Email Marketing",
     "company": "Bisnow",
@@ -9076,7 +9076,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 20 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Oct 20 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
