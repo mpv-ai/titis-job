@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "rtl-marketing-associate",
+    "title": "Marketing Associate",
+    "company": "RTL",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Marketing Associate at RTL",
+    "salary": "",
+    "experience": "Entry level (no years required in posting).",
+    "posted": "3 hours ago",
+    "applicants": "52 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481745795/",
+    "why": "RTL Marketing Associate in New York, NY (commercial real estate brokerage), listed as entry level. Runs HubSpot email campaigns and CRM upkeep, website listing updates, newsletters, and neighborhood photo content for social. Salary not posted.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4481745795. 52 applicants. Salary not posted, confirm it clears $60k.",
+    "initials": "RT",
+    "color": "#2563EB"
+  },
+  {
     "id": "conair-llc-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "Conair LLC",
@@ -879,26 +899,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~1:00 PM ET (11 hours ago / tpr=r64800). LinkedIn id 4479276287. 37 applicants. Pay signal: $61,000.",
     "initials": "AU",
     "color": "#2563EB"
-  },
-  {
-    "id": "robert-half-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "Robert Half",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Robert Half contract for a healthcare organization",
-    "salary": "$19.79-$22.91/hr",
-    "experience": "Temp/contract. Some prior experience supporting marketing campaigns or social media preferred.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479531464/",
-    "why": "Robert Half Marketing Assistant (contract) - $19.79-22.91/hr NYC, campaign and communications support for a healthcare organization. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (3 hours ago / tpr=r64800). LinkedIn id 4479531464. Be among the first 25 applicants. Pay signal: $19.79-$22.91/hr.",
-    "initials": "RH",
-    "color": "#CA8A04"
   },
   {
     "id": "furniture-com-digital-content-associate",
@@ -5136,26 +5136,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "m-m-lafleur-e-commerce-associate",
-    "title": "E-Commerce Associate",
-    "company": "M.M.LaFleur",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · E-Commerce Associate at M.M.LaFleur",
-    "salary": "$66,000",
-    "experience": "2-3 years of experience in e-commerce, digital operations, or a related field Ha",
-    "posted": "58 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471405082/",
-    "why": "M.M.LaFleur E-Commerce Associate. New York, NY, Hybrid. $66,000. Fashion/beauty-adjacent. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 AM ET (58 minutes ago / tpr=r21600). LinkedIn id 4471405082. Be among the first 25 applicants. Pay signal: $66,000.",
-    "initials": "MM",
-    "color": "#2563EB"
-  },
-  {
     "id": "forcebrands-growth-marketing-associate",
     "title": "Growth Marketing Associate",
     "company": "ForceBrands",
@@ -8996,7 +8976,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 20 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Oct 20 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
