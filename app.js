@@ -1,26 +1,6 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
-    "id": "heroes-model-management-communications-social-media-assistant",
-    "title": "Communications/Social Media Assistant",
-    "company": "Heroes Model Management",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Communications/Social Media Assistant at Heroes Model Management",
-    "salary": "",
-    "experience": "Entry level (early career)",
-    "posted": "3 hours ago",
-    "applicants": "160 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4480995369/",
-    "why": "Fashion pick: early-career Social Media & Communications Assistant at Heroes Model Management (NYC modeling agency). Runs the agency's Instagram/TikTok, shoots and edits content at shows, shoots and fittings, supports brand partnerships and press. Salary not posted.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4480995369. 160 applicants. Salary not posted; LinkedIn lists Entry level. Adobe Premiere strongly preferred.",
-    "initials": "HM",
-    "color": "#059669"
-  },
-  {
     "id": "lasante-health-center-digital-marketing-coordinator",
     "title": "Digital Marketing Coordinator",
     "company": "LaSante Health Center",
@@ -39,26 +19,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Sun ~1:00 AM ET (11 minutes ago / tpr=r21600). LinkedIn id 4479914488. Be among the first 25 applicants.",
     "initials": "LH",
     "color": "#BE185D"
-  },
-  {
-    "id": "pacagen-multi-brand-marketing-associate",
-    "title": "Multi-brand - Marketing Associate",
-    "company": "Pacagen",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Multi-brand - Marketing Associate at Pacagen",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479911409/",
-    "why": "Entry-level marketing associate for Pacagen and its RE:YOU luxury haircare brand (beauty-adjacent): paid social video ads, influencer collabs, creative strategy. On-site NYC, BA in any field, mentored by the co-founders. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sun ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4479911409. Be among the first 25 applicants.",
-    "initials": "PA",
-    "color": "#2563EB"
   },
   {
     "id": "net-a-porter-pr-coordinator-net-a-porter",
@@ -9116,7 +9076,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 19 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Oct 20 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
