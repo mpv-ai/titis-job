@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "conair-llc-social-media-coordinator",
+    "title": "Social Media Coordinator",
+    "company": "Conair LLC",
+    "city": "Stamford",
+    "location": "Stamford, CT",
+    "workplace": "Stamford, CT · Social Media Coordinator at Conair LLC (Beauty & Home Care)",
+    "salary": "$65,000-$75,000",
+    "experience": "1-2 years in social media, community management, or brand marketing (internships count).",
+    "posted": "1 hour ago",
+    "applicants": "35 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481706157/",
+    "why": "Conair (Beauty & Home Care portfolio) Social Media Coordinator in Stamford, CT (NYC metro), $65,000-$75,000 plus annual bonus. Runs community management, creator reposts and influencer amplification. Internships count toward the 1-2 years.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue ~1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4481706157. 35 applicants. Pay signal: $65k-$75k base plus bonus. Beauty-adjacent.",
+    "initials": "CO",
+    "color": "#BE185D"
+  },
+  {
     "id": "conair-llc-customer-marketing-coordinator",
     "title": "Customer Marketing Coordinator",
     "company": "Conair LLC",
@@ -3462,26 +3482,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "walt-disney-searchlight-publicity-coordinator",
-    "title": "Publicity Coordinator (PH), Searchlight Pictures",
-    "company": "The Walt Disney Company",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Publicity Coordinator (PH), Searchlight Pictures at The Walt Disney Company",
-    "salary": "$56,600-$75,900",
-    "experience": "",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479314921/",
-    "why": "The Walt Disney Company Publicity Coordinator (PH), Searchlight Pictures. Publicity coordinator for Searchlight Pictures (Disney specialty film). New York, NY.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "ZipRecruiter posting. Window Thu ~7:00 PM ET (4 hours ago). ZR jid c1fd5f27c957942f. Pay signal: $56,600-$75,900. Twin refresh Fri ~7:00 AM ET: url updated c1fd5f27c957942f -> 4479314921.",
-    "initials": "TW",
-    "color": "#D97706"
-  },
-  {
     "id": "blank-street-marketing-associate-nyc",
     "title": "Marketing Associate | NYC",
     "company": "Blank Street",
@@ -3740,26 +3740,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4472317432. 52 applicants. Pay signal: $50.",
     "initials": "DG",
     "color": "#7C3AED"
-  },
-  {
-    "id": "motion-recruitment-brand-marketing-coordinator",
-    "title": "Brand Marketing Coordinator",
-    "company": "Motion Recruitment",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Brand Marketing Coordinator at Motion Recruitment",
-    "salary": "",
-    "experience": "1-2 years of experience in marketing, entertainment, media, advertising, or a related fie",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473796436/",
-    "why": "Motion Recruitment Brand Marketing Coordinator. New York, NY, On-site. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4473796436. Be among the first 25 applicants.",
-    "initials": "MR",
-    "color": "#059669"
   },
   {
     "id": "precision-medicine-group-assistant-account-executive-market-access-mar",
@@ -4822,26 +4802,6 @@ const FALLBACK_JOBS = [
     "color": "#EA580C"
   },
   {
-    "id": "fuss-o-neill-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "Fuss & O'Neill",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Marketing Assistant at Fuss & O'Neill",
-    "salary": "$30",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "5 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462416466/",
-    "why": "Fuss & O'Neill Marketing Assistant. Boston, MA, Hybrid. $30.",
-    "applyFirst": false,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4462416466. 200 applicants. Pay signal: $30.",
-    "initials": "FO",
-    "color": "#BE185D"
-  },
-  {
     "id": "unifirst-corporation-merchandising-coordinator-unifirst",
     "title": "Merchandising Coordinator - UniFirst",
     "company": "UniFirst Corporation",
@@ -5614,26 +5574,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470494979. 26 applicants. Pay signal: $88,000.",
     "initials": "FH",
     "color": "#0891B2"
-  },
-  {
-    "id": "the-tjx-companies-inc-backroom-merchandising-associate",
-    "title": "Backroom Merchandising Associate",
-    "company": "The TJX Companies, Inc.",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Backroom Merchandising Associate at The TJX Companies, Inc.",
-    "salary": "$16",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469056262/",
-    "why": "The TJX Companies, Inc. Backroom Merchandising Associate. Boston, MA. $16. Fashion/beauty-adjacent. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4469056262. Be among the first 25 applicants. Pay signal: $16.",
-    "initials": "TC",
-    "color": "#CA8A04"
   },
   {
     "id": "what-goes-around-comes-around-digital-marketing-associate",
@@ -7856,26 +7796,6 @@ const FALLBACK_JOBS = [
     "color": "#1A237E"
   },
   {
-    "id": "marchon-jr-paid-media-specialist",
-    "title": "Jr. Paid Media Specialist",
-    "company": "Marchon Partners",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston hybrid (3 days) · 12+ month W2 contract supporting US retail paid media",
-    "salary": "$26-$36/hr",
-    "experience": "Stretch entry. Labeled entry-level; 2-4 years digital/media incl. internships or placements OK.",
-    "posted": "Just now",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462475004/",
-    "why": "Marchon/Boston Jr Paid Media Specialist. Hands-on entry paid social/search. First 25. $26-36/hr W2 contract.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": true,
-    "notes": "Guest page open. First 25. Stretch 2-4 yrs incl internships. LinkedIn id 4462475004.",
-    "initials": "MP",
-    "color": "#00695C"
-  },
-  {
     "id": "horizon-planner-paid-social",
     "title": "Planner, Paid Social",
     "company": "Horizon Media",
@@ -9076,7 +8996,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 20 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Oct 20 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
