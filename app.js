@@ -2221,26 +2221,6 @@ const FALLBACK_JOBS = [
     "color": "#0D9488"
   },
   {
-    "id": "id-content-assistant-public-relations",
-    "title": "Content Assistant Public Relations",
-    "company": "ID",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote New York · Content Assistant Public Relations at ID",
-    "salary": "$45,000",
-    "experience": "entry-level opportunity for a highly motivated and detail-oriented indi",
-    "posted": "21 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474624993/",
-    "why": "ID Content Assistant, Public Relations in New York (remote listed). $45,000. Entertainment PR agency content team working on film, TV, and streaming release and awards campaigns. Described as entry-level. Under 25 applicants when found.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (21 minutes ago / tpr=r21600). LinkedIn id 4474624993. Be among the first 25 applicants. Pay signal: $45,000.",
-    "initials": "ID",
-    "color": "#CA8A04"
-  },
-  {
     "id": "bask-and-lather-co-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "Bask and Lather Co",
@@ -4040,26 +4020,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 1:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4471905253. Be among the first 25 applicants. Pay signal: $25 - $30.",
     "initials": "CA",
     "color": "#CA8A04"
-  },
-  {
-    "id": "hearst-digital-marketing-services-temporary-assistant-social-media-edi",
-    "title": "Temporary Assistant Social Media Editor",
-    "company": "Hearst Digital Marketing Services",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Temporary Assistant Social Media Editor at Hearst Digital Marketing Services",
-    "salary": "$25",
-    "experience": "1+ years of experience managing or creating social media content for",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471260765/",
-    "why": "Hearst Digital Marketing Services Temporary Assistant Social Media Editor. New York, NY, On-site. $25. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4471260765. Be among the first 25 applicants. Pay signal: $25.",
-    "initials": "HD",
-    "color": "#BE185D"
   },
   {
     "id": "emazzanti-technologies-marketing-coordinator",
@@ -8976,7 +8936,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 20 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Wed, Oct 21 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
