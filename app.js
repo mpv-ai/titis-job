@@ -821,26 +821,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "noble-people-assistant-media-planner",
-    "title": "Assistant Media Planner",
-    "company": "Noble People",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Noble People media planning and buying (creative media agency)",
-    "salary": "$42,500-$45,000",
-    "experience": "True entry. Assistant Media Planner at an independent creative media agency.",
-    "posted": "17 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479537094/",
-    "why": "Noble People Assistant Media Planner - $42.5-45k NYC, entry media planning at a creative agency. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (17 hours ago / tpr=r64800). LinkedIn id 4479537094. Be among the first 25 applicants. Pay signal: $42,500.",
-    "initials": "NP",
-    "color": "#4F46E5"
-  },
-  {
     "id": "bedgear-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "BEDGEAR",
@@ -3882,26 +3862,6 @@ const FALLBACK_JOBS = [
     "color": "#CA8A04"
   },
   {
-    "id": "michael-kors-project-coordinator-e-commerce",
-    "title": "Project Coordinator, E-Commerce",
-    "company": "Michael Kors",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Project Coordinator, E-Commerce at Michael Kors",
-    "salary": "$65,000",
-    "experience": "0-1 years of relevant Project/Product Management experience",
-    "posted": "4 hours ago",
-    "applicants": "93 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473512471/",
-    "why": "Michael Kors Project Coordinator, E-Commerce. New York, NY, On-site. $65,000. Fashion/beauty-adjacent.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4473512471. 93 applicants. Pay signal: $65,000.",
-    "initials": "MK",
-    "color": "#BE185D"
-  },
-  {
     "id": "cypress-hcm-brand-marketing-coordinator",
     "title": "Brand Marketing Coordinator",
     "company": "Cypress HCM",
@@ -3940,26 +3900,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4471937600. 34 applicants. Pay signal: $55,000-$65,000,.",
     "initials": "SU",
     "color": "#2563EB"
-  },
-  {
-    "id": "worn-wound-ad-operations-client-services-coordinator",
-    "title": "Ad Operations & Client Services Coordinator",
-    "company": "Worn & Wound",
-    "city": "Brooklyn",
-    "location": "Brooklyn, NY",
-    "workplace": "Hybrid Brooklyn · Ad Operations & Client Services Coordinator at Worn & Wound",
-    "salary": "$65,000-$75,000",
-    "experience": "Entry level",
-    "posted": "2 hours ago",
-    "applicants": "32 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471908497/",
-    "why": "Worn & Wound Ad Operations & Client Services Coordinator. Brooklyn, NY, Hybrid. $65,000-$75,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4471908497. 32 applicants. Pay signal: $65,000-$75,000.",
-    "initials": "WW",
-    "color": "#BE185D"
   },
   {
     "id": "uneeda-social-media-coordinator-part-time",
@@ -4342,26 +4282,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "cella-marketing-operations-coordinator",
-    "title": "Marketing Operations Coordinator",
-    "company": "Cella",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Marketing Operations Coordinator at Cella",
-    "salary": "$28",
-    "experience": "1+ years of experience in marketing operations, campaign operations,",
-    "posted": "3 hours ago",
-    "applicants": "31 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462350073/",
-    "why": "Cella Marketing Operations Coordinator. New York, NY. $28.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4462350073. 31 applicants. Pay signal: $28.",
-    "initials": "CE",
-    "color": "#059669"
-  },
-  {
     "id": "precision-aq-strategic-account-associate-medical-communications",
     "title": "Strategic Account Associate, Medical Communications",
     "company": "Precision AQ",
@@ -4620,26 +4540,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri 1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4471811371. Be among the first 25 applicants.",
     "initials": "BR",
     "color": "#DC2626"
-  },
-  {
-    "id": "rapport-guest-services-meeting-and-events-coordinator",
-    "title": "Meeting and Events Coordinator",
-    "company": "Rapport Guest Services",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Meeting and Events Coordinator at Rapport Guest Services",
-    "salary": "$28-$30",
-    "experience": "1-3 years of experience in hospitality industry Proficient skills in Word, Excel,",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471827143/",
-    "why": "Rapport Guest Services Meeting and Events Coordinator. New York, NY. $28-$30. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1:00 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4471827143. Be among the first 25 applicants. Pay signal: $28-$30.",
-    "initials": "RG",
-    "color": "#0891B2"
   },
   {
     "id": "phaxis-marketing-operations-coordinator",
@@ -5256,26 +5156,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "steve-madden-key-account-coordinator-betsey-johnson-footwear",
-    "title": "Key Account Coordinator, Betsey Johnson Footwear",
-    "company": "Steve Madden",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Key Account Coordinator, Betsey Johnson Footwear at Steve Madden",
-    "salary": "$60,000 - $65,000",
-    "experience": "2-3 years’ experience in customer service or related field Proficient in Microsof",
-    "posted": "2 hours ago",
-    "applicants": "72 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462085097/",
-    "why": "Steve Madden Key Account Coordinator, Betsey Johnson Footwear. New York, NY. $60,000 - $65,000. Fashion/beauty-adjacent.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1 AM ET (2 hours ago / tpr=r21600). LinkedIn id 4462085097. 72 applicants. Pay signal: $60,000 - $65,000.",
-    "initials": "SM",
-    "color": "#2563EB"
-  },
-  {
     "id": "pursuit-community-development-partnership-associate",
     "title": "Community Development & Partnership Associate",
     "company": "Pursuit",
@@ -5416,26 +5296,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "heilind-electronics-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Heilind Electronics",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Marketing Coordinator at Heilind Electronics",
-    "salary": "",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469067705/",
-    "why": "Heilind Electronics Marketing Coordinator. Boston, MA, Hybrid. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4469067705. Be among the first 25 applicants.",
-    "initials": "HE",
-    "color": "#059669"
-  },
-  {
     "id": "biospace-leadership-enablement-and-communications-coordinator",
     "title": "Leadership Enablement and Communications Coordinator",
     "company": "BioSpace",
@@ -5514,26 +5374,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470494979. 26 applicants. Pay signal: $88,000.",
     "initials": "FH",
     "color": "#0891B2"
-  },
-  {
-    "id": "what-goes-around-comes-around-digital-marketing-associate",
-    "title": "Digital Marketing Associate",
-    "company": "What Goes Around Comes Around",
-    "city": "Jersey City",
-    "location": "Jersey City, NJ",
-    "workplace": "On-site Jersey City · Digital Marketing Associate at What Goes Around Comes Around",
-    "salary": "$60,000",
-    "experience": "1-3 years of experience in digital marketing, e-commerce, paid media, SEO, affiliate mark",
-    "posted": "2 hours ago",
-    "applicants": "57 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470455740/",
-    "why": "What Goes Around Comes Around Digital Marketing Associate. Jersey City, NJ, On-site. $60,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4470455740. 57 applicants. Pay signal: $60,000.",
-    "initials": "WG",
-    "color": "#BE185D"
   },
   {
     "id": "abrams-fensterman-llp-marketing-assistant",
@@ -5894,26 +5734,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon 1 PM ET (posted ~2h / r21600). LinkedIn id 4467626241. 38 applicants.",
     "initials": "RF",
     "color": "#2563EB"
-  },
-  {
-    "id": "dow-jones-associate-corporate-communications",
-    "title": "Associate, Corporate Communications",
-    "company": "Dow Jones",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · Associate, Corporate Communications (global communications team)",
-    "salary": "$60,000-$75,000",
-    "experience": "0-2 years professional experience. Corporate communications associate under Dow Jones global comms.",
-    "posted": "3 hours ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4457554808/",
-    "why": "Dow Jones Associate, Corporate Communications. NYC hybrid; $60-75k; 0-2 yrs. True entry corporate comms (busy applicant count).",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 1 PM ET (posted ~3h / r21600). LinkedIn id 4457554808. Over 200 applicants.",
-    "initials": "DJ",
-    "color": "#1E3A5F"
   },
   {
     "id": "healthfitness-harvard-recreation-marketing-assistant",
@@ -7316,26 +7136,6 @@ const FALLBACK_JOBS = [
     "color": "#9A3412"
   },
   {
-    "id": "steve-madden-dolce-vita-marketing-assistant",
-    "title": "Marketing Assistant, Dolce Vita",
-    "company": "Steve Madden",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Dolce Vita brand marketing (Steve Madden family)",
-    "salary": "$26-$30/hr",
-    "experience": "Entry marketing assistant supporting brand marketing under Senior Brand Marketing Manager.",
-    "posted": "",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4454568103/",
-    "why": "Steve Madden / Dolce Vita NYC Marketing Assistant at $26-30/hr. Clear entry brand-marketing seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Caught on r86400 Sat 7 AM ET (posted ~17h ago). LinkedIn id 4454568103. Distinct from steve-madden-brand-associate.",
-    "initials": "SM",
-    "color": "#111111"
-  },
-  {
     "id": "rowan-creative-project-coordinator",
     "title": "Creative Project Coordinator",
     "company": "Rowan",
@@ -7834,26 +7634,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. First 25. LinkedIn id 4462400820.",
     "initials": "LB",
     "color": "#1565C0"
-  },
-  {
-    "id": "kiss-beauty-associate-international-marketing",
-    "title": "Associate, International Marketing",
-    "company": "Kiss Beauty Group",
-    "city": "New York",
-    "location": "Port Washington, NY",
-    "workplace": "Port Washington (Long Island) onsite · KISS Products International social/brand marketing",
-    "salary": "$19.25-$36.55/hr (~$40-76k)",
-    "experience": "Entry. BS required; 0-2 years relevant marketing/industry exposure. Brand marketing skills; English.",
-    "posted": "43 minutes ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4451914018/",
-    "why": "True-entry Kiss Beauty International Marketing Associate (0-2 yrs). Social, trade, packaging for EU markets. Port Washington NY metro. Hourly $19-37.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Over 200 applicants. LI Entry level. Comp stated hourly 19.25-36.55. LinkedIn id 4451914018.",
-    "initials": "KB",
-    "color": "#C2185B"
   },
   {
     "id": "televisaunivision-account-coordinator",
@@ -8936,7 +8716,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Oct 21 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Wed, Oct 21 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
