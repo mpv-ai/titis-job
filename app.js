@@ -1,6 +1,66 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "birkenstock-ecommerce-coordinator-digital-americas",
+    "title": "Ecommerce Coordinator, Product & Content, Digital Americas",
+    "company": "BIRKENSTOCK",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "NYC/Tri-State · Ecommerce Coordinator at BIRKENSTOCK (Footwear & Apparel)",
+    "salary": "$68,000-$80,000",
+    "experience": "1-3 years in ecommerce website management (fashion or consumer goods preferred).",
+    "posted": "5 hours ago",
+    "applicants": "166 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481137680/",
+    "why": "Birkenstock Ecommerce Coordinator in the NYC/Tri-State area, $68,000-$80,000. Manages product pages and site content for the Americas web store, builds creative briefs for site campaigns, and partners with creative and merchandising. Fashion footwear brand, on-site.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4481137680. 166 applicants. Fresh posting of the role that closed Oct 19 (old id 4478550112). Asks for 1-3 years, so a stretch but fashion and well above the $60k floor.",
+    "initials": "BI",
+    "color": "#92400E"
+  },
+  {
+    "id": "envogue-international-aae-home-2026-10-21",
+    "title": "Assistant Account Executive",
+    "company": "EnVogue International",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "New York · Assistant Account Executive at EnVogue International (Home Décor & Textiles)",
+    "salary": "$60,000",
+    "experience": "1+ years in wholesale sales, account coordination, or merchandising.",
+    "posted": "3 hours ago",
+    "applicants": "31 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4482160494/",
+    "why": "EnVogue International AAE in the NYC metro, $60,000. Supports wholesale accounts with major North American retailers for a home décor and home textiles company (pillows, bedding, rugs). On-site. Retail-facing account work, right at the $60k floor.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4482160494. 31 applicants. Repost of the AAE role that closed Oct 14 (old id 4477699989).",
+    "initials": "EN",
+    "color": "#0F766E"
+  },
+  {
+    "id": "jefferies-corporate-events-coordinator",
+    "title": "Corporate Events Coordinator",
+    "company": "Jefferies",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York, NY · Corporate Events Coordinator at Jefferies",
+    "salary": "$75,000-$85,000",
+    "experience": "1+ years of event planning or related experience preferred.",
+    "posted": "2 hours ago",
+    "applicants": "57 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481157432/",
+    "why": "Jefferies Corporate Events Coordinator in New York, $75,000-$85,000. Helps plan client and internal events and sponsorships (dinners, receptions, speaker series, sporting events) across the U.S., Canada and Latin America. On-site. Events marketing at an investment bank, not fashion.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4481157432. 57 applicants. 1+ year preferred, not required.",
+    "initials": "JE",
+    "color": "#1E3A8A"
+  },
+  {
     "id": "rtl-marketing-associate",
     "title": "Marketing Associate",
     "company": "RTL",
@@ -199,26 +259,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4480539517. 32 applicants. Pay signal: $55,000.",
     "initials": "LA",
     "color": "#7C3AED"
-  },
-  {
-    "id": "vertisystem-a-mouri-tech-company-publicity-coordinator",
-    "title": "Publicity Coordinator",
-    "company": "Vertisystem (A MOURI Tech Company)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Onsite New York, NY · Publicity Coordinator (via Vertisystem)",
-    "salary": "$30",
-    "experience": "1+ years; entertainment publicity helpful.",
-    "posted": "42 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4480553845/",
-    "why": "Publicity Coordinator via Vertisystem (A MOURI Tech Company). Onsite New York, NY. $30/hr contract. Drafts press materials, manages show assets, coordinates talent travel and glam. Asks 1+ years.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (42 minutes ago / tpr=r21600). LinkedIn id 4480553845. Be among the first 25 applicants. Pay signal: $30.",
-    "initials": "VM",
-    "color": "#D97706"
   },
   {
     "id": "newedge-wealth-marketing-coordinator",
@@ -3622,26 +3662,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "jmi-sports-coordinator-external-communications",
-    "title": "Coordinator, External Communications",
-    "company": "JMI Sports",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Coordinator, External Communications at JMI Sports",
-    "salary": "$67,000",
-    "experience": "1-2 years of relevant experience in communications, public relations, or a related field,",
-    "posted": "3 hours ago",
-    "applicants": "82 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472635396/",
-    "why": "JMI Sports Coordinator, External Communications. New York, NY. $67,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4472635396. 82 applicants. Pay signal: $67,000.",
-    "initials": "JS",
-    "color": "#2563EB"
-  },
-  {
     "id": "hearst-magazines-performance-marketing-associate-social",
     "title": "Performance Marketing Associate, Social",
     "company": "Hearst Magazines",
@@ -5256,26 +5276,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "farrow-ball-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "Farrow & Ball",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Marketing Assistant at Farrow & Ball",
-    "salary": "$55,000",
-    "experience": "0-2 years of experience in marketing, communications, or a related field; internship expe",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468983069/",
-    "why": "Farrow & Ball Marketing Assistant. New York, NY, Hybrid. $55,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4468983069. Be among the first 25 applicants. Pay signal: $55,000.",
-    "initials": "FB",
-    "color": "#BE185D"
-  },
-  {
     "id": "undra-celeste-new-york-executive-brand-operations-assistant",
     "title": "Executive & Brand Operations Assistant",
     "company": "Undra Celeste New York",
@@ -5676,26 +5676,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "icsc-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "ICSC",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC · Marketing Coordinator supporting ICSC events, programs, and member initiatives",
-    "salary": "$65,000",
-    "experience": "1-3 years marketing, communications, or event marketing. Early-career integrated campaigns seat.",
-    "posted": "5 hours ago",
-    "applicants": "129 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467660362/",
-    "why": "ICSC Marketing Coordinator. Hybrid NYC; about $65k; campaigns for retail-real-estate industry events and member programs.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4467660362. 129 applicants. Pay signal: $65,000. Industry association for retail places and spaces. Integrated marketing campaigns for events and PR.",
-    "initials": "IC",
-    "color": "#2563EB"
-  },
-  {
     "id": "farmacy-beauty-coordinator-pr-influencer",
     "title": "Coordinator, PR & Influencer",
     "company": "Farmacy Beauty",
@@ -6074,26 +6054,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Catch from ~24h window (missed prior). LinkedIn id 4457413917. 0-2 yrs growth marketing.",
     "initials": "VI",
     "color": "#059669"
-  },
-  {
-    "id": "horizon-analyst-search-engine-marketing",
-    "title": "Analyst, Search Engine Marketing",
-    "company": "Horizon Media",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · Horizon Media SEM Analyst (Google/Yahoo/Bing search)",
-    "salary": "$66,300",
-    "experience": "True entry / early. 6 months-1+ years SEM (Google/Yahoo/Bing) preferred.",
-    "posted": "10 hours ago",
-    "applicants": "139 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4447231258/",
-    "why": "Horizon Media Analyst, SEM - ~$66.3k NYC search marketing, 6 mo-1+ yrs; 139 apps.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Catch from ~12-24h window. LinkedIn id 4447231258. Distinct from Horizon Paid Social Planner / Integrated Investment seats.",
-    "initials": "HM",
-    "color": "#4338CA"
   },
   {
     "id": "tko-paid-media-associate",
@@ -7376,26 +7336,6 @@ const FALLBACK_JOBS = [
     "color": "#1565C0"
   },
   {
-    "id": "morning-brew-associate-gtm-strategy",
-    "title": "Associate, GTM Strategy",
-    "company": "Morning Brew Inc.",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "Remote",
-    "salary": "",
-    "experience": "1-2 years; start-of-career deck/sales-support focus",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461943144/",
-    "why": "Morning Brew early-career GTM Strategy Associate building sales decks/packages; 1-2 years; remote-friendly NYC metro team; first 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Remote-friendly but team NYC-based. Guest page open. Posted in ~1 PM-9 PM ET window Thu Sep 3 (12h/24h catch). LinkedIn id 4461943144.",
-    "initials": "MB",
-    "color": "#FF5C35"
-  },
-  {
     "id": "jenny-yoo-part-time-marketing-assistant",
     "title": "Part Time Marketing Assistant",
     "company": "Jenny Yoo Collection",
@@ -8014,26 +7954,6 @@ const FALLBACK_JOBS = [
     "notes": "144 applicants. Direct mail production, donor acknowledgements, inventory, supporter care. CWA-represented.",
     "initials": "NA",
     "color": "#1A6B3C"
-  },
-  {
-    "id": "sony-marketing-admin-coordinator",
-    "title": "Marketing and Administrative Coordinator",
-    "company": "Sony Electronics",
-    "city": "New York",
-    "location": "Paramus, NJ",
-    "workplace": "Hybrid · Professional Display Solutions",
-    "salary": "",
-    "experience": "Entry-coordinator. Social/marketing execution plus ops and executive admin support.",
-    "posted": "5 hours ago",
-    "applicants": "29",
-    "url": "https://www.linkedin.com/jobs/view/4458698368/",
-    "why": "Sony Pro Display marketing+admin coordinator. Hybrid NJ, social/marketing + exec support.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "29 applicants. Marketing calendars, sales materials, social initiatives, admin.",
-    "initials": "SE",
-    "color": "#000000"
   },
   {
     "id": "ulac-digital-marketing-coordinator",
@@ -8716,7 +8636,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Oct 21 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Wed, Oct 21 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
