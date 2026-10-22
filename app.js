@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "gymshark-creator-marketing-associate",
+    "title": "Creator Marketing Associate",
+    "company": "Gymshark",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Creator Marketing Associate at Gymshark",
+    "salary": "$65,000 - $75,000",
+    "experience": "No years required; creator/influencer relationship experience preferred.",
+    "posted": "3 hours ago",
+    "applicants": "63 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4479456715/",
+    "why": "Gymshark (athletic apparel) Creator Marketing Associate. New York, NY, Hybrid. $65-75k salary, no years requirement listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4479456715. 63 applicants. Salary $65,000 - $75,000.",
+    "initials": "GY",
+    "color": "#2563EB"
+  },
+  {
     "id": "birkenstock-ecommerce-coordinator-digital-americas",
     "title": "Ecommerce Coordinator, Product & Content, Digital Americas",
     "company": "BIRKENSTOCK",
@@ -5376,26 +5396,6 @@ const FALLBACK_JOBS = [
     "color": "#0891B2"
   },
   {
-    "id": "abrams-fensterman-llp-marketing-assistant",
-    "title": "Marketing Assistant",
-    "company": "Abrams Fensterman, LLP",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Assistant at Abrams Fensterman, LLP",
-    "salary": "$55",
-    "experience": "1-3 years of marketing, communications, administrative, or related professional experienc",
-    "posted": "6 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4459258352/",
-    "why": "Abrams Fensterman, LLP Marketing Assistant. New York, NY. $55.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (6 hours ago / tpr=r21600). LinkedIn id 4459258352. 200 applicants. Pay signal: $55.",
-    "initials": "AF",
-    "color": "#7C3AED"
-  },
-  {
     "id": "creative-circle-media-coordinator-streaming-partnerships-paid-media",
     "title": "Media Coordinator, Streaming Partnerships & Paid Media",
     "company": "Creative Circle",
@@ -8436,26 +8436,6 @@ const FALLBACK_JOBS = [
     "color": "#0038A8"
   },
   {
-    "id": "macerich-social-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Macerich",
-    "city": "New York",
-    "location": "Elmhurst, NY",
-    "workplace": "Onsite",
-    "salary": "$25-$30/hr",
-    "experience": "No years required. Portfolio of TikTok/Reels. Part-time students encouraged.",
-    "posted": "7 hours ago",
-    "applicants": "31",
-    "url": "https://www.linkedin.com/jobs/view/4447717533/",
-    "why": "Entry-level social with no year bar. Students encouraged. Short-form video required.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "24-29 hrs/week; 6-month term, possible extension. On-site 2 weekdays plus some weekends. Submit TikTok/IG + 2-3 reels + analytics.",
-    "initials": "MC",
-    "color": "#E31837"
-  },
-  {
     "id": "king-spalding-bd-coordinator",
     "title": "Business Development Coordinator",
     "company": "King & Spalding",
@@ -8636,7 +8616,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Oct 21 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Thu, Oct 22 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
