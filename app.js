@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "locala-content-marketing-coordinator",
+    "title": "Content Marketing Coordinator",
+    "company": "Locala",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Remote (New York listing)",
+    "salary": "$65,000",
+    "experience": "No years listed, coordinator level",
+    "posted": "4 hours ago",
+    "applicants": "106 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481609064/",
+    "why": "Content Marketing Coordinator at an adtech company, listed in New York and remote. Owns the content calendar, copywriting and editing, LinkedIn social, and sponsored PR placements. Pays $65k and lists no years of experience. Not fashion, but a true coordinator-level marketing role.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted ~4 hours before the ~7:00 PM ET Thu Oct 22 window check. LinkedIn id 4481609064. 106 applicants.",
+    "initials": "LO",
+    "color": "#2563EB"
+  },
+  {
     "id": "mahoney-communications-group-account-coordinator-public-relations-agen",
     "title": "Account Coordinator - public relations agency",
     "company": "Mahoney Communications Group",
@@ -39,26 +59,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4479456715. 63 applicants. Salary $65,000 - $75,000.",
     "initials": "GY",
     "color": "#2563EB"
-  },
-  {
-    "id": "birkenstock-ecommerce-coordinator-digital-americas",
-    "title": "Ecommerce Coordinator, Product & Content, Digital Americas",
-    "company": "BIRKENSTOCK",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC/Tri-State · Ecommerce Coordinator at BIRKENSTOCK (Footwear & Apparel)",
-    "salary": "$68,000-$80,000",
-    "experience": "1-3 years in ecommerce website management (fashion or consumer goods preferred).",
-    "posted": "5 hours ago",
-    "applicants": "166 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4481137680/",
-    "why": "Birkenstock Ecommerce Coordinator in the NYC/Tri-State area, $68,000-$80,000. Manages product pages and site content for the Americas web store, builds creative briefs for site campaigns, and partners with creative and merchandising. Fashion footwear brand, on-site.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4481137680. 166 applicants. Fresh posting of the role that closed Oct 19 (old id 4478550112). Asks for 1-3 years, so a stretch but fashion and well above the $60k floor.",
-    "initials": "BI",
-    "color": "#92400E"
   },
   {
     "id": "envogue-international-aae-home-2026-10-21",
@@ -6975,26 +6975,6 @@ const FALLBACK_JOBS = [
     "color": "#E85D04"
   },
   {
-    "id": "finn-aae-technology-pr",
-    "title": "Assistant Account Executive - Technology Public Relations",
-    "company": "FINN Partners",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC metro · East Coast Tech PR team",
-    "salary": "$21.64-$26.44/hr",
-    "experience": "True entry AAE. NYC-metro Tech PR; sibling of Manufacturing PR AAE already on the board.",
-    "posted": "22 minutes ago",
-    "applicants": "36 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4454806424/",
-    "why": "FINN Partners NYC Tech PR AAE at $21.64-26.44/hr. Paid full-time despite LinkedIn Volunteer label. Strong twin to the Manufacturing PR AAE.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Sat ~1-7 AM ET. LinkedIn id 4454806424. Employment type mislabeled Volunteer on guest page; salary range confirms hourly FT.",
-    "initials": "FP",
-    "color": "#9A3412"
-  },
-  {
     "id": "rowan-creative-project-coordinator",
     "title": "Creative Project Coordinator",
     "company": "Rowan",
@@ -7715,26 +7695,6 @@ const FALLBACK_JOBS = [
     "color": "#1B4F72"
   },
   {
-    "id": "finn-aae-manufacturing-pr",
-    "title": "Assistant Account Executive - Manufacturing Public Relations",
-    "company": "FINN Partners",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC metro · 1-2 days in office · manufacturing PR",
-    "salary": "",
-    "experience": "True entry AAE. Bachelor’s + 1 year PR agency/corp or equivalent internships. Immediate hire.",
-    "posted": "15 minutes ago",
-    "applicants": "Be among the first 25",
-    "url": "https://www.linkedin.com/jobs/view/4460572859/",
-    "why": "FINN Partners NYC AAE on the Manufacturing PR team. Internships count. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Hybrid 1-2 days in office. Media pitches, press, thought leadership, coverage tracking. Early applicant window.",
-    "initials": "FP",
-    "color": "#9A3412"
-  },
-  {
     "id": "anfisa-content-associate",
     "title": "Content Associate",
     "company": "ANFISA",
@@ -7793,26 +7753,6 @@ const FALLBACK_JOBS = [
     "notes": "Stretch: hospitality/client experience vs classic marketing. Over 200 applicants.",
     "initials": "HE",
     "color": "#F37021"
-  },
-  {
-    "id": "workgenius-social-content-strategy-assistant",
-    "title": "Temporary Social Content Strategy Assistant",
-    "company": "WorkGenius Group",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Contract · temp through Mar 2027 · social content",
-    "salary": "$26/hr",
-    "experience": "Entry. 1-2 years social/digital marketing. Content calendar, publishing, asset tracking.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469091999/",
-    "why": "Temp social content strategy assistant in NYC. 1-2 yrs, $26/hr, through March 2027.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": true,
-    "notes": "Stretch: contract/temp. 168 applicants. Plan/publish social, calendars, merch/campaign asset coordination. Twin refresh Wed 1:00 AM ET: url updated 4440297108 -> 4469091999.",
-    "initials": "WG",
-    "color": "#1B4F72"
   },
   {
     "id": "omnicom-omnet-investment-associate",
@@ -8295,26 +8235,6 @@ const FALLBACK_JOBS = [
     "color": "#C2410C"
   },
   {
-    "id": "thg-dermstore-paid-search",
-    "title": "Assistant, Paid Search | Dermstore",
-    "company": "THG / Dermstore",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid · 3 days office",
-    "salary": "$65,000-$70,000",
-    "experience": "Entry. Google Ads / Shopping experience expected.",
-    "posted": "5 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4438643585/",
-    "why": "Assistant title, beauty ecomm, first-25, posted today. Apply if you have any Google Ads exposure.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Heavy Google Search/Shopping. Excel/large datasets.",
-    "initials": "TH",
-    "color": "#C9184A"
-  },
-  {
     "id": "aipac-marketing-associate",
     "title": "Marketing Associate",
     "company": "AIPAC",
@@ -8515,7 +8435,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 22 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Thu, Oct 22 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
