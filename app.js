@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "mahoney-communications-group-account-coordinator-public-relations-agen",
+    "title": "Account Coordinator - public relations agency",
+    "company": "Mahoney Communications Group",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York",
+    "salary": "Not listed",
+    "experience": "0-2 years (internships count), entry level",
+    "posted": "11 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4481389042/",
+    "why": "Entry-level PR Account Coordinator at a NYC agency (cleantech and climate clients, not fashion). Asks for 0-2 years including internships and a bachelor's. Fresh posting with under 25 applicants. Salary not listed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted ~11 minutes before the ~1:00 PM ET Thu Oct 22 window check (tpr=r21600). LinkedIn id 4481389042. Be among the first 25 applicants.",
+    "initials": "MC",
+    "color": "#059669"
+  },
+  {
     "id": "gymshark-creator-marketing-associate",
     "title": "Creator Marketing Associate",
     "company": "Gymshark",
@@ -279,26 +299,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4480539517. 32 applicants. Pay signal: $55,000.",
     "initials": "LA",
     "color": "#7C3AED"
-  },
-  {
-    "id": "newedge-wealth-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "NewEdge Wealth",
-    "city": "New York",
-    "location": "Stamford, CT",
-    "workplace": "Onsite Stamford, CT (NYC metro) · Marketing Coordinator at NewEdge Wealth",
-    "salary": "$24",
-    "experience": "Entry level (bachelor's in marketing or communications).",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4477715922/",
-    "why": "NewEdge Wealth Marketing Coordinator. Onsite Stamford, CT (NYC metro). $24/hr. Entry level, written for a motivated new grad: campaigns, social media, events, BD support.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4477715922. Be among the first 25 applicants. Pay signal: $24.",
-    "initials": "NW",
-    "color": "#0D9488"
   },
   {
     "id": "sony-electronics-marketing-associate-events-and-programs",
@@ -1659,26 +1659,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4475728122. Be among the first 25 applicants. Pay signal: $24/hr. Boston posting of the same fellowship (4475718567) deduped.",
     "initials": "OR",
     "color": "#0F766E"
-  },
-  {
-    "id": "tee-commerce-marketing-merchandising-coordinator",
-    "title": "Marketing and Merchandising Coordinator",
-    "company": "Tee Commerce",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston, MA (hybrid) · Marketing and Merchandising Coordinator at Tee Commerce (online merch stores for golf clubs)",
-    "salary": "$65,000-$75,000",
-    "experience": "1-3+ years in marketing, ecommerce merchandising, content creation, or related. LinkedIn seniority: Entry level.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475730309/",
-    "why": "Tee Commerce, a fast-growing Boston startup, builds custom online apparel and merch stores for private golf clubs. This coordinator plans seasonal promotions and marketing calendars, creates the emails, social posts, and on-site graphics, and curates storefront collections and layouts to lift sales. Hands-on retail merchandising and ecommerce work. Hybrid, $65k-$75k.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4475730309. Be among the first 25 applicants. 1-3+ yrs (LinkedIn says Entry level). Pay signal: $65,000-$75,000.",
-    "initials": "TC",
-    "color": "#15803D"
   },
   {
     "id": "whalar-executive-client-services",
@@ -4722,27 +4702,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "hilton-area-marketing-coordinator-nyc-nj-waldorf-astoria-new-york",
-    "title": "Area Marketing Coordinator NYC / NJ - Waldorf Astoria New York",
-    "company": "Hilton",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Area Marketing Coordinator NYC / NJ - Waldorf Astoria New York at Hilton",
-    "salary": "$40",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "18 minutes ago",
-    "applicants": "26 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471624452/",
-    "why": "Hilton Area Marketing Coordinator NYC / NJ - Waldorf Astoria New York. New York, NY. $40.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 PM ET (18 minutes ago / tpr=r21600). LinkedIn id 4471624452. 26 applicants. Pay signal: $40.",
-    "initials": "HI",
-    "color": "#BE185D",
-    "jid": "4471624452"
-  },
-  {
     "id": "versant-media-coordinator-brand-marketing-sports",
     "title": "Coordinator, Brand Marketing, Sports",
     "company": "Versant Media",
@@ -5154,26 +5113,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4469347401. Be among the first 25 applicants. Pay signal: $88,200 - $101,400.",
     "initials": "HG",
     "color": "#0D9488"
-  },
-  {
-    "id": "robert-half-communications-coordinator",
-    "title": "Communications Coordinator",
-    "company": "Robert Half",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Communications Coordinator at Robert Half",
-    "salary": "$30",
-    "experience": "3 - 4+ years of experience in communications, HR, project management, or related St",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469618033/",
-    "why": "Robert Half Communications Coordinator. Boston, MA, Hybrid. $30. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4469618033. Be among the first 25 applicants. Pay signal: $30.",
-    "initials": "RH",
-    "color": "#EA580C"
   },
   {
     "id": "brahmin-leather-works-creative-marketing-coordinator",
@@ -8576,7 +8515,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 22 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Oct 22 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
