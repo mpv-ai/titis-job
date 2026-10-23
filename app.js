@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "bellwether-staffing-solutions-wholesale-fashion-sales-assistant",
+    "title": "Wholesale Fashion Sales Assistant",
+    "company": "Bellwether Staffing Solutions",
+    "city": "New York",
+    "location": "New York, NY (Midtown)",
+    "workplace": "On-site, 5 days in office (Midtown)",
+    "salary": "$70,000-$75,000",
+    "experience": "1+ year (wholesale fashion, apparel, merchandising or sales support)",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4480687742/",
+    "why": "Recruiter listing for a multi-brand men's apparel company in Midtown. Supports the sales team and Account Executives with luxury retail partners like Saks Fifth Avenue and Neiman Marcus: buyer relationships, orders, line sheets, showroom samples, market prep and weekly sales reports. Pays $70-75k base and asks for about 1 year of related experience. A strong fashion foot in the door, similar to an AAE wholesale role.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted ~3 hours before the ~7:00 PM ET Fri Oct 23 window check. LinkedIn id 4480687742. Early applicant window. Local candidates only, no sponsorship.",
+    "initials": "BS",
+    "color": "#DC2626"
+  },
+  {
     "id": "locala-content-marketing-coordinator",
     "title": "Content Marketing Coordinator",
     "company": "Locala",
@@ -379,26 +399,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~1:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4480356726. 65 applicants. Pay signal: $66,000.",
     "initials": "WI",
     "color": "#BE185D"
-  },
-  {
-    "id": "new-world-group-inc-marketing-client-services-assistant-luxury-real-es",
-    "title": "Marketing & Client Services Assistant | Luxury Real Estate",
-    "company": "New World Group, Inc",
-    "city": "New York",
-    "location": "Secaucus, NJ",
-    "workplace": "Hybrid Secaucus, NJ (NYC metro) · Marketing & Client Services Assistant at New World Group, Inc",
-    "salary": "$50,000-$60,000",
-    "experience": "Entry level",
-    "posted": "3 hours ago",
-    "applicants": "25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479359534/",
-    "why": "New World Group Marketing & Client Services Assistant at a boutique ad agency for luxury residential real estate. Secaucus, NJ (NYC metro), hybrid. $50,000-$60,000. Written for a recent college grad. Luxury-adjacent.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4479359534. 25 applicants. Pay signal: $50,000-$60,000.",
-    "initials": "NW",
-    "color": "#059669"
   },
   {
     "id": "experis-marketing-coordinator",
@@ -2913,27 +2913,6 @@ const FALLBACK_JOBS = [
     "source": "linkedin"
   },
   {
-    "id": "atlantic-group-japanese-speaking-client-services-associate",
-    "title": "Japanese Speaking Client Services Associate",
-    "company": "Atlantic Group",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "On-site Boston · Japanese Speaking Client Services Associate at Atlantic Group",
-    "salary": "$120,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475025390/",
-    "why": "Atlantic Group Japanese Speaking Client Services Associate. Boston, MA, On-site. $120,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET Oct 2 (3 hours ago / tpr=r21600). LinkedIn id 4475025390. Be among the first 25 applicants. Pay signal: $120,000.",
-    "initials": "AT",
-    "color": "#EA580C",
-    "source": "linkedin"
-  },
-  {
     "id": "liberty-key-account-coordinator-specialist-gas-utility",
     "title": "Key Account Coordinator/Specialist (Gas Utility)",
     "company": "Liberty",
@@ -4161,26 +4140,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "madison-square-garden-entertainment-corp-coordinator-partner-managemen",
-    "title": "Coordinator Partner Management & Activation",
-    "company": "Madison Square Garden Entertainment Corp.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Coordinator Partner Management & Activation at Madison Square Garden Entertainment Corp.",
-    "salary": "$60,000",
-    "experience": "1-3 years of strategic consulting or account management experience; particularly in sport",
-    "posted": "3 hours ago",
-    "applicants": "45 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470393619/",
-    "why": "Madison Square Garden Entertainment Corp. Coordinator Partner Management & Activation. New York, NY, On-site. $60,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470393619. 45 applicants. Pay signal: $60,000.",
-    "initials": "MS",
-    "color": "#BE185D"
-  },
-  {
     "id": "msl-global-assistant-account-executive-consumer",
     "title": "Assistant Account Executive, Consumer",
     "company": "MSL (Global)",
@@ -4893,26 +4852,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "hearts-united-media-planner-new-york",
-    "title": "Media Planner (New York)",
-    "company": "Hearts United",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Media Planner (New York) at Hearts United",
-    "salary": "",
-    "experience": "1+ years of experience in a digital media planning/buying position a",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471132205/",
-    "why": "Hearts United Media Planner (New York). New York, NY, On-site. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4471132205. Be among the first 25 applicants.",
-    "initials": "HU",
-    "color": "#DC2626"
-  },
-  {
     "id": "mediahub-worldwide-media-planner",
     "title": "Media Planner",
     "company": "Mediahub Worldwide",
@@ -4991,26 +4930,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed 1 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4469312628. Be among the first 25 applicants. Pay signal: $75,000-$80,000.",
     "initials": "PU",
     "color": "#D97706"
-  },
-  {
-    "id": "axis-communications-field-marketing-coordinator-northeast",
-    "title": "Field Marketing Coordinator, Northeast",
-    "company": "Axis Communications",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "On-site Boston · Field Marketing Coordinator, Northeast at Axis Communications",
-    "salary": "$32",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "26 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469486263/",
-    "why": "Axis Communications Field Marketing Coordinator, Northeast. Boston, MA, On-site. $32. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 1 AM ET (26 minutes ago / tpr=r21600). LinkedIn id 4469486263. Be among the first 25 applicants. Pay signal: $32.",
-    "initials": "AC",
-    "color": "#0D9488"
   },
   {
     "id": "aramark-marketing-coordinator",
@@ -5953,26 +5872,6 @@ const FALLBACK_JOBS = [
     "color": "#E31837"
   },
   {
-    "id": "truvideo-marketing-coordinator",
-    "title": "Marketing Coordinator - Demand Generation & Marketing Operations",
-    "company": "TruVideo",
-    "city": "Boston",
-    "location": "Wellesley, MA",
-    "workplace": "On-site Wellesley, MA · Marketing Coordinator (demand gen + marketing ops)",
-    "salary": "$65,000-$85,000",
-    "experience": "Stretch. 2-3 years professional marketing required.",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4465584862/",
-    "why": "applyFirst TruVideo Marketing Coordinator - Wellesley on-site, $65-85k, first 25; 2-3 yrs stretch.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "2-3 years hard req - stretch for ~1yr target. Boston metro.",
-    "initials": "TV",
-    "color": "#6A1B9A"
-  },
-  {
     "id": "steve-madden-wholesale-product-coordinator",
     "title": "Wholesale Product Coordinator",
     "company": "Steve Madden",
@@ -6811,26 +6710,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Caught on r86400 Sat 7 AM ET (posted ~15h ago). LinkedIn id 4462302826. applyFirst.",
     "initials": "RO",
     "color": "#6A1B9A"
-  },
-  {
-    "id": "audacy-promotions-assistant",
-    "title": "Promotions Assistant",
-    "company": "Audacy",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC on-site/hybrid · part-time radio promotions for CBS-AM/WINS/WFAN and sister stations",
-    "salary": "$17/hr",
-    "experience": "Part-time entry promotions; events + listener/client interaction under Promotions Director",
-    "posted": "",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4463680027/",
-    "why": "Audacy NYC Promotions Assistant (part-time). Radio station events/promotions, ~$17/hr, first 25.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 PM-Sat ~1 AM ET. LinkedIn id 4463680027. Part-time stretch.",
-    "initials": "AU",
-    "color": "#E65100"
   },
   {
     "id": "footlocker-associate-owned-media",
@@ -8173,7 +8052,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 23 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Oct 23 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
