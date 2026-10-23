@@ -7875,26 +7875,6 @@ const FALLBACK_JOBS = [
     "color": "#0B6E6B"
   },
   {
-    "id": "nypr-sponsorship-sales-assistant",
-    "title": "Sales Assistant, Sponsorship",
-    "company": "New York Public Radio",
-    "city": "New York",
-    "location": "New York, NY (WNYC)",
-    "workplace": "Hybrid · at least 2 days onsite",
-    "salary": "$34.28/hr ($62,400)",
-    "experience": "1-2 years office / admin / client-service / coordination preferred. Interest in media, advertising, podcasts, radio, or account coordination.",
-    "posted": "6 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473043025/",
-    "why": "Brand-new WNYC/NYPR sponsorship assistant: proposals, RFPs, campaign coordination across radio/podcast/digital. True early-career media ops, first 25, posted tonight.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "SAG-AFTRA covered. Reports to Accounts Operations Manager. Non-exempt. Twin refresh Mon 7:00 PM ET: url updated 4459056671 -> 4473043025.",
-    "initials": "NP",
-    "color": "#E31C23"
-  },
-  {
     "id": "digitas-media-associate-boston",
     "title": "Media Associate",
     "company": "Digitas North America (Publicis)",
@@ -8375,7 +8355,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 23 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Oct 23 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
