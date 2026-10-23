@@ -421,26 +421,6 @@ const FALLBACK_JOBS = [
     "color": "#D97706"
   },
   {
-    "id": "sokolove-law-marketing-associate",
-    "title": "Marketing Associate",
-    "company": "Sokolove Law",
-    "city": "Boston",
-    "location": "Chestnut Hill, MA",
-    "workplace": "Hybrid Chestnut Hill, MA (Boston metro), 2 days in office · Marketing Associate at Sokolove Law",
-    "salary": "$65,000-$75,000",
-    "experience": "Entry level",
-    "posted": "58 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479381427/",
-    "why": "Sokolove Law Marketing Associate in product marketing. Chestnut Hill, MA (Boston metro), hybrid. $65,000-$75,000 plus bonus. Entry level, supports email campaigns and marketing projects.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~1:00 PM ET (58 minutes ago / tpr=r21600). LinkedIn id 4479381427. Be among the first 25 applicants. Pay signal: $65,000-$75,000.",
-    "initials": "SL",
-    "color": "#0D9488"
-  },
-  {
     "id": "fashion-institute-of-technology-part-time-marketing-social-media-coord",
     "title": "Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs",
     "company": "Fashion Institute of Technology",
@@ -1339,26 +1319,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~7:00 PM ET (53 minutes ago / tpr=r43200 12h window). LinkedIn id 4477889098. Be among the first 25 applicants. Pay signal: $18.",
     "initials": "AM",
     "color": "#7C3AED"
-  },
-  {
-    "id": "torres-zheng-at-law-p-c-nyc-law-firm-social-media-coordinator",
-    "title": "NYC Law Firm - Social Media Coordinator",
-    "company": "Torres & Zheng at Law, P.C.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · NYC Law Firm - Social Media Coordinator at Torres & Zheng at Law, P.C.",
-    "salary": "$60,000",
-    "experience": "1-2 years in video editing, content creation, social media or digital marketing.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4477446791/",
-    "why": "Social Media Coordinator at a boutique NYC business law firm (Torres & Zheng at Law), $60k, on-site. 1-2 years of video editing, content creation or social experience. Not fashion, but a real social coordinator seat.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (4 hours ago / tpr=r43200 12h window). LinkedIn id 4477446791. Be among the first 25 applicants. Pay signal: $60,000.",
-    "initials": "TZ",
-    "color": "#2563EB"
   },
   {
     "id": "pratt-institute-marketing-communications-assistant-71108",
@@ -2974,27 +2934,6 @@ const FALLBACK_JOBS = [
     "source": "linkedin"
   },
   {
-    "id": "whitecap-search-marketing-coordinator-social-strategist",
-    "title": "Marketing Coordinator / Social Strategist",
-    "company": "WhiteCap Search",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Marketing Coordinator / Social Strategist at WhiteCap Search",
-    "salary": "$35",
-    "experience": "2-3 years of experience in a corporate marketing department or similar professional marke",
-    "posted": "10 hours ago",
-    "applicants": "28 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474762162/",
-    "why": "WhiteCap Search Marketing Coordinator / Social Strategist. New York, NY, On-site. $35.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET Oct 2 (10 hours ago / tpr=r43200). LinkedIn id 4474762162. 28 applicants. Pay signal: $35.",
-    "initials": "WS",
-    "color": "#2563EB",
-    "source": "linkedin"
-  },
-  {
     "id": "liberty-key-account-coordinator-specialist-gas-utility",
     "title": "Key Account Coordinator/Specialist (Gas Utility)",
     "company": "Liberty",
@@ -4502,26 +4441,6 @@ const FALLBACK_JOBS = [
     "color": "#D97706"
   },
   {
-    "id": "braintrust-growth-marketing-coordinator-us-remote",
-    "title": "Growth Marketing Coordinator (US-Remote)",
-    "company": "Braintrust",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote New York · Growth Marketing Coordinator (US-Remote) at Braintrust",
-    "salary": "",
-    "experience": "3-6 years of experience in growth marketing, community marketing, events, or a related fi",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471811371/",
-    "why": "Braintrust Growth Marketing Coordinator (US-Remote). New York, NY, Remote. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4471811371. Be among the first 25 applicants.",
-    "initials": "BR",
-    "color": "#DC2626"
-  },
-  {
     "id": "phaxis-marketing-operations-coordinator",
     "title": "Marketing Operations Coordinator",
     "company": "Phaxis",
@@ -4702,27 +4621,6 @@ const FALLBACK_JOBS = [
     "initials": "SJ",
     "color": "#2563EB",
     "jid": "4459977860"
-  },
-  {
-    "id": "software-guidance-assistance-inc-sga-inc-social-media-analytics-operat",
-    "title": "Social Media Analytics & Operations Coordinator - New York, NY | Hybrid",
-    "company": "Software Guidance & Assistance, Inc. (SGA, Inc.)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Social Media Analytics & Operations Coordinator - New York, NY | Hybrid at Software Guidance & Assistance, Inc. (SGA, Inc.)",
-    "salary": "$43",
-    "experience": "2-4 years of experience in social media analytics, digital marketing, social media operat",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469683231/",
-    "why": "Software Guidance & Assistance, Inc. (SGA, Inc.) Social Media Analytics & Operations Coordinator - New York, NY | Hybrid. New York, NY, Hybrid. $43. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4469683231. Be among the first 25 applicants. Pay signal: $43.",
-    "initials": "SG",
-    "color": "#D97706",
-    "jid": "4469683231"
   },
   {
     "id": "confidential-social-media-analytics-operations-coordinator",
@@ -4953,26 +4851,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu 1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4471166608. Be among the first 25 applicants. Pay signal: $30. Judge: unpaid flag was false positive (employee volunteer perks).",
     "initials": "HM",
     "color": "#BE185D"
-  },
-  {
-    "id": "forcebrands-growth-marketing-associate",
-    "title": "Growth Marketing Associate",
-    "company": "ForceBrands",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Remote Boston · Growth Marketing Associate at ForceBrands",
-    "salary": "$32",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471177631/",
-    "why": "ForceBrands Growth Marketing Associate. Boston, MA, Remote. $32. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Contract",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 AM ET (2 hours ago / tpr=r21600). LinkedIn id 4471177631. Be among the first 25 applicants. Pay signal: $32.",
-    "initials": "FO",
-    "color": "#059669"
   },
   {
     "id": "empro-insurance-marketing-and-events-coordinator",
@@ -6895,26 +6773,6 @@ const FALLBACK_JOBS = [
     "color": "#311B92"
   },
   {
-    "id": "digitas-associate-planner-video-boston",
-    "title": "Associate Planner, Video Investment",
-    "company": "Digitas North America (Publicis)",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Digitas Publicis video investment / streaming media planning",
-    "salary": "$50,065-$73,944",
-    "experience": "Entry/early Associate Planner track; video investment & streaming (Boston twin of NYC seat).",
-    "posted": "19 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461410430/",
-    "why": "Digitas Boston Associate Planner, Video Investment. True entry media-planning rung; Boston twin of existing NYC Digitas video seat. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. First 25. Boston location twin of digitas-associate-planner-video (4448466476). Caught on r86400 within ~24h / Sat ~7 AM-1 PM ET. LinkedIn id 4461410430.",
-    "initials": "DI",
-    "color": "#6A1B9A"
-  },
-  {
     "id": "omd-associate-digital-activation",
     "title": "Associate, Digital Activation",
     "company": "OMD",
@@ -7553,46 +7411,6 @@ const FALLBACK_JOBS = [
     "notes": "Different from existing Horizon Futures / Sports / Trade roles on feed.",
     "initials": "HN",
     "color": "#B45309"
-  },
-  {
-    "id": "omnicom-ptarmigan-associate-media-planner",
-    "title": "Associate Media Planner",
-    "company": "Omnicom Media (Ptarmigan Media)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid (Omnicom 3 days in office) · Ptarmigan Media / financial-services media",
-    "salary": "$50,000-$55,000",
-    "experience": "Entry. Bachelor’s preferred (comms/advertising/marketing). 3 months+ business experience or internships.",
-    "posted": "34 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4460617333/",
-    "why": "True-entry Associate Media Planner at Omnicom’s Ptarmigan (FS media). Internships count. First 25. $50-55k.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Not a twin of OMnet Investment 4440774212 or Social Investment 4448208242. Campaign cycle planning/build/execute/report. Guest first-25. LinkedIn id 4460617333.",
-    "initials": "PT",
-    "color": "#1565C0"
-  },
-  {
-    "id": "momentum-aae-ticketing",
-    "title": "Assistant Associate, Business Leadership - Ticketing",
-    "company": "Momentum Worldwide (Omnicom)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid (Omnicom 3 days in office) · Entertainment Access / ticketing & comms",
-    "salary": "$50,000-$55,000",
-    "experience": "Entry. 1-2 years entertainment, ticketing, marketing, or account support preferred. Intern-level ok as stretch.",
-    "posted": "8 hours ago",
-    "applicants": "123 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4451474341/",
-    "why": "Omnicom/Momentum AAE on a ticketing & communications team. 1-2 years preferred. $50-55k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "LinkedIn title is Assistant Associate; JD says Assistant Account Executive. Guest 123 applicants. LinkedIn id 4451474341.",
-    "initials": "MT",
-    "color": "#E65100"
   },
   {
     "id": "pimco-etf-alternatives-marketing-associate",
@@ -8355,7 +8173,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 23 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Oct 23 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
