@@ -3782,26 +3782,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "wildlife-conservation-society-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Wildlife Conservation Society",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Coordinator at Wildlife Conservation Society",
-    "salary": "$65,000 - $70,000",
-    "experience": "1-3 years of marketing experience, internships included",
-    "posted": "4 hours ago",
-    "applicants": "113 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473505714/",
-    "why": "Wildlife Conservation Society Marketing Coordinator. New York, NY. $65,000 - $70,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4473505714. 113 applicants. Pay signal: $65,000 - $70,000.",
-    "initials": "WC",
-    "color": "#BE185D"
-  },
-  {
     "id": "equinox-coordinator-social-media",
     "title": "Coordinator, Social Media",
     "company": "Equinox",
@@ -4060,26 +4040,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon 7:00 PM ET (2 hours ago / live guest). LinkedIn id 4458655488. Be among the first 25 applicants.",
     "initials": "PU",
     "color": "#DC2626"
-  },
-  {
-    "id": "hearst-magazines-temporary-assistant-social-media-editor",
-    "title": "Temporary Assistant Social Media Editor",
-    "company": "Hearst Magazines",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Temporary Assistant Social Media Editor at Hearst Magazines",
-    "salary": "$25",
-    "experience": "1+ years of experience managing or creating social media content for",
-    "posted": "19 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471225183/",
-    "why": "Hearst Magazines Temporary Assistant Social Media Editor. New York, NY, On-site. $25. Hearst Magazines / House Beautiful lifestyle media. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7:00 PM ET (19 minutes ago / live guest). LinkedIn id 4471225183. Be among the first 25 applicants. Pay signal: $25.",
-    "initials": "HM",
-    "color": "#4F46E5"
   },
   {
     "id": "usta-new-england-digital-marketing-coordinator",
@@ -8335,26 +8295,6 @@ const FALLBACK_JOBS = [
     "color": "#2874A6"
   },
   {
-    "id": "cartier-brand-strategy-coordinator",
-    "title": "Coordinator, Brand Strategy & Planning",
-    "company": "Cartier",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Onsite",
-    "salary": "$30-$34/hr",
-    "experience": "Bachelor's; 1-2 years project management and/or coordination.",
-    "posted": "4 days ago",
-    "applicants": "200+",
-    "url": "https://www.linkedin.com/jobs/view/4417861086/",
-    "why": "Luxury coordinator in NYC. 1-2 year bar, internships can help.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Richemont JR126584. Adobe + PowerPoint expected. Twin-refresh LinkedIn 4417861086 (was https://careers.richemont.com/en/jobs/jr126584/coordinator-brand-strategy-planning/).",
-    "initials": "CA",
-    "color": "#AF0524"
-  },
-  {
     "id": "coverforce-marketing-associate",
     "title": "Marketing Associate",
     "company": "CoverForce",
@@ -8435,7 +8375,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Oct 22 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Oct 23 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
