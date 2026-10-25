@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "francesca-simons-consulting-public-relations-coordinator",
+    "title": "Public Relations Coordinator",
+    "company": "Francesca Simons Consulting",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Public Relations Coordinator at Francesca Simons Consulting",
+    "salary": "",
+    "experience": "Entry level",
+    "posted": "5 hours ago",
+    "applicants": "45 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4482643917/",
+    "why": "Entry-level PR coordinator at a New York PR and communications consultancy. Drafts press materials, builds media lists, tracks coverage, helps with events. Bachelor's in PR, Communications or Marketing; a prior PR internship is preferred. No salary listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted ~5 hours before the Sun Oct 25 ~1:00 AM ET run. LinkedIn id 4482643917. 45 applicants. On-site NYC, full-time.",
+    "initials": "FS",
+    "color": "#BE185D"
+  },
+  {
     "id": "bellwether-staffing-solutions-wholesale-fashion-sales-assistant",
     "title": "Wholesale Fashion Sales Assistant",
     "company": "Bellwether Staffing Solutions",
@@ -7626,7 +7646,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Oct 24 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Oct 25 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
