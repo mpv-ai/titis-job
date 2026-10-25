@@ -4280,26 +4280,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "bof-careers-ralph-lauren-brand-marketing-associate-wholesale-luxury",
-    "title": "Ralph Lauren Brand Marketing Associate, Wholesale Luxury",
-    "company": "BoF Careers",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Ralph Lauren Brand Marketing Associate, Wholesale Luxury at BoF Careers",
-    "salary": "",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470096109/",
-    "why": "BoF Careers Ralph Lauren Brand Marketing Associate, Wholesale Luxury. New York, NY, On-site. Fashion/beauty-adjacent. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 7:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4470096109. Be among the first 25 applicants.",
-    "initials": "BC",
-    "color": "#7C3AED"
-  },
-  {
     "id": "orchestra-account-coordinator-real-estate",
     "title": "Account Coordinator, Real Estate",
     "company": "Orchestra",
@@ -7646,7 +7626,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 25 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Oct 25 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
