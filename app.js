@@ -4220,26 +4220,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "blb-fundraising-and-events-event-coordinator",
-    "title": "Event Coordinator",
-    "company": "BLB Fundraising and Events",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote New York · Event Coordinator at BLB Fundraising and Events",
-    "salary": "$60,000",
-    "experience": "2-3 years of live event and/or fundraising experience, or an equivalent acceptable combin",
-    "posted": "35 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470336169/",
-    "why": "BLB Fundraising and Events Event Coordinator. New York, NY, Remote. $60,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1:00 PM ET (35 minutes ago / tpr=r21600). LinkedIn id 4470336169. Be among the first 25 applicants. Pay signal: $60,000.",
-    "initials": "BF",
-    "color": "#0891B2"
-  },
-  {
     "id": "nfp-an-aon-company-event-coordinator",
     "title": "Event Coordinator",
     "company": "NFP, an Aon company",
@@ -6326,26 +6306,6 @@ const FALLBACK_JOBS = [
     "color": "#E85D04"
   },
   {
-    "id": "rowan-creative-project-coordinator",
-    "title": "Creative Project Coordinator",
-    "company": "Rowan",
-    "city": "Larchmont",
-    "location": "Larchmont, NY",
-    "workplace": "Larchmont, NY · ear-piercing retail brand creative/project ops (Westchester stretch)",
-    "salary": "$62,400-$65,000",
-    "experience": "Entry creative project coordinator; brand creative ops stretch outside Manhattan.",
-    "posted": "",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462302826/",
-    "why": "Rowan Larchmont Creative Project Coordinator $62.4-65k, first 25. Stretch Westchester retail-brand creative seat.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Caught on r86400 Sat 7 AM ET (posted ~15h ago). LinkedIn id 4462302826. applyFirst.",
-    "initials": "RO",
-    "color": "#6A1B9A"
-  },
-  {
     "id": "footlocker-associate-owned-media",
     "title": "Associate, Owned Media",
     "company": "Foot Locker",
@@ -7626,7 +7586,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Oct 25 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Oct 25 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
