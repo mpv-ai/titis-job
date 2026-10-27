@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "delta-children-content-coordinator",
+    "title": "Content Coordinator",
+    "company": "Delta Children",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Content Coordinator at Delta Children",
+    "salary": "",
+    "experience": "Entry level",
+    "posted": "2 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4483793448/",
+    "why": "Delta Children (baby and kids furniture brand) Content Coordinator, writing product and e-commerce copy. Entry level, hybrid NYC, posted 2 hours ago with under 25 applicants. Pay not listed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Found Tue Oct 27 ~1:00 AM ET (2 hours ago / tpr=r604800). LinkedIn id 4483793448. Be among the first 25 applicants.",
+    "initials": "DC",
+    "color": "#BE185D"
+  },
+  {
     "id": "digital-brand-architects-talent-coordinator-influencer-management",
     "title": "Talent Coordinator (Influencer Management)",
     "company": "Digital Brand Architects",
@@ -7566,7 +7586,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Oct 26 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Oct 27 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
