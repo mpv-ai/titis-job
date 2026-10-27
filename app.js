@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "korin-inc-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "Korin Inc",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York",
+    "salary": "",
+    "experience": "Entry level (role posted as Marketing Coordinator, Entry-Level)",
+    "posted": "3 hours ago",
+    "applicants": "72 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4484072489/",
+    "why": "Explicitly entry-level marketing coordinator at a Japanese knife and tableware supplier for chefs. Instagram, email campaigns, product copy and events, with direct mentorship. On-site NYC, pay not listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue ~1:00 PM ET (3 hours ago / tpr=r604800). LinkedIn id 4484072489. 72 applicants.",
+    "initials": "KO",
+    "color": "#BE185D"
+  },
+  {
     "id": "delta-children-content-coordinator",
     "title": "Content Coordinator",
     "company": "Delta Children",
@@ -29,14 +49,14 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Talent Coordinator (Influencer Management) at Digital Brand Architects",
     "salary": "$65,000-$75,000",
     "experience": "Entry level",
-    "posted": "5 hours ago",
-    "applicants": "29 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4483234645/",
+    "posted": "23 hours ago",
+    "applicants": "47 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4483237482/",
     "why": "Entry-level influencer talent coordinator at Digital Brand Architects in New York, $65-75k, posted today with under 30 applicants.",
-    "applyFirst": true,
+    "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4483234645. 29 applicants. Pay $65,000-$75,000.",
+    "notes": "Guest page open. Primary window Mon ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4483234645. 29 applicants. Pay $65,000-$75,000. Twin refresh Tue ~1:00 PM ET: url updated 4483234645 -> 4483237482.",
     "initials": "DB",
     "color": "#059669"
   },
@@ -279,26 +299,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted ~3 hours before the ~7:00 PM ET Fri Oct 23 window check. LinkedIn id 4480687742. Early applicant window. Local candidates only, no sponsorship.",
     "initials": "BS",
     "color": "#DC2626"
-  },
-  {
-    "id": "locala-content-marketing-coordinator",
-    "title": "Content Marketing Coordinator",
-    "company": "Locala",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote (New York listing)",
-    "salary": "$65,000",
-    "experience": "No years listed, coordinator level",
-    "posted": "4 hours ago",
-    "applicants": "106 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4481609064/",
-    "why": "Content Marketing Coordinator at an adtech company, listed in New York and remote. Owns the content calendar, copywriting and editing, LinkedIn social, and sponsored PR placements. Pays $65k and lists no years of experience. Not fashion, but a true coordinator-level marketing role.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted ~4 hours before the ~7:00 PM ET Thu Oct 22 window check. LinkedIn id 4481609064. 106 applicants.",
-    "initials": "LO",
-    "color": "#2563EB"
   },
   {
     "id": "gymshark-creator-marketing-associate",
@@ -739,26 +739,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu ~7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4480103617. 62 applicants. Pay signal: $92,000-$97,500. Hand-reviewed Oct 15 7 PM.",
     "initials": "AA",
     "color": "#BE185D"
-  },
-  {
-    "id": "brown-harris-stevens-development-marketing-brand-digital-marketing-int",
-    "title": "Brand & Digital Marketing Intern",
-    "company": "Brown Harris Stevens Development Marketing",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Brand & Digital Marketing Intern at Brown Harris Stevens Development Marketing",
-    "salary": "$30/hr",
-    "experience": "Bachelor's degree required (open to grads)",
-    "posted": "44 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479184179/",
-    "why": "Paid Brand & Digital Marketing Intern at Brown Harris Stevens Development Marketing, reporting to the CMO. Social, email, web content, editorial calendars and partnership activations across real estate, design and lifestyle. $30/hr, part-time, NYC, requires a bachelor's.",
-    "applyFirst": false,
-    "employment": "Part-time internship",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (44 minutes ago / tpr=r21600). LinkedIn id 4479184179. Be among the first 25 applicants. Pay signal: $30. Paid part-time intern open to graduates. Hand-reviewed Oct 15 7 PM.",
-    "initials": "BH",
-    "color": "#059669"
   },
   {
     "id": "solcomms-account-coordinator-digital-health-oct15",
@@ -4914,9 +4894,9 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Program Coordinator, Medical Communications at Precision AQ",
     "salary": "$41,600",
     "experience": "0-2 years of prior work experience in a client service/agency setting or related internsh",
-    "posted": "5 hours ago",
+    "posted": "3 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474613136/",
+    "url": "https://www.linkedin.com/jobs/view/4474607314/",
     "why": "Precision AQ Program Coordinator, Medical Communications. New York, NY. $41,600.",
     "applyFirst": true,
     "employment": "Full-time",
@@ -6094,14 +6074,14 @@ const FALLBACK_JOBS = [
     "workplace": "New York, NY · On-site/hybrid AI trust-infra startup · equity",
     "salary": "",
     "experience": "1+ years marketing/comms, ideally B2B. Early-career assistant seat.",
-    "posted": "3 hours ago",
-    "applicants": "45 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464678592/",
+    "posted": "4 hours ago",
+    "applicants": "67 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4484073075/",
     "why": "Clark NYC Marketing Assistant - early-career B2B marketing at AI trust startup. 1+ yrs, assistant title.",
     "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Tue ~1-7 PM ET. LinkedIn id 4464678592. 45 applicants. Comp = salary + early equity (no $ on guest page).",
+    "notes": "Guest page open. Posted in ~6h window Tue ~1-7 PM ET. LinkedIn id 4464678592. 45 applicants. Comp = salary + early equity (no $ on guest page). Twin refresh Tue ~1:00 PM ET: url updated 4464678592 -> 4484073075.",
     "initials": "CL",
     "color": "#111827"
   },
@@ -6914,11 +6894,11 @@ const FALLBACK_JOBS = [
     "workplace": "Boston · medical communications / agency client-service (Precision AQ family)",
     "salary": "$41,600-$62,400",
     "experience": "True entry. Recent college grad OK. Bachelor’s in advertising/marketing/comms/journalism preferred; 0-2 years client service/agency or related internship.",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474293761/",
+    "posted": "3 hours ago",
+    "applicants": "25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4474605483/",
     "why": "Precision Medicine Group Boston Program Coordinator, Medical Communications. Recent-grad entry, first 25, $41.6-62.4k.",
-    "applyFirst": true,
+    "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
     "notes": "Tracks medical/legal/regulatory (MLR) deliverables, meeting logistics, invoicing under a program manager. Twin posting Precision AQ 4414749599 is the same role - apply to one. LinkedIn criteria wrongly says Volunteer; JD pay band is $41,600-$62,400. Posted in ~6h window Sun ~1 PM ET. Twin refresh Mon 1 PM ET: url updated 4414743637 -> 4414756305.",
@@ -7586,7 +7566,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 27 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Oct 27 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
