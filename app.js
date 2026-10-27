@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "7th-street-burger-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "7th Street Burger",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Marketing Coordinator at 7th Street Burger",
+    "salary": "$70k-$80k",
+    "experience": "0-3 years in marketing, events, hospitality or community engagement",
+    "posted": "1 hour ago",
+    "applicants": "68 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4483686683/",
+    "why": "Fast-growing burger chain (37+ locations incl. NYC and Boston). Hands-on marketing coordinator role covering local store marketing, new store openings, community partnerships and big partnerships like the NY Knicks. $70k-$80k, 0-3 yrs.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted Tue ~7:00 PM ET window (1 hour ago). LinkedIn id 4483686683. 68 applicants. Salary $70k-$80k per posting.",
+    "initials": "7S",
+    "color": "#BE185D"
+  },
+  {
     "id": "korin-inc-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Korin Inc",
@@ -4986,26 +5006,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "the-city-university-of-new-york-college-assistant-office-of-institutio",
-    "title": "College Assistant - Office of Institutional Advancement and Communications",
-    "company": "The City University of New York",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · College Assistant - Office of Institutional Advancement and Communications at The City University of New York",
-    "salary": "$22",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470409159/",
-    "why": "The City University of New York College Assistant - Office of Institutional Advancement and Communications. New York, NY, Hybrid. $22. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4470409159. Be among the first 25 applicants. Pay signal: $22.",
-    "initials": "CU",
-    "color": "#D97706"
-  },
-  {
     "id": "oyster-harbors-marine-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Oyster Harbors Marine",
@@ -7566,7 +7566,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 27 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Oct 27 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
