@@ -4734,11 +4734,11 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Thought Leadership Associate - External Communications (EDECD50) at Referment",
     "salary": "$135,000",
     "experience": "Entry-level / ~1 year preferred.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478317195/",
+    "posted": "16 hours ago",
+    "applicants": "35 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4483710889/",
     "why": "Referment Thought Leadership Associate - External Communications (EDECD50). New York, NY. $135,000. Early applicant window.",
-    "applyFirst": true,
+    "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
     "notes": "Guest page open. Primary window Wed 1 AM ET (4 hours ago / tpr=r21600). LinkedIn id 4470683746. Be among the first 25 applicants. Pay signal: $135,000. Twin refresh Sat 7:00 AM ET: url updated 4470683746 -> 4472253733.",
@@ -7586,7 +7586,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 27 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Oct 27 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
