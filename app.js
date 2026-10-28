@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "mammoth-brands-junior-creative-strategist",
+    "title": "Junior Creative Strategist",
+    "company": "Mammoth Brands",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Junior Creative Strategist at Mammoth Brands",
+    "salary": "$90,800-$113,500",
+    "experience": "1-3 years in creative strategy, performance creative, brand or growth marketing",
+    "posted": "5 hours ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4474970755/",
+    "why": "Mammoth Brands (Harry's, Flamingo) Junior Creative Strategist. New York, NY. $90,800-$113,500. Junior title, asks 1-3 years, so a slight stretch.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4474970755. 200 applicants. Pay signal: $90,800-$113,500. Same role also posted under Flamingo (4474094136), carded once.",
+    "initials": "MB",
+    "color": "#7C3AED"
+  },
+  {
     "id": "pei-marketing-associate",
     "title": "Marketing Associate",
     "company": "PEI",
@@ -6226,26 +6246,6 @@ const FALLBACK_JOBS = [
     "color": "#00897B"
   },
   {
-    "id": "horizon-associate-integrated-investment",
-    "title": "Associate, Integrated Investment",
-    "company": "Horizon Media",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC · Horizon Media integrated investment / digital media planning",
-    "salary": "$66,300+",
-    "experience": "Early Associate media-investment track (above existing Horizon Assistant Integrated Investment seat).",
-    "posted": "5 hours ago",
-    "applicants": "78 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4441555214/",
-    "why": "Horizon Media Associate, Integrated Investment. True agency media associate rung; pairs with existing Horizon Assistant Integrated Investment listing. ~$66k floor.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. 78 applicants. Not a twin of horizon-next-assistant-integrated-investment (4411514189). LinkedIn id 4441555214.",
-    "initials": "HZ",
-    "color": "#0D47A1"
-  },
-  {
     "id": "curaleaf-trade-activation-associate",
     "title": "Trade Activation Associate",
     "company": "Curaleaf",
@@ -7546,7 +7546,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Oct 28 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Wed, Oct 28 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
