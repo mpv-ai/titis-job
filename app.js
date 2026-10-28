@@ -5234,9 +5234,9 @@ const FALLBACK_JOBS = [
     "workplace": "NYC · Temporary Media Planner at healthcare marketing agency (multi-channel planning)",
     "salary": "$50,065-$73,944",
     "experience": "2-3 years media planning foundation preferred. Stretch temp role vs pure ~1yr entry.",
-    "posted": "1 hour ago",
+    "posted": "5 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467800504/",
+    "url": "https://www.linkedin.com/jobs/view/4483812477/",
     "why": "Heartbeat Media Planner - NYC healthcare agency; true media planner title. Stretch: temporary + 2-3 yrs preferred.",
     "applyFirst": true,
     "employment": "Temporary",
@@ -7566,7 +7566,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Oct 27 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Wed, Oct 28 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
