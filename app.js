@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "stark-brand-marketing-coordinator",
+    "title": "Brand Marketing Coordinator",
+    "company": "STARK",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Brand Marketing Coordinator at STARK",
+    "salary": "",
+    "experience": "1-2 years of relevant professional or internship experience in marketing, project coordin",
+    "posted": "4 hours ago",
+    "applicants": "42 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4485602391/",
+    "why": "STARK Brand Marketing Coordinator. New York, NY, Hybrid.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (4 hours ago / tpr=r604800). LinkedIn id 4485602391. 42 applicants.",
+    "initials": "ST",
+    "color": "#BE185D"
+  },
+  {
+    "id": "human-services-management-corporation-digital-social-media-coordinator",
+    "title": "Digital & Social Media Coordinator",
+    "company": "Human Services Management Corporation",
+    "city": "Boston",
+    "location": "Boston, MA",
+    "workplace": "Boston · Digital & Social Media Coordinator at Human Services Management Corporation",
+    "salary": "",
+    "experience": "1-3 years of experience creating and managing content for social media, websites, and oth",
+    "posted": "5 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4485385295/",
+    "why": "Human Services Management Corporation Digital & Social Media Coordinator. Boston, MA. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4485385295. Be among the first 25 applicants.",
+    "initials": "HS",
+    "color": "#0891B2"
+  },
+  {
     "id": "doyle-auctioneers-appraisers-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "DOYLE Auctioneers & Appraisers",
@@ -379,26 +419,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Window Wed ~7:00 PM ET (40 minutes ago / tpr=r604800). LinkedIn id 4484755074. Be among the first 25 applicants. Pay signal: $65,000.",
     "initials": "DA",
     "color": "#2563EB"
-  },
-  {
-    "id": "tbn-affiliate-social-media-coordinator",
-    "title": "Affiliate & Social Media Coordinator",
-    "company": "TBN",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Affiliate & Social Media Coordinator at TBN",
-    "salary": "",
-    "experience": "0-2 years of experience in affiliate marketing, social media, influencer marketing, or e-",
-    "posted": "1 hour ago",
-    "applicants": "41 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4484745066/",
-    "why": "TBN Affiliate & Social Media Coordinator. New York, NY, Hybrid.",
-    "applyFirst": false,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Window Wed ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4484745066. 41 applicants.",
-    "initials": "TB",
-    "color": "#059669"
   },
   {
     "id": "sol-de-janeiro-ecommerce-merchandising-coordinator",
@@ -2561,26 +2581,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "clarify-capital-marketing-operations-associate",
-    "title": "Marketing & Operations Associate",
-    "company": "Clarify Capital",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Marketing & Operations Associate at Clarify Capital",
-    "salary": "$60,000-$75,000",
-    "experience": "1-3 years About Clarify Capital 🚀 Clarify",
-    "posted": "4 hours ago",
-    "applicants": "124 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474613402/",
-    "why": "Clarify Capital Marketing & Operations Associate in New York (hybrid, 3 days in office). $60,000-$75,000. Asks 1-3 years, mixing marketing with operations at a fast-growing small-business lender. Already 124 applicants.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4474613402. 124 applicants. Pay signal: $60,000-$75,000.",
-    "initials": "CC",
-    "color": "#7C3AED"
-  },
-  {
     "id": "caudalie-ecommerce-coordinator-americas",
     "title": "Ecommerce Coordinator, Americas",
     "company": "Caudalie",
@@ -4000,26 +4000,6 @@ const FALLBACK_JOBS = [
     "color": "#4F46E5"
   },
   {
-    "id": "creative-office-resources-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Creative Office Resources",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Marketing Coordinator at Creative Office Resources",
-    "salary": "$55,000",
-    "experience": "1-2 years of experience in a professional environment; relevant internships or comparable",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472350744/",
-    "why": "Creative Office Resources Marketing Coordinator. Boston, MA, Hybrid. $55,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4472350744. Be among the first 25 applicants. Pay signal: $55,000.",
-    "initials": "CO",
-    "color": "#059669"
-  },
-  {
     "id": "dada-goldberg-digital-account-coordinator",
     "title": "Digital Account Coordinator",
     "company": "DADA Goldberg",
@@ -4258,26 +4238,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Sun 1:00 PM ET (56 minutes ago / tpr=r21600). LinkedIn id 4432725061. 200 applicants. Pay signal: $62,000 - $95,935.",
     "initials": "RL",
     "color": "#BE185D"
-  },
-  {
-    "id": "kipling-jansport-eastpak-associate-planner-ecommerce",
-    "title": "Jansport/Eastpak - Associate Planner, eCommerce",
-    "company": "Kipling",
-    "city": "Jersey City",
-    "location": "Jersey City, NJ",
-    "workplace": "Jersey City · Jansport/Eastpak - Associate Planner, eCommerce at Kipling",
-    "salary": "$60,280",
-    "experience": "1-3 years of experience and professional achievements",
-    "posted": "3 hours ago",
-    "applicants": "166 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4453275640/",
-    "why": "Kipling Jansport/Eastpak - Associate Planner, eCommerce. Jersey City, NJ. $60,280. Fashion/beauty-adjacent.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat 1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4453275640. 166 applicants. Pay signal: $60,280.",
-    "initials": "KI",
-    "color": "#D97706"
   },
   {
     "id": "on-the-stage-marketing-campaign-coordinator",
@@ -5014,14 +4974,14 @@ const FALLBACK_JOBS = [
     "workplace": "New York · Account Coordinator at NEON",
     "salary": "",
     "experience": "1+ year of work experience",
-    "posted": "1 hour ago",
-    "applicants": "56 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4460048217/",
+    "posted": "5 days ago",
+    "applicants": "118 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4473862840/",
     "why": "NEON Account Coordinator. New York, NY.",
     "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4460048217. 56 applicants.",
+    "notes": "Guest page open. Primary window Tue 7 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4460048217. 56 applicants. Twin refresh Fri ~7:00 PM ET: url updated 4460048217 -> 4473862840.",
     "initials": "NE",
     "color": "#7C3AED"
   },
@@ -5886,46 +5846,6 @@ const FALLBACK_JOBS = [
     "color": "#2E7D32"
   },
   {
-    "id": "orveon-amazon-ecommerce-coordinator",
-    "title": "Coordinator, Amazon e-Commerce",
-    "company": "Orveon Global",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · beauty (bareMinerals / BUXOM / Laura Mercier) · Amazon marketplace",
-    "salary": "$50,000-$70,000",
-    "experience": "1+ year brand Amazon experience preferred. Listings, assets, promos, marketplace ops.",
-    "posted": "1 hour ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4445749787/",
-    "why": "Orveon NYC Amazon e-Commerce Coordinator - prestige beauty marketplace seat, $50-70k, 1+ yrs Amazon brand.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Wed ~7 AM-1 PM ET. LinkedIn id 4445749787. Over 200 applicants. $50-70k.",
-    "initials": "OR",
-    "color": "#AD1457"
-  },
-  {
-    "id": "angi-associate-paid-social",
-    "title": "Associate, Paid Social",
-    "company": "Angi",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote (ET/CT) · Angi Paid Social / Meta performance",
-    "salary": "$50,000-$85,000",
-    "experience": "1-2 years paid social or performance marketing; Meta Ads Manager a plus.",
-    "posted": "2 hours ago",
-    "applicants": "28 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464932876/",
-    "why": "Angi Associate Paid Social - Meta performance associate, $50-85k, 1-2 yrs, remote ET/CT with NY posting.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Tue ~7 PM-Wed ~1 AM ET. LinkedIn id 4464932876. 28 applicants. $50-85k + bonus/equity. Remote eastern/central time zones.",
-    "initials": "AN",
-    "color": "#FF5722"
-  },
-  {
     "id": "clark-pr-assistant",
     "title": "PR Assistant",
     "company": "Clark",
@@ -6024,26 +5944,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Tue ~1-7 AM ET. LinkedIn id 4452274696 (twin refresh; prior Greenhouse https://job-boards.greenhouse.io/inizioevoke/jobs/8128597). Filter miss (Growth Coordinator without 'marketing' in title) recovered from near-miss pass. $55-70k. 163 applicants (not first 25; prior feed row had applyFirst true / empty apps). Remote NYC.",
     "initials": "IE",
     "color": "#00A3A1"
-  },
-  {
-    "id": "harpercollins-assistant-publicist",
-    "title": "Assistant Publicist (NYC Hybrid)",
-    "company": "HarperCollins Publishers",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid · adult trade publicity (William Morrow, Mariner, HarperOne, Avon, Dey Street)",
-    "salary": "$52,500",
-    "experience": "Prior publishing/PR internship a plus; true assistant publicist - own campaigns under supervision.",
-    "posted": "5 hours ago",
-    "applicants": "32 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464373405/",
-    "why": "HarperCollins NYC hybrid Assistant Publicist - real Big Five trade publicity. Internship-level quals, $52.5k, drafts pitches/press, author tour logistics, influencer outreach. Classic entry PR.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Mon ~1-7 PM ET. LinkedIn id 4464373405. Filter miss (publicist not in title regex) recovered manually. LinkedIn employment badge says Volunteer but JD lists $52,500 salary - treat as paid FT. 32 applicants (not first 25). Cover letter preferred.",
-    "initials": "HC",
-    "color": "#1A237E"
   },
   {
     "id": "bloomingdales-site-merchandising-assistant-temp",
@@ -6966,26 +6866,6 @@ const FALLBACK_JOBS = [
     "color": "#E85D04"
   },
   {
-    "id": "publicis-creator-management-associate",
-    "title": "Associate, Creator Management",
-    "company": "Publicis Media / Influential",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "",
-    "salary": "$50,000-$60,000",
-    "experience": "2+ years digital/advertising/creator marketing. Agency setting.",
-    "posted": "1 hour ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4457176526/",
-    "why": "Associate at Publicis Influential. Creator sourcing, contracts, campaigns. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "2+ not a 3+ hard bar. Deadline on posting 9/14/2026.",
-    "initials": "PI",
-    "color": "#FF5800"
-  },
-  {
     "id": "moomoo-junior-integrated-marketing",
     "title": "Junior Integrated Marketing Specialist",
     "company": "moomoo",
@@ -7286,7 +7166,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 30 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Oct 30 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
