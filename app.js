@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "beth-israel-lahey-health-marketing-coordinator",
+    "title": "Marketing Coordinator",
+    "company": "Beth Israel Lahey Health",
+    "city": "Boston",
+    "location": "Boston, MA",
+    "workplace": "Boston · Marketing Coordinator at Beth Israel Lahey Health",
+    "salary": "$115,000-$140,000",
+    "experience": "1-3 years of professional experience in Marketing, Communications, project coordination,",
+    "posted": "4 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4485648617/",
+    "why": "Beth Israel Lahey Health Marketing Coordinator. Boston, MA. $115,000-$140,000 base. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (4 hours ago / tpr=r604800). LinkedIn id 4485648617. Be among the first 25 applicants. Pay signal: $115,000-$140,000 base. Asks 1-3 yrs.",
+    "initials": "BI",
+    "color": "#059669"
+  },
+  {
     "id": "stark-brand-marketing-coordinator",
     "title": "Brand Marketing Coordinator",
     "company": "STARK",
@@ -539,26 +559,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4483234645. 29 applicants. Pay $65,000-$75,000. Twin refresh Tue ~1:00 PM ET: url updated 4483234645 -> 4483237482.",
     "initials": "DB",
     "color": "#059669"
-  },
-  {
-    "id": "uppababy-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "UPPAbaby",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "On-site Boston · Marketing Coordinator at UPPAbaby",
-    "salary": "",
-    "experience": "1-3 years of experience in marketing, social media, project coordination, or a related fi",
-    "posted": "5 hours ago",
-    "applicants": "64 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4483227501/",
-    "why": "Coordinator, Brand + Community Operations on the UPPAbaby brand team in Greater Boston, pitched as early-career (asks 1-3 years). On-site, no pay listed.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4483227501. 64 applicants.",
-    "initials": "UP",
-    "color": "#0891B2"
   },
   {
     "id": "sokolove-law-marketing-associate-oct26",
@@ -3880,26 +3880,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "junbi-matcha-tea-brookline-part-time-social-media-assistant-instagram",
-    "title": "Part-Time Social Media Assistant (Instagram)",
-    "company": "Junbi Matcha & Tea - Brookline",
-    "city": "Brookline",
-    "location": "Brookline, MA",
-    "workplace": "On-site",
-    "salary": "$15/hr",
-    "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472383914/",
-    "why": "Part-time Instagram social assistant for a Brookline matcha shop. Fresh entry content role.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "",
-    "initials": "JM",
-    "color": "#BE185D"
-  },
-  {
     "id": "sbh-fashion-creative-coordinator",
     "title": "Creative Coordinator",
     "company": "SBH Fashion",
@@ -4764,26 +4744,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 7 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4470623747. Be among the first 25 applicants.",
     "initials": "UC",
     "color": "#7C3AED"
-  },
-  {
-    "id": "biospace-leadership-enablement-and-communications-coordinator",
-    "title": "Leadership Enablement and Communications Coordinator",
-    "company": "BioSpace",
-    "city": "Cambridge",
-    "location": "Cambridge, MA",
-    "workplace": "Cambridge · Leadership Enablement and Communications Coordinator at BioSpace",
-    "salary": "",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "35 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474120365/",
-    "why": "BioSpace Leadership Enablement and Communications Coordinator. Cambridge, MA. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (35 minutes ago / tpr=r21600). LinkedIn id 4470672771. Be among the first 25 applicants. Twin refresh Thu ~1:00 AM ET: url updated 4470672771 -> 4474120365.",
-    "initials": "BI",
-    "color": "#D97706"
   },
   {
     "id": "kobrand-fine-wine-spirits-social-media-coordinator",
@@ -7166,7 +7126,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Oct 30 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Oct 31 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
