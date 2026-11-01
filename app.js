@@ -5804,26 +5804,6 @@ const FALLBACK_JOBS = [
     "color": "#311B92"
   },
   {
-    "id": "omd-associate-digital-activation",
-    "title": "Associate, Digital Activation",
-    "company": "OMD",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Omnicom OMD digital activation / media planning & buying",
-    "salary": "$45,000",
-    "experience": "Entry agency associate; digital activation / media support (classic OMD rung).",
-    "posted": "1 hour ago",
-    "applicants": "155 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4453584915/",
-    "why": "OMD NYC Associate, Digital Activation. True entry media-agency rung at $45k. Sibling of other OMD associate seats already on the board.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Sat ~1-7 AM ET. LinkedIn id 4453584915. Not the Senior Associate Video Investment twin (4453748037).",
-    "initials": "OM",
-    "color": "#E85D04"
-  },
-  {
     "id": "footlocker-associate-owned-media",
     "title": "Associate, Owned Media",
     "company": "Foot Locker",
@@ -6844,7 +6824,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Nov 1 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Nov 1 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
