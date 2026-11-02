@@ -2965,26 +2965,6 @@ const FALLBACK_JOBS = [
     "color": "#0D9488"
   },
   {
-    "id": "weill-cornell-medicine-marketing-coordinator-urology",
-    "title": "Marketing Coordinator - Urology",
-    "company": "Weill Cornell Medicine",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Coordinator - Urology at Weill Cornell Medicine",
-    "salary": "$83,600",
-    "experience": "3-5 years of experience in executive supporting roles and project management, preferred",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473411629/",
-    "why": "Weill Cornell Medicine Marketing Coordinator - Urology. New York, NY. $83,600. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat ~7:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4473411629. Be among the first 25 applicants. Pay signal: $83,600.",
-    "initials": "WC",
-    "color": "#BE185D"
-  },
-  {
     "id": "charlotte-tilbury-beauty-coordinator-visual-merchandising-operations",
     "title": "Coordinator, Visual Merchandising Operations",
     "company": "Charlotte Tilbury Beauty",
@@ -6702,7 +6682,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Nov 2 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Nov 2 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
