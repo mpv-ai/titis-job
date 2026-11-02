@@ -3229,27 +3229,6 @@ const FALLBACK_JOBS = [
     "source": "linkedin"
   },
   {
-    "id": "rowan-studio-operations-and-communications-associate",
-    "title": "Studio Operations and Communications Associate",
-    "company": "Rowan",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote New York · Studio Operations and Communications Associate at Rowan",
-    "salary": "$68,000 - $72,000",
-    "experience": "2-4 years of experience in retail operations, field operations, project coordination, bus",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4473393060/",
-    "why": "Rowan Studio Operations and Communications Associate. New York, NY, Remote. $68,000 - $72,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET Oct 2 (3 hours ago / tpr=r21600). LinkedIn id 4473393060. Be among the first 25 applicants. Pay signal: $68,000 - $72,000.",
-    "initials": "RO",
-    "color": "#DB2777",
-    "source": "linkedin"
-  },
-  {
     "id": "vince-planner-ecommerce",
     "title": "Planner, Ecommerce",
     "company": "Vince",
@@ -6003,46 +5982,6 @@ const FALLBACK_JOBS = [
     "color": "#6A1B9A"
   },
   {
-    "id": "digitas-planner-paid-social-boston",
-    "title": "Planner, Paid Social",
-    "company": "Digitas North America (Publicis)",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Digitas paid social media planning / buying",
-    "salary": "$60,800-$89,600",
-    "experience": "Entry/early. Bachelor's; 1+ years media/ad ops (3+ preferred). Not a twin of Digitas Media Associate or Video Investment.",
-    "posted": "7 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461323902/",
-    "why": "Digitas Boston Planner, Paid Social. True media-planner track. First 25. ~$61-90k.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. First 25. Edge of 6h window. LinkedIn id 4461323902.",
-    "initials": "DG",
-    "color": "#1565C0"
-  },
-  {
-    "id": "horizon-planner-paid-social",
-    "title": "Planner, Paid Social",
-    "company": "Horizon Media",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC · Horizon paid social planning / buying",
-    "salary": "$66,300-$85,000",
-    "experience": "Early associate. Campaign management + learning track; no hard years bar on guest page.",
-    "posted": "Recently",
-    "applicants": "194 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4440475933/",
-    "why": "Horizon Media Planner, Paid Social. Associate media track. ~$66-85k. 194 applicants.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Associate-level planner. LinkedIn id 4440475933.",
-    "initials": "HM",
-    "color": "#4A148C"
-  },
-  {
     "id": "found-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "Found",
@@ -6783,7 +6722,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Nov 1 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sun, Nov 1 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
