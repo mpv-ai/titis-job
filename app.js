@@ -1,6 +1,66 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "subject-public-relations-vip-relations-account-coordinator",
+    "title": "Public Relations & VIP Relations- Account Coordinator",
+    "company": "SUBJECT",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Public Relations & VIP Relations- Account Coordinator at SUBJECT",
+    "salary": "",
+    "experience": "1-2 years of entertainment PR or brand experience (bachelor's in Marketing, PR or Communications)",
+    "posted": "2 hours ago",
+    "applicants": "112 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4485730526/",
+    "why": "Account Coordinator on SUBJECT's PR and VIP Relations team in NYC, covering media relations, celebrity and influencer engagement, events and social for entertainment, fashion, hospitality and luxury clients. Asks 1-2 years, so a stretch from pure entry level.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Found Mon Nov 2 ~1:00 PM ET (2 hours ago). LinkedIn id 4485730526. 112 applicants. Salary not listed.",
+    "initials": "SU",
+    "color": "#BE185D"
+  },
+  {
+    "id": "lingua-franca-ecommerce-marketing-associate",
+    "title": "Ecommerce & Marketing Associate",
+    "company": "Lingua Franca",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Ecommerce & Marketing Associate at Lingua Franca",
+    "salary": "",
+    "experience": "1-2 years of internship or work experience in ecommerce, digital marketing or social (internships count)",
+    "posted": "3 hours ago",
+    "applicants": "97 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486188441/",
+    "why": "Ecommerce & Marketing Associate at luxury knitwear brand Lingua Franca in NYC. Shopify product uploads, site merchandising and copy, plus email campaign support. Internships count toward the 1-2 years.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Found Mon Nov 2 ~1:00 PM ET (3 hours ago). LinkedIn id 4486188441. 97 applicants. Salary not listed.",
+    "initials": "LF",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "vseen-event-coordinator",
+    "title": "Event Coordinator",
+    "company": "VSEEN",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Event Coordinator at VSEEN",
+    "salary": "",
+    "experience": "Entry level. Event experience preferred, but recent graduates are welcome to apply",
+    "posted": "45 minutes ago",
+    "applicants": "72 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486410437/",
+    "why": "Event Coordinator at VSEEN in NYC, the client point of contact for events: proposals, budgets, timelines, vendors and on-site execution. The posting explicitly welcomes recent grads.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Found Mon Nov 2 ~1:00 PM ET (45 minutes ago). LinkedIn id 4486410437. 72 applicants. Salary not listed.",
+    "initials": "VS",
+    "color": "#2563EB"
+  },
+  {
     "id": "beth-israel-lahey-health-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "Beth Israel Lahey Health",
@@ -3956,26 +4016,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "wolf-badger-brand-partnerships-associate-jr-account-executive-fashion",
-    "title": "Brand Partnerships Associate / Jr. Account Executive - Fashion Marketplace",
-    "company": "Wolf & Badger",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Brand Partnerships Associate / Jr. Account Executive - Fashion Marketplace at Wolf & Badger",
-    "salary": "$55,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472709149/",
-    "why": "Wolf & Badger Brand Partnerships Associate / Jr. Account Executive - Fashion Marketplace. New York, NY, Hybrid. $55,000. Fashion/beauty-adjacent. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4472709149. Be among the first 25 applicants. Pay signal: $55,000.",
-    "initials": "WB",
-    "color": "#7C3AED"
-  },
-  {
     "id": "ralph-lauren-brand-merchandising-associate-luxury-accessories",
     "title": "Brand Merchandising Associate, Luxury Accessories",
     "company": "Ralph Lauren",
@@ -5262,26 +5302,6 @@ const FALLBACK_JOBS = [
     "color": "#BE123C"
   },
   {
-    "id": "img-public-relations-intern",
-    "title": "Public Relations Intern (Full-Time)",
-    "company": "Issues Management Group",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid · NYC post-grad full-time PR intern (media, gov, community relations across accounts)",
-    "salary": "$22/hour",
-    "experience": "Post-grad intern. Cross-account PR skill-building; pitching, media, government & community relations.",
-    "posted": "16 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4465787619/",
-    "why": "IMG full-time PR intern - first 25, $22/hr hybrid NYC post-grad. Real PR training seat not coffee runs.",
-    "applyFirst": true,
-    "employment": "Internship",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Mon ~7 AM-1 PM ET. LinkedIn id 4465787619. First 25. Seniority Internship; employment Full-time.",
-    "initials": "IM",
-    "color": "#047857"
-  },
-  {
     "id": "vaneck-digital-product-marketing-associate",
     "title": "Digital and Product Marketing Associate",
     "company": "VanEck",
@@ -5680,26 +5700,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. LinkedIn seniority Mid-Senior is wrong vs JD (1 yr layout min). $62.3-115.7k Manhattan. 200+ applicants. LinkedIn id 4382455224. Caught Sun ~7 AM ET r21600.",
     "initials": "HD",
     "color": "#1565C0"
-  },
-  {
-    "id": "elliquence-marketing-administrative-coordinator",
-    "title": "Marketing Administrative Coordinator",
-    "company": "elliquence",
-    "city": "New York",
-    "location": "Baldwin, NY",
-    "workplace": "Baldwin, NY onsite (move to Woodbury by YE 2026) · medical-device marketing admin / trade shows",
-    "salary": "$48,000-$55,000",
-    "experience": "Entry. Bachelor’s marketing/comms preferred; min ~1 year marketing. Medical device a plus.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4456519144/",
-    "why": "elliquence LI Marketing Admin Coordinator. Trade shows, events, marketing inventory. First 25. $48-55k.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. First 25. On-site Baldwin → Woodbury. Reports to Sr Manager Marketing. LinkedIn id 4456519144. Caught Sun ~7 AM ET r21600.",
-    "initials": "EQ",
-    "color": "#00897B"
   },
   {
     "id": "cognition-brand-marketer",
@@ -6682,7 +6682,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Nov 2 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Mon, Nov 2 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
