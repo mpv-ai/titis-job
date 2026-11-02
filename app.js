@@ -5722,26 +5722,6 @@ const FALLBACK_JOBS = [
     "color": "#00897B"
   },
   {
-    "id": "curaleaf-trade-activation-associate",
-    "title": "Trade Activation Associate",
-    "company": "Curaleaf",
-    "city": "New York",
-    "location": "Brooklyn, NY",
-    "workplace": "Brooklyn/Staten Island field · cannabis brand trade marketing / retail activation (Tue-Sat)",
-    "salary": "$55,000-$60,000",
-    "experience": "Early trade-activation / in-store brand execution; reliable transport for territory travel.",
-    "posted": "minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4462718846/",
-    "why": "Curaleaf Brooklyn Trade Activation Associate. Brand sell-through, demos, retail activation. First 25. $55-60k. Stretch field trade marketing.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. First 25. Field-based trade marketing (not street-sales mill). LinkedIn id 4462718846.",
-    "initials": "CU",
-    "color": "#2E7D32"
-  },
-  {
     "id": "cognition-brand-marketer",
     "title": "Brand Marketer",
     "company": "Cognition",
@@ -6722,7 +6702,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Nov 1 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Mon, Nov 2 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
