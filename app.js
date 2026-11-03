@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "success-academy-coordinator-experiential-events",
+    "title": "Coordinator, Experiential Events",
+    "company": "Success Academy Charter Schools",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid NYC (Financial District, on-site Tue-Thu) · Coordinator, Experiential Events at Success Academy Charter Schools",
+    "salary": "$60,000 - $70,000",
+    "experience": "Some experience or exposure to event coordination, hospitality, or logistics",
+    "posted": "35 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486820149/",
+    "why": "Entry-level events coordinator for Success Academy's network team in NYC. $60-70k, asks only some exposure to events or hospitality. Posted under an hour ago with the first 25 applicants.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Posted ~35 minutes before the Tue Nov 3 ~1:00 AM ET run. LinkedIn id 4486820149. Be among the first 25 applicants. Pay: $60,000 - $70,000 USD. Hand-added (auto-judge tagged not-marketing; events role, kept under all-industries rule).",
+    "initials": "SA",
+    "color": "#1D4ED8"
+  },
+  {
     "id": "anytime-ai-marketing-associate",
     "title": "Marketing Associate",
     "company": "Anytime AI",
@@ -6702,7 +6722,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Mon, Nov 2 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Nov 3 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
