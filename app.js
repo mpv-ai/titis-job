@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "room-to-read-marketing-and-communications-coordinator",
+    "title": "Marketing and Communications Coordinator",
+    "company": "Room to Read",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Marketing and Communications Coordinator at Room to Read",
+    "salary": "Up to $67,000",
+    "experience": "1-2 years of professional experience in marketing, communications, admin support or project coordination (stretch). LinkedIn lists Entry level.",
+    "posted": "2 hours ago",
+    "applicants": "100 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486882774/",
+    "why": "Room to Read Marketing and Communications Coordinator. New York, NY, hybrid. Up to $67k. Nonprofit marketing and comms support, entry level per LinkedIn.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Posted 2 hours ago (seen Tue Nov 3 ~1:00 PM ET). LinkedIn id 4486882774. 100 applicants. Pay signal: maximum salary $67,000 per posting. Asks 1-2 years, so a stretch.",
+    "initials": "RT",
+    "color": "#BE185D"
+  },
+  {
     "id": "success-academy-coordinator-experiential-events",
     "title": "Coordinator, Experiential Events",
     "company": "Success Academy Charter Schools",
@@ -139,26 +159,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Found Mon Nov 2 ~1:00 PM ET (45 minutes ago). LinkedIn id 4486410437. 72 applicants. Salary not listed.",
     "initials": "VS",
     "color": "#2563EB"
-  },
-  {
-    "id": "beth-israel-lahey-health-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "Beth Israel Lahey Health",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Marketing Coordinator at Beth Israel Lahey Health",
-    "salary": "$115,000-$140,000",
-    "experience": "1-3 years of professional experience in Marketing, Communications, project coordination,",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4485648617/",
-    "why": "Beth Israel Lahey Health Marketing Coordinator. Boston, MA. $115,000-$140,000 base. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat ~1:00 AM ET (4 hours ago / tpr=r604800). LinkedIn id 4485648617. Be among the first 25 applicants. Pay signal: $115,000-$140,000 base. Asks 1-3 yrs.",
-    "initials": "BI",
-    "color": "#059669"
   },
   {
     "id": "stark-brand-marketing-coordinator",
@@ -359,26 +359,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~1:00 AM ET (12 hours ago / tpr=r604800). LinkedIn id 4483051794. Be among the first 25 applicants.",
     "initials": "FM",
     "color": "#7C3AED"
-  },
-  {
-    "id": "juliette-group-account-coordinator",
-    "title": "Account Coordinator",
-    "company": "Juliette Group",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote New York · Account Coordinator at Juliette Group",
-    "salary": "",
-    "experience": "0-1 year (PR/influencer agency).",
-    "posted": "10 hours ago",
-    "applicants": "144 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4485226268/",
-    "why": "Juliette Group Account Coordinator. New York, NY, Remote.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~1:00 AM ET (10 hours ago / tpr=r604800). LinkedIn id 4485226268. 144 applicants.",
-    "initials": "JU",
-    "color": "#059669"
   },
   {
     "id": "drivewealth-product-marketing-analyst",
@@ -861,26 +841,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "envogue-international-aae-home-2026-10-21",
-    "title": "Assistant Account Executive",
-    "company": "EnVogue International",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "New York · Assistant Account Executive at EnVogue International (Home Décor & Textiles)",
-    "salary": "$60,000",
-    "experience": "1+ years in wholesale sales, account coordination, or merchandising.",
-    "posted": "3 hours ago",
-    "applicants": "31 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4482160494/",
-    "why": "EnVogue International AAE in the NYC metro, $60,000. Supports wholesale accounts with major North American retailers for a home décor and home textiles company (pillows, bedding, rugs). On-site. Retail-facing account work, right at the $60k floor.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4482160494. 31 applicants. Repost of the AAE role that closed Oct 14 (old id 4477699989).",
-    "initials": "EN",
-    "color": "#0F766E"
-  },
-  {
     "id": "jefferies-corporate-events-coordinator",
     "title": "Corporate Events Coordinator",
     "company": "Jefferies",
@@ -1129,14 +1089,14 @@ const FALLBACK_JOBS = [
     "workplace": "On-site New York · Marketing Coordinator at Women In Need, Inc. (Win)",
     "salary": "$66,000-$73,000",
     "experience": "1-2 years of experience in Marketing, Communications, Public Relations, Journalism, Media",
-    "posted": "4 hours ago",
-    "applicants": "65 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4480356726/",
+    "posted": "21 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4487002981/",
     "why": "Win (Women In Need) Marketing Coordinator. New York, NY, on-site. $66,000-$73,000. Shapes social and digital storytelling for NYC's largest family shelter provider. Asks for 1-2 years, a true early-career fit.",
-    "applyFirst": false,
+    "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~1:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4480356726. 65 applicants. Pay signal: $66,000.",
+    "notes": "Guest page open. Primary window Fri ~1:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4480356726. 65 applicants. Pay signal: $66,000. Twin refresh Sat ~7:00 PM ET: url updated 4480356726 -> 4487002981.",
     "initials": "WI",
     "color": "#BE185D"
   },
@@ -2081,26 +2041,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "bloomsbury-usa-marketing-intern-adult-trade",
-    "title": "Marketing Intern, Adult Trade",
-    "company": "Bloomsbury USA",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Midtown Manhattan, in person 2 days/week · Marketing Intern, Adult Trade at Bloomsbury USA",
-    "salary": "$18/hr",
-    "experience": "No prior publishing experience required. Up to 21 hrs/week, Oct 26 through year end. Apply by Oct 16, 2026.",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4477657077/",
-    "why": "Paid fall marketing internship on Bloomsbury's small Adult Trade team. Handles departmental mailings, influencer research, promotional copy and social content. Part-time and seasonal, so a stretch, but paid at $18/hr with a firm Oct 16 deadline.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Fri ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4477657077. Be among the first 25 applicants. Paid intern $18/hr, part-time, deadline Oct 16.",
-    "initials": "BU",
-    "color": "#059669"
-  },
-  {
     "id": "walkup-studio-assistant-account-strategist-talent-team",
     "title": "Assistant Account Strategist - Talent Team",
     "company": "Walkup Studio",
@@ -2319,26 +2259,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4476789952. 166 applicants. Pay signal: $60,000-$85,000. 1+ yrs incl. internships.",
     "initials": "WH",
     "color": "#059669"
-  },
-  {
-    "id": "hso-events-marketing-coordinator",
-    "title": "Events Marketing Coordinator",
-    "company": "HSO",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY (on-site) · Events Marketing Coordinator at HSO (Microsoft business software consultancy)",
-    "salary": "",
-    "experience": "1-3 years in marketing, events, project coordination, or a related field.",
-    "posted": "2 hours ago",
-    "applicants": "46 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475700025/",
-    "why": "HSO, a global Microsoft business applications partner, is hiring an Events Marketing Coordinator in New York. Coordinates conferences, trade shows, customer events, and Microsoft-sponsored programs across the U.S., handling timelines, registrations, booth materials, vendors, and onsite support, then tracks attendance and leads afterward. Good hands-on field marketing experience in B2B tech, not fashion. Pay not listed.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4475700025. 46 applicants. No pay listed. 1-3 yrs.",
-    "initials": "HS",
-    "color": "#D97706"
   },
   {
     "id": "usta-social-media-marketing-associate-part-time",
@@ -3994,26 +3914,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon 7:00 PM ET (35 minutes ago / live guest). LinkedIn id 4471556610. Be among the first 25 applicants. Pay signal: $37.",
     "initials": "WS",
     "color": "#7C3AED"
-  },
-  {
-    "id": "day-one-agency-associate-strategist-integrated-communications",
-    "title": "Associate Strategist, Integrated Communications",
-    "company": "Day One Agency",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Associate Strategist, Integrated Communications at Day One Agency",
-    "salary": "$57,000 - $63,000",
-    "experience": "1-2 years experience in public relations or similar field (working on integrated communic",
-    "posted": "3 hours ago",
-    "applicants": "45 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472798205/",
-    "why": "Day One Agency Associate Strategist, Integrated Communications. New York, NY, Hybrid. $57,000 - $63,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7:00 PM ET (3 hours ago / live guest). LinkedIn id 4472798205. 45 applicants. Pay signal: $57,000 - $63,000.",
-    "initials": "DO",
-    "color": "#059669"
   },
   {
     "id": "usta-new-england-digital-marketing-coordinator",
@@ -6722,7 +6622,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Nov 3 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Nov 3 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
