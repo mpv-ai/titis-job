@@ -1,6 +1,86 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "gabelli-marketing-associate",
+    "title": "Marketing Associate",
+    "company": "Gabelli",
+    "city": "New York",
+    "location": "Rye, NY (Westchester)",
+    "workplace": "On-site Rye, NY",
+    "salary": "$80,000",
+    "experience": "1-2 years of marketing experience and a desire to grow within a small, collaborative team",
+    "posted": "6 hours ago",
+    "applicants": "53 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4487024494/",
+    "why": "Gabelli Marketing Associate in Rye, NY (Westchester, NYC metro). On-site, $80,000. Asks 1-2 years of marketing experience, so a stretch. Small collaborative team, events and campaign reporting.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Tue Nov 3 ~7:00 PM ET (6 hours ago / tpr=r604800). LinkedIn id 4487024494. 53 applicants. Pay signal: $80,000.",
+    "initials": "GA",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "devotion-creator-marketing-associate",
+    "title": "Creator Marketing Associate",
+    "company": "Devotion",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Creator Marketing Associate at Devotion",
+    "salary": "Pay not posted",
+    "experience": "Entry level",
+    "posted": "3 hours ago",
+    "applicants": "63 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486096541/",
+    "why": "Devotion Creator Marketing Associate, New York. LinkedIn lists it as entry level. Runs creator, ambassador and gifting programs for consumer brands, with a path to Account Lead. Pay not posted.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue Nov 3 ~7:00 PM ET (3 hours ago / tpr=r604800). LinkedIn id 4486096541. 63 applicants.",
+    "initials": "DE",
+    "color": "#2563EB"
+  },
+  {
+    "id": "fanatics-marketing-acquisition-associate",
+    "title": "Marketing Acquisition Associate",
+    "company": "Fanatics",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Marketing Acquisition Associate at Fanatics",
+    "salary": "$70,000 - $85,000",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "26 minutes ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4485021832/",
+    "why": "Fanatics Marketing Acquisition Associate, New York on-site, $70,000-$85,000. Campaign operations and insights for the Fanatics App. Posted minutes ago, first 25 applicants.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue Nov 3 ~7:00 PM ET (26 minutes ago / tpr=r604800). LinkedIn id 4485021832. Be among the first 25 applicants. Pay signal: $70,000 - $85,000.",
+    "initials": "FA",
+    "color": "#0891B2"
+  },
+  {
+    "id": "collectively-associate-producer-influencer-marketing",
+    "title": "Associate Producer, Influencer Marketing",
+    "company": "Collectively",
+    "city": "New York",
+    "location": "Remote (New York)",
+    "workplace": "Remote",
+    "salary": "$65,000",
+    "experience": "1-2 years related experience in marketing/advertising or PR Strong organization s",
+    "posted": "1 hour ago",
+    "applicants": "50 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4487072254/",
+    "why": "Collectively Associate Producer, Influencer Marketing. Remote (New York), $65,000. Asks 1-2 years in marketing, advertising or PR, so a stretch.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": true,
+    "notes": "Guest page open. Primary window Tue Nov 3 ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4487072254. 50 applicants. Pay signal: $65,000.",
+    "initials": "CO",
+    "color": "#DB2777"
+  },
+  {
     "id": "room-to-read-marketing-and-communications-coordinator",
     "title": "Marketing and Communications Coordinator",
     "company": "Room to Read",
@@ -639,26 +719,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Mon ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4483234645. 29 applicants. Pay $65,000-$75,000. Twin refresh Tue ~1:00 PM ET: url updated 4483234645 -> 4483237482.",
     "initials": "DB",
     "color": "#059669"
-  },
-  {
-    "id": "sokolove-law-marketing-associate-oct26",
-    "title": "Marketing Associate",
-    "company": "Sokolove Law",
-    "city": "Boston",
-    "location": "Chestnut Hill, MA (Boston area)",
-    "workplace": "Hybrid Chestnut Hill (Boston area) · Marketing Associate at Sokolove Law",
-    "salary": "$65,000-$75,000",
-    "experience": "Entry level",
-    "posted": "3 hours ago",
-    "applicants": "39 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4483210039/",
-    "why": "Sokolove Law Marketing Associate. Chestnut Hill, MA (Boston area), hybrid. $65,000-$75,000. Built for someone early in their marketing career.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~1:00 PM ET (3 hours ago / tpr=r604800). LinkedIn id 4483210039. 39 applicants. Pay signal: $65,000-$75,000.",
-    "initials": "SL",
-    "color": "#2563EB"
   },
   {
     "id": "book-of-the-month-growth-creative-rotational-program",
@@ -2379,26 +2439,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~7:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4476589428. Be among the first 25 applicants. Pay signal: $50,000-$60,000. Wholesale e-commerce account coordination (catalog/listing focus).",
     "initials": "CL",
     "color": "#BE185D"
-  },
-  {
-    "id": "omnicom-media-kinesso-associate-programmatic",
-    "title": "Associate, Programmatic",
-    "company": "Omnicom Media (Kinesso)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York (3+ days in office) · Associate, Programmatic at Omnicom Media (Kinesso)",
-    "salary": "$50,000",
-    "experience": "Entry-level position. Comfortable in Excel; ad tech platforms (DV360, The Trade Desk, Meta) a plus.",
-    "posted": "1 hour ago",
-    "applicants": "72 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466581999/",
-    "why": "Omnicom Media (Kinesso) is hiring an entry-level Associate, Programmatic in New York. Learns and helps run digital ad buys in DSPs, tracks daily pacing and performance, builds and QAs campaigns, and helps put together client decks. Big-agency training path with formal on-the-job training. Full-time, $50k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4466581999. 72 applicants. Pay signal: $50,000.",
-    "initials": "OM",
-    "color": "#059669"
   },
   {
     "id": "cheq-sports-growth-marketer",
@@ -4762,26 +4802,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "farmacy-beauty-coordinator-pr-influencer",
-    "title": "Coordinator, PR & Influencer",
-    "company": "Farmacy Beauty",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site NYC · PR and Influencer Coordinator for clean beauty brand (Sephora/Ulta)",
-    "salary": "$65,000",
-    "experience": "About 1 year professional experience. Beauty PR, influencer, events, and media relations.",
-    "posted": "3 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468144691/",
-    "why": "Farmacy Beauty Coordinator, PR & Influencer. On-site NYC; about $65k; clean beauty brand sold at Sephora and Ulta.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4468144691. 200 applicants. Pay signal: $65,000. Fashion/beauty priority. Events, mailers, partnerships, media relations with Brand Marketing and Social.",
-    "initials": "FB",
-    "color": "#059669"
-  },
-  {
     "id": "razorfish-media-planner",
     "title": "Media Planner",
     "company": "Razorfish",
@@ -5680,26 +5700,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Over 200 applicants. Caught on r86400 catch within ~12h. Salary not clearly stated on guest card. LinkedIn id 4384407304.",
     "initials": "CG",
     "color": "#311B92"
-  },
-  {
-    "id": "footlocker-associate-owned-media",
-    "title": "Associate, Owned Media",
-    "company": "Foot Locker",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · hands-on email/SMS/app push build, QA, deploy & optimize in CDP-enabled owned media",
-    "salary": "$67,000-$70,000",
-    "experience": "Owned-media associate building batch campaigns; platform builder role (email/SMS/push)",
-    "posted": "",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461199168/",
-    "why": "Foot Locker Associate, Owned Media. True campaign builder $67-70k, first 25, NYC.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Catch ~9h posted; open on guest. LinkedIn id 4461199168.",
-    "initials": "FL",
-    "color": "#111111"
   },
   {
     "id": "asme-social-media-intern",
@@ -6622,7 +6622,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Nov 3 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Tue, Nov 3 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
