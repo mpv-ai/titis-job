@@ -2541,26 +2541,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "nhl-coordinator-fan-engagement-analytics",
-    "title": "Coordinator, Fan Engagement & Analytics",
-    "company": "National Hockey League (NHL)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Coordinator, Fan Engagement & Analytics at the NHL",
-    "salary": "$65,000-$70,000",
-    "experience": "1-3 years in sports, marketing, digital operations, or fan engagement.",
-    "posted": "5 hours ago",
-    "applicants": "82 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4476390827/",
-    "why": "NHL league office Coordinator on the digital fan engagement team. Runs day-to-day execution of NHL GameZone, Bracket Challenge, sweepstakes, Fan Vote, and event activations, including partner and club coordination, prize fulfillment, content updates, and performance reporting. Hybrid in New York, $65k-$70k. Mix of marketing operations and analytics.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Rescued from title filter. Window Wed ~1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4476390827. 82 applicants. Pay signal: $65,000-$70,000.",
-    "initials": "NH",
-    "color": "#0F766E"
-  },
-  {
     "id": "brigade-marketing-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "Brigade Marketing",
@@ -6602,7 +6582,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Wed, Nov 4 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Wed, Nov 4 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
