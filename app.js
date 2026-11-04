@@ -3896,26 +3896,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "nadel-account-coordinator-long-island-ny",
-    "title": "Account Coordinator - Long Island, NY",
-    "company": "Nadel",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Account Coordinator - Long Island, NY at Nadel",
-    "salary": "$28-$35",
-    "experience": "Entry level",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474625082/",
-    "why": "Nadel Account Coordinator - Long Island, NY. New York, NY. $28-$35. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7:00 PM ET (9 minutes ago / tpr=r21600). LinkedIn id 4473561365. Be among the first 25 applicants. Pay signal: $28-$35. Twin refresh Mon ~7:00 PM ET: url updated 4473561365 -> 4474625082.",
-    "initials": "NA",
-    "color": "#0D9488"
-  },
-  {
     "id": "superbolt-junior-copywriter",
     "title": "Junior Copywriter",
     "company": "Superbolt",
@@ -6622,7 +6602,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Nov 3 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Wed, Nov 4 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
