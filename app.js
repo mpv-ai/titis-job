@@ -1461,26 +1461,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "24-seven-talent-marketing-coordinator-beauty",
-    "title": "Marketing Coordinator (Beauty Brand)",
-    "company": "24 Seven Talent",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid NYC (1 day/week in office) · Social, partnerships and events for a fast-growing beauty and personal care brand (via 24 Seven Talent)",
-    "salary": "$70,000-$75,000",
-    "experience": "Entry / early career. Asks for some marketing, social, events or partnerships experience (internships count).",
-    "posted": "1 hour ago",
-    "applicants": "70 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478805427/",
-    "why": "Beauty brand Marketing Coordinator via 24 Seven - $70-75k, hybrid NYC (1 day/week), social, creator programs, partnerships, events and product seeding. Posted about an hour ago.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4478805427. 70 applicants. Pay signal: $70,000.",
-    "initials": "2S",
-    "color": "#BE185D"
-  },
-  {
     "id": "m-booth-account-coordinator-consumer",
     "title": "Account Coordinator, Consumer",
     "company": "M Booth",
@@ -2141,26 +2121,6 @@ const FALLBACK_JOBS = [
     "color": "#0F766E"
   },
   {
-    "id": "gucci-digital-content-coordinator",
-    "title": "Digital Content Coordinator",
-    "company": "Gucci",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY (onsite) · Digital Content Coordinator at Gucci (Kering luxury fashion)",
-    "salary": "$67,500",
-    "experience": "2-3 years ecommerce or digital content preferred. Bachelor's in business/marketing desired.",
-    "posted": "5 hours ago",
-    "applicants": "78 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4477444562/",
-    "why": "Gucci is hiring a Digital Content Coordinator in New York for ecommerce site content: creative assets, product merchandising on site, QA, and SEO partnership. Luxury fashion digital seat at $67,500. Slight stretch on years (2-3 preferred) but a top fashion brand coordinator role.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Thu ~7:00 PM ET (5 hours ago / tpr=r43200). LinkedIn id 4477444562. 78 applicants. Pay signal: $67,500.",
-    "initials": "GU",
-    "color": "#111827"
-  },
-  {
     "id": "the-shipyard-account-coordinator",
     "title": "Account Coordinator",
     "company": "The Shipyard",
@@ -2803,26 +2763,6 @@ const FALLBACK_JOBS = [
     "color": "#D97706",
     "jid": "1d3ae570bbf2d34e",
     "source": "ziprecruiter"
-  },
-  {
-    "id": "cond-nast-associate-producer-revenue-marketing",
-    "title": "Associate Producer, Revenue Marketing",
-    "company": "Condé Nast",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Associate Producer, Revenue Marketing at Condé Nast",
-    "salary": "$65,000-$77,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "5 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4446968823/",
-    "why": "Condé Nast Associate Producer, Revenue Marketing. New York, NY, On-site. $65,000-$77,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat ~7:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4446968823. 200 applicants. Pay signal: $65,000-$77,000.",
-    "initials": "CN",
-    "color": "#BE185D"
   },
   {
     "id": "blackrock-aladdin-private-markets-product-marketing-associate",
@@ -5222,26 +5162,6 @@ const FALLBACK_JOBS = [
     "color": "#4F46E5"
   },
   {
-    "id": "allison-account-coordinator-technology-pr",
-    "title": "Account Coordinator, Technology Public Relations",
-    "company": "Allison Worldwide",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC hybrid (2+ days in office) · Technology PR account coordinator",
-    "salary": "$45,000-$55,000",
-    "experience": "True entry-level. Preferred experience as an intern/apprentice in PR, marketing, or related. Tech-industry interest preferred.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464879062/",
-    "why": "Allison Worldwide Account Coordinator, Technology PR - first 25, true entry $45-55k, preferred intern only. NYC hybrid tech PR seat.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Fri ~1-7 AM ET. LinkedIn id 4464879062. First 25. Distinct from allison-aae-corporate-affairs 4407950624.",
-    "initials": "AW",
-    "color": "#7C3AED"
-  },
-  {
     "id": "ocean-spray-brand-management-intern",
     "title": "Brand Management Intern",
     "company": "Ocean Spray Cranberries",
@@ -5340,26 +5260,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Posted in ~6h window Wed ~7 PM-Thu ~1 AM ET. LinkedIn id 4465354013. 198 applicants. Stretch: 1-3 yrs + no salary listed.",
     "initials": "WE",
     "color": "#00897B"
-  },
-  {
-    "id": "smartly-corporate-comms-intern",
-    "title": "Corporate Communications Intern",
-    "company": "Smartly",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · Fall 2026 · ~30 hrs/wk Oct 6-Dec 17 · corp comms / PR / social",
-    "salary": "$20/hour",
-    "experience": "Fall 2026 paid internship. Hands-on corp comms, PR lists, social drafting.",
-    "posted": "29 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4464131375/",
-    "why": "Smartly NYC Corporate Communications Intern - first 25, $20/hr ~30 hrs/wk Fall 2026.",
-    "applyFirst": true,
-    "employment": "Internship",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Wed ~1-7 PM ET. LinkedIn id 4464131375. First 25. Paid Fall window.",
-    "initials": "SM",
-    "color": "#7B1FA2"
   },
   {
     "id": "cardozo-social-media-content-associate",
@@ -6042,26 +5942,6 @@ const FALLBACK_JOBS = [
     "color": "#0B6E6B"
   },
   {
-    "id": "digitas-media-associate-boston",
-    "title": "Media Associate",
-    "company": "Digitas North America (Publicis)",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid · Boston agency",
-    "salary": "$50,065-$70,784",
-    "experience": "Bachelor’s + 1-3 years office (comms/agency preferred). Excel, RFPs, multi-channel plans. Internships help.",
-    "posted": "1 hour ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4457637830/",
-    "why": "True media-associate seat at Digitas Boston: research, RFPs, flowcharts, trafficking, reporting. First 25 this evening.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Publicis benefits. Application deadline listed as 10/1/2026.",
-    "initials": "DI",
-    "color": "#FF5C35"
-  },
-  {
     "id": "iheart-katz-account-coordinator",
     "title": "Account Coordinator",
     "company": "iHeartMedia (Katz Radio Group)",
@@ -6442,7 +6322,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Nov 5 · ~7:00 AM ET";
+const LAST_UPDATED = "Updated Thu, Nov 5 · ~1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
