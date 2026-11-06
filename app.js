@@ -1161,26 +1161,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "nars-coordinator-brand-marketing",
-    "title": "Coordinator, Brand Marketing (NARS)",
-    "company": "NARS Cosmetics (Shiseido)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Brand Marketing at NARS Cosmetics (Shiseido Americas)",
-    "salary": "$60,480 - $90,720",
-    "experience": "Coordinator level, bachelor's required, preferably 2 years (stretch)",
-    "posted": "1 hour ago",
-    "applicants": "74 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479315371/",
-    "why": "Coordinator, Brand Marketing at NARS, the prestige makeup brand in Shiseido Americas' NYC portfolio. Supports the Brand Manager on 360 launch planning, launch calendars, forecasts, competitor and digital trend research, and partner programs like ratings and reviews. Beauty marketing focus, $60,480-$90,720. Posting says preferably 2 years, so it's a stretch, but it is a true coordinator role at a top beauty brand.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Fri ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4479315371. 74 applicants. Pay signal: $60,480 - $90,720. Beauty/prestige fit; asks preferably 2 yrs (stretch). Hand-reviewed Oct 16 1 AM.",
-    "initials": "NC",
-    "color": "#BE185D"
-  },
-  {
     "id": "inizio-evoke-assistant-account-executive-public-relations",
     "title": "Assistant Account Executive - Public Relations",
     "company": "Inizio Evoke",
@@ -6182,7 +6162,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Nov 5 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Fri, Nov 6 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
