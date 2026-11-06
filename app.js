@@ -5850,14 +5850,14 @@ const FALLBACK_JOBS = [
     "workplace": "Hybrid · min 3 days office",
     "salary": "$40,000-$65,000",
     "experience": "Entry level. No years hard req. Excel (VLOOKUP, SUMIFS, pivots). MediaOcean a plus.",
-    "posted": "1 hour ago",
-    "applicants": "34",
-    "url": "https://www.linkedin.com/jobs/view/4448208242/",
+    "posted": "2 hours ago",
+    "applicants": "200 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4469623067/",
     "why": "True entry associate at Omnicom Media. IOs, Prisma, billing. Same path as the OMD video-investment associate.",
-    "applyFirst": true,
+    "applyFirst": false,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "JD body says Analyst, Activation Operations / Orion Worldwide. More media ops than brand. Different job from the two existing OMD seats.",
+    "notes": "JD body says Analyst, Activation Operations / Orion Worldwide. More media ops than brand. Different job from the two existing OMD seats. Twin refresh Fri Nov 6 ~7:00 AM ET: url updated 4448208242 -> 4469623067.",
     "initials": "OI",
     "color": "#E85D04"
   },
@@ -6162,7 +6162,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Nov 6 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Fri, Nov 6 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
