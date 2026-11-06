@@ -101,26 +101,6 @@ const FALLBACK_JOBS = [
     "color": "#0891B2"
   },
   {
-    "id": "collectively-associate-producer-influencer-marketing",
-    "title": "Associate Producer, Influencer Marketing",
-    "company": "Collectively",
-    "city": "New York",
-    "location": "Remote (New York)",
-    "workplace": "Remote",
-    "salary": "$65,000",
-    "experience": "1-2 years related experience in marketing/advertising or PR Strong organization s",
-    "posted": "1 hour ago",
-    "applicants": "50 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4487072254/",
-    "why": "Collectively Associate Producer, Influencer Marketing. Remote (New York), $65,000. Asks 1-2 years in marketing, advertising or PR, so a stretch.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Tue Nov 3 ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4487072254. 50 applicants. Pay signal: $65,000.",
-    "initials": "CO",
-    "color": "#DB2777"
-  },
-  {
     "id": "room-to-read-marketing-and-communications-coordinator",
     "title": "Marketing and Communications Coordinator",
     "company": "Room to Read",
@@ -299,26 +279,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri ~7:00 PM ET (5 hours ago / tpr=r604800). LinkedIn id 4485385295. Be among the first 25 applicants.",
     "initials": "HS",
     "color": "#0891B2"
-  },
-  {
-    "id": "doyle-auctioneers-appraisers-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "DOYLE Auctioneers & Appraisers",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Coordinator at DOYLE Auctioneers & Appraisers",
-    "salary": "",
-    "experience": "1-2 years of relevant experience (internships or agency experience welcome)",
-    "posted": "2 hours ago",
-    "applicants": "29 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4484873180/",
-    "why": "DOYLE Auctioneers & Appraisers Marketing Coordinator. New York, NY.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~1:00 PM ET (2 hours ago / tpr=r604800). LinkedIn id 4484873180. 29 applicants.",
-    "initials": "DA",
-    "color": "#BE185D"
   },
   {
     "id": "kpmg-us-associate-webcast-marketing",
@@ -1081,26 +1041,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "later-influencer-marketing-coordinator-us",
-    "title": "Influencer Marketing Coordinator (US)",
-    "company": "Later",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Remote (US), listed New York and Boston · Influencer Marketing Coordinator at Later",
-    "salary": "$55,000",
-    "experience": "1-2 years in influencer marketing, digital campaigns, or client services.",
-    "posted": "3 hours ago",
-    "applicants": "32 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4480539517/",
-    "why": "Later Influencer Marketing Coordinator (US). Remote, posted for both New York and Boston. $55,000. Asks 1-2 years. Fresh repost of the influencer coordinator role. Influencer / fashion-beauty-adjacent.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4480539517. 32 applicants. Pay signal: $55,000.",
-    "initials": "LA",
-    "color": "#7C3AED"
-  },
-  {
     "id": "sony-electronics-marketing-associate-events-and-programs",
     "title": "Marketing Associate - Events and Programs",
     "company": "Sony Electronics",
@@ -1169,9 +1109,9 @@ const FALLBACK_JOBS = [
     "workplace": "On-site New York · Marketing Coordinator at Women In Need, Inc. (Win)",
     "salary": "$66,000-$73,000",
     "experience": "1-2 years of experience in Marketing, Communications, Public Relations, Journalism, Media",
-    "posted": "21 minutes ago",
+    "posted": "20 minutes ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4487002981/",
+    "url": "https://www.linkedin.com/jobs/view/4488080321/",
     "why": "Win (Women In Need) Marketing Coordinator. New York, NY, on-site. $66,000-$73,000. Shapes social and digital storytelling for NYC's largest family shelter provider. Asks for 1-2 years, a true early-career fit.",
     "applyFirst": true,
     "employment": "Full-time",
@@ -2441,46 +2381,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "shore-fire-media-publicity-assistant-2026",
-    "title": "Publicity Assistant",
-    "company": "Shore Fire Media",
-    "city": "Brooklyn",
-    "location": "Brooklyn, NY",
-    "workplace": "Hybrid Brooklyn · Publicity Assistant at Shore Fire Media (music and culture PR)",
-    "salary": "$46,000-$48,000",
-    "experience": "Entry level. Two PR or communications internships, or about 1 year in a comparable communications role.",
-    "posted": "11 hours ago",
-    "applicants": "129 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4476355110/",
-    "why": "Shore Fire Media re-posted its entry-level Publicity Assistant role in Brooklyn. Music, books, festivals, and culture PR agency. Drafts press releases and pitches, tracks coverage, pitches clients for media, and coordinates interviews and events. Hybrid, $46k-$48k. This is a fresh posting (the earlier Shore Fire card closed on Oct 2), so apply soon.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Re-post of the Shore Fire Publicity Assistant role (old LinkedIn id 4462415925 closed Oct 2). Window Wed ~1:00 AM ET (11 hours ago / tpr=r43200). LinkedIn id 4476355110. 129 applicants. Pay signal: $46,000-$48,000.",
-    "initials": "SF",
-    "color": "#4F46E5"
-  },
-  {
-    "id": "premier-lacrosse-league-growth-marketing-coordinator",
-    "title": "Growth Marketing Coordinator",
-    "company": "Premier Lacrosse League",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Growth Marketing Coordinator at Premier Lacrosse League",
-    "salary": "$65,000-$75,000",
-    "experience": "1-3 years in performance marketing, paid media, or a related role (agency experience counts).",
-    "posted": "3 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4474426374/",
-    "why": "Premier Lacrosse League Growth Marketing Coordinator in New York. Helps run paid social, paid search, display, and partnership media, is the day-to-day contact for the media agency, and supports ticketing, merch, youth events, and tune-in campaigns across email, web, app, and out-of-home. On-site, $65k-$75k, starts Nov 1. Posted 3 hours ago with under 25 applicants. Wants some hands-on paid media experience.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4474426374. Be among the first 25 applicants. Pay signal: $65,000-$75,000.",
-    "initials": "PL",
-    "color": "#BE185D"
-  },
-  {
     "id": "brigade-marketing-social-media-coordinator",
     "title": "Social Media Coordinator",
     "company": "Brigade Marketing",
@@ -2499,26 +2399,6 @@ const FALLBACK_JOBS = [
     "notes": "ZipRecruiter posting. Window Wed ~1:00 AM ET (5 hours ago). ZR jid b80040098a12deda. No LinkedIn twin found.",
     "initials": "BM",
     "color": "#059669"
-  },
-  {
-    "id": "moroccanoil-influencer-marketing-coordinator",
-    "title": "Influencer Marketing Coordinator",
-    "company": "Moroccanoil",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Influencer Marketing Coordinator at Moroccanoil",
-    "salary": "$67,000",
-    "experience": "1-2+ years of influencer marketing experience, ideally within beauty or lifestyle.",
-    "posted": "2 hours ago",
-    "applicants": "126 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4476374740/",
-    "why": "Moroccanoil Influencer Marketing Coordinator in NYC (hybrid), $67k. Beauty brand role supporting influencer seeding, ambassador program logistics, creator outreach, and social content (including filming and editing). Strong beauty fit for a candidate with internship or about 1 year of influencer experience.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4476374740. 126 applicants. Pay signal: $67,000.",
-    "initials": "MO",
-    "color": "#2563EB"
   },
   {
     "id": "king-spalding-digital-marketing-coordinator",
@@ -3753,26 +3633,6 @@ const FALLBACK_JOBS = [
     "stretch": false,
     "notes": "Guest page open. Primary window Tue 7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4473519373. 127 applicants. Pay signal: $66.",
     "initials": "EQ",
-    "color": "#2563EB"
-  },
-  {
-    "id": "superbolt-junior-copywriter",
-    "title": "Junior Copywriter",
-    "company": "Superbolt",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Junior Copywriter at Superbolt",
-    "salary": "$55,000-$65,000,",
-    "experience": "1-3 years of professional copywriting experience and are eager to sharpen their",
-    "posted": "4 hours ago",
-    "applicants": "34 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471937600/",
-    "why": "Superbolt Junior Copywriter. New York, NY. $55,000-$65,000,.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7:00 PM ET (4 hours ago / tpr=r21600). LinkedIn id 4471937600. 34 applicants. Pay signal: $55,000-$65,000,.",
-    "initials": "SU",
     "color": "#2563EB"
   },
   {
@@ -6322,7 +6182,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Thu, Nov 5 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Thu, Nov 5 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
