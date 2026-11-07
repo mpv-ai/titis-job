@@ -5262,26 +5262,6 @@ const FALLBACK_JOBS = [
     "color": "#283593"
   },
   {
-    "id": "horizon-associate-programmatic",
-    "title": "Associate, Programmatic",
-    "company": "Horizon Media",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "NYC metro · Horizon Media programmatic planning/buying",
-    "salary": "$66,300",
-    "experience": "~1+ year specialized programmatic planning/buying.",
-    "posted": "16 hours ago",
-    "applicants": "184 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4412050423/",
-    "why": "Horizon Media Associate, Programmatic. ~1 year programmatic bar fits target. Strong agency brand. ~$66.3k.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Caught via r86400 (~16h). LinkedIn id 4412050423. Not twin of Horizon Paid Social / Trade / Futures roles.",
-    "initials": "HM",
-    "color": "#00695C"
-  },
-  {
     "id": "horizon-next-investor-digital-investment",
     "title": "Investor, Digital Investment",
     "company": "Horizon Next",
@@ -5320,26 +5300,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Twin Orchestra listing 4452752166 (108 applicants). LinkedIn shows Volunteer type quirk; JD is paid AC. LinkedIn id 4452766026.",
     "initials": "M18",
     "color": "#6A1B9A"
-  },
-  {
-    "id": "found-social-media-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Found",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · DTC health / community + social",
-    "salary": "",
-    "experience": "Entry/early. 1-3 years social media management, community, or creator coordination.",
-    "posted": "9 minutes ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4443523881/",
-    "why": "Found NYC Social Media Coordinator. Community, creators, social strategy support. 1-3 yrs.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. 200+ applicants. Salary not clearly stated on guest card. LinkedIn id 4443523881.",
-    "initials": "FD",
-    "color": "#00838F"
   },
   {
     "id": "husch-blackwell-bd-coordinator-tmt",
@@ -6002,7 +5962,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Fri, Nov 6 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Nov 7 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
