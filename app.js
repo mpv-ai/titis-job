@@ -5042,26 +5042,6 @@ const FALLBACK_JOBS = [
     "color": "#C8102E"
   },
   {
-    "id": "bloomingdales-site-merchandising-assistant-temp",
-    "title": "Site Merchandising Assistant TEMP",
-    "company": "Bloomingdale's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · temp Marketing & Special Events Coordinator (LinkedIn title Site Merchandising Assistant)",
-    "salary": "$56,280-$93,720",
-    "experience": "1-2 years direct experience; bachelor's. Temp marketing/events/client cultivation.",
-    "posted": "4 hours ago",
-    "applicants": "101 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4449961301/",
-    "why": "Bloomingdale's NYC temp Site Merchandising Assistant - JD is Marketing & Special Events Coordinator (in-store events, sponsorships, top-client experiences, local media). True early-career marketing ops. Stretch title/temp.",
-    "applyFirst": false,
-    "employment": "Temporary",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Sun ~7 PM-Mon ~1 AM ET. LinkedIn id 4449961301. JD title Marketing & Special Events Coordinator; LinkedIn title Site Merchandising Assistant TEMP. $56.3-93.7k. 101 applicants (not first 25). 1-2 yrs.",
-    "initials": "BD",
-    "color": "#880E4F"
-  },
-  {
     "id": "hdr-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "HDR",
@@ -5882,7 +5862,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sat, Nov 7 · ~1:00 PM ET";
+const LAST_UPDATED = "Updated Sat, Nov 7 · ~7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
