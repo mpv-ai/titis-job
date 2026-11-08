@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "werfen-marketing-communications-operations-assistant",
+    "title": "Marketing Communications Operations Assistant",
+    "company": "Werfen",
+    "city": "Boston",
+    "location": "Bedford, MA",
+    "workplace": "On-site, Bedford, MA (Boston metro)",
+    "salary": "$65,000 - $85,000",
+    "experience": "0-2 years of experience in event planning, project coordination, marketing operations, or administrative support.",
+    "posted": "5 days ago",
+    "applicants": "81 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4486481037/",
+    "why": "Assistant role on Werfen's Worldwide Marketing Communications team in Bedford, MA (on-site, Boston metro). Coordinates logistics for global congresses, tradeshows and meetings, plus day-to-day marketing operations (vendors, purchase orders, MLR trafficking). Pay $65,000 to $85,000. Bachelor's with 0-2 years qualifies. Posted about 5 days ago, 81 applicants.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Sun ~7:00 AM ET (5 days ago / tpr=r604800). LinkedIn id 4486481037. 81 applicants. Pay posted $65,000 to $85,000 (judge parser misread $2 billion revenue as pay; hand-checked). Supports Worldwide Marketing Communications. Hand-reviewed Nov 8 7 AM.",
+    "initials": "WE",
+    "color": "#059669"
+  },
+  {
     "id": "orange-barrel-media-associate-account-coordinator-programmatic",
     "title": "Associate Account Coordinator, Programmatic",
     "company": "Orange Barrel Media",
@@ -5862,7 +5882,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Nov 8 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Sun, Nov 8 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
