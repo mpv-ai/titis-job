@@ -4102,26 +4102,6 @@ const FALLBACK_JOBS = [
     "color": "#CA8A04"
   },
   {
-    "id": "glg-associate-content-financial-services",
-    "title": "Associate, Content Financial Services",
-    "company": "GLG",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Associate, Content Financial Services at GLG",
-    "salary": "$55,000",
-    "experience": "1-3 years of related professional experience in financial services or financial journalis",
-    "posted": "8 minutes ago",
-    "applicants": "143 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4415145631/",
-    "why": "GLG Associate, Content Financial Services. New York, NY. $55,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (8 minutes ago / tpr=r21600). LinkedIn id 4415145631. 143 applicants. Pay signal: $55,000.",
-    "initials": "GL",
-    "color": "#EA580C"
-  },
-  {
     "id": "precision-aq-program-coordinator-medical-communications",
     "title": "Program Coordinator, Medical Communications",
     "company": "Precision AQ",
@@ -5782,7 +5762,7 @@ const FALLBACK_JOBS = [
     "color": "#8B1E3F"
   }
 ];
-const LAST_UPDATED = "Updated Sun, Nov 8 · ~7:00 PM ET";
+const LAST_UPDATED = "Updated Mon, Nov 9 · ~1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
