@@ -5640,9 +5640,29 @@ const FALLBACK_JOBS = [
     "notes": "",
     "initials": "EC",
     "color": "#8B1E3F"
+  },
+  {
+    "id": "lehman-college-communications-broadcast-multimedia-production-coordina",
+    "title": "Communications Broadcast & Multimedia Production Coordinator (aHEO)",
+    "company": "Lehman College",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Communications Broadcast & Multimedia Production Coordinator (aHEO) at Lehman College",
+    "salary": "$79,794-$82,577",
+    "experience": "Entry-level / ~1 year preferred.",
+    "posted": "3 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4487459620/",
+    "why": "Lehman College Communications Broadcast & Multimedia Production Coordinator (aHEO). New York, NY. $79,794-$82,577. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Tue ~7:00 AM ET (3 hours ago / tpr=r604800). LinkedIn id 4487459620. Be among the first 25 applicants. Pay signal: $79,794-$82,577.",
+    "initials": "LC",
+    "color": "#7C3AED"
   }
 ];
-const LAST_UPDATED = "Updated Tue, Nov 10 · ~1:00 AM ET";
+const LAST_UPDATED = "Updated Tue, Nov 10 · ~7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
