@@ -21,26 +21,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "prismhelix-brand-communications-marketing-specialist",
-    "title": "Brand Communications & Marketing Specialist",
-    "company": "PrismHelix",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at PrismHelix",
-    "salary": "",
-    "experience": "0-1 year in communications, digital marketing, PR, or recruitment marketing. Bachelor's in Marketing, Communications, PR, Journalism or Business.",
-    "posted": "6 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4490304110/",
-    "why": "PrismHelix Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490304110. Be among the first 25 applicants.",
-    "initials": "PH",
-    "color": "#0F766E"
-  },
-  {
     "id": "sbh-fashion-creative-coordinator",
     "title": "Creative Coordinator",
     "company": "SBH Fashion",
@@ -1061,26 +1041,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "matco-norca-llc-digital-marketing-associate",
-    "title": "Digital Marketing Associate",
-    "company": "Matco-Norca, LLC",
-    "city": "New York",
-    "location": "Brewster, NY",
-    "workplace": "Hybrid Brewster, NY · Digital Marketing Associate at Matco-Norca, LLC",
-    "salary": "$62,354 - $72,048",
-    "experience": "No years stated. Entry-level digital marketing role.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479689429/",
-    "why": "Matco-Norca Digital Marketing Associate in Brewster, NY (Putnam County, about 60 miles north of Manhattan on Metro-North), hybrid, $62K-$72K. Social, email/CRM, blog, and Canva content for a plumbing products supplier. Not fashion.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Sat ~1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4479689429. Be among the first 25 applicants. Pay signal: $62,354. Edge of NYC metro (Brewster). Non-fashion keeper.",
-    "initials": "MN",
-    "color": "#D97706"
-  },
-  {
     "id": "palette-media-content-operations-production-assistant",
     "title": "Content Operations & Production Assistant",
     "company": "Palette Media",
@@ -1559,26 +1519,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~1:00 PM ET (2 hours ago / tpr=r64800). LinkedIn id 4478444988. 28 applicants. Pay signal: $75,000.",
     "initials": "FC",
     "color": "#D97706"
-  },
-  {
-    "id": "edelman-jr-coordinator-creator-marketing",
-    "title": "Jr. Coordinator, Creator Marketing",
-    "company": "Edelman",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Edelman Creator Marketing (influencer relations, monitoring, creator outreach)",
-    "salary": "$48,000-$52,000",
-    "experience": "True entry. Junior Coordinator (AAE level) on Edelman's Creator Marketing team.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479208364/",
-    "why": "Edelman Jr. Coordinator (AAE), Creator Marketing - $48-52k NYC, influencer/creator relations at a top PR agency. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue ~7:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4479208364. Be among the first 25 applicants. Pay signal: $48,000-$52,000.",
-    "initials": "ED",
-    "color": "#BE185D"
   },
   {
     "id": "moroccanoil-marketing-intern-global-promotions",
@@ -3640,27 +3580,6 @@ const FALLBACK_JOBS = [
     "jid": "4462779304"
   },
   {
-    "id": "ctp-media-planner",
-    "title": "Media Planner",
-    "company": "CTP",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "On-site Boston · Media Planner at CTP",
-    "salary": "$50,000 - $75,000",
-    "experience": "2-6 years of relevant media planning, buying or digital advertising experience",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4471613638/",
-    "why": "CTP Media Planner. Boston, MA, On-site. $50,000 - $75,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4471613638. Be among the first 25 applicants. Pay signal: $50,000 - $75,000.",
-    "initials": "CT",
-    "color": "#0891B2",
-    "jid": "4471613638"
-  },
-  {
     "id": "the-hartz-mountain-corporation-marketing-coordinator",
     "title": "Marketing Coordinator",
     "company": "The Hartz Mountain Corporation",
@@ -4218,26 +4137,6 @@ const FALLBACK_JOBS = [
     "stretch": true,
     "notes": "Guest page open. Catch-window Thu 1 AM ET (posted ~13h / r86400 fashion). LinkedIn id 4468256278. Over 200 applicants. Fashion priority stretch. Twin refresh Wed ~9:30 PM ET: url updated 4468256278 -> 4473997208.",
     "initials": "MA",
-    "color": "#DC2626"
-  },
-  {
-    "id": "people-associate-content-creator",
-    "title": "Associate Content Creator - PEOPLE",
-    "company": "People Inc.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · PEOPLE magazine Associate Content Creator (video pitch → film → edit)",
-    "salary": "$67,000",
-    "experience": "Associate content creator. Bachelor's journalism/comms preferred. Video creative process end-to-end.",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4468302280/",
-    "why": "People Inc Associate Content Creator PEOPLE - first 25, $67k NYC magazine video content.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Wed ~1-7 PM ET. LinkedIn id 4468302280. First 25.",
-    "initials": "PE",
     "color": "#DC2626"
   },
   {
@@ -5561,26 +5460,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "the-new-york-times-product-marketing-editorial-solutions-analyst",
-    "title": "Product Marketing, Editorial Solutions Analyst",
-    "company": "The New York Times",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Product Marketing, Editorial Solutions Analyst at The New York Times",
-    "salary": "$75,000 - $85,000",
-    "experience": "1+ years of professional experience",
-    "posted": "15 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4489403176/",
-    "why": "The New York Times Product Marketing, Editorial Solutions Analyst. New York, NY, Hybrid. $75,000 - $85,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue ~1:00 PM ET (15 hours ago / tpr=r604800). LinkedIn id 4489403176. 200 applicants. Pay signal: $75,000 - $85,000.",
-    "initials": "NY",
-    "color": "#2563EB"
-  },
-  {
     "id": "translation-associate-context-planner",
     "title": "Associate Context Planner",
     "company": "Translation",
@@ -5661,7 +5540,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Thu, Nov 12 · 1:00 PM ET";
+const LAST_UPDATED = "Thu, Nov 12 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
