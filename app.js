@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "prismhelix-brand-communications-marketing-specialist",
+    "title": "Brand Communications & Marketing Specialist",
+    "company": "PrismHelix",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at PrismHelix",
+    "salary": "",
+    "experience": "0-1 year in communications, digital marketing, PR, or recruitment marketing. Bachelor's in Marketing, Communications, PR, Journalism or Business.",
+    "posted": "6 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4490304110/",
+    "why": "PrismHelix Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490304110. Be among the first 25 applicants.",
+    "initials": "PH",
+    "color": "#0F766E"
+  },
+  {
+    "id": "sbh-fashion-creative-coordinator",
+    "title": "Creative Coordinator",
+    "company": "SBH Fashion",
+    "city": "New York",
+    "location": "Brooklyn, NY",
+    "workplace": "Brooklyn, NY · Creative Coordinator at SBH Fashion",
+    "salary": "$60,000",
+    "experience": "Coordinator role supporting the Creative Director on campaigns, brand assets and licensee approvals. No years listed.",
+    "posted": "11 hours ago",
+    "applicants": "68 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4489990582/",
+    "why": "SBH Fashion Creative Coordinator. Brooklyn, NY. Salary from $60,000. Fashion and streetwear brand, campaign and brand asset coordination.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (11 hours ago / tpr=r43200). LinkedIn id 4489990582. 68 applicants. Pay signal: $60,000.",
+    "initials": "SF",
+    "color": "#B45309"
+  },
+  {
     "id": "kpmg-us-associate-experiential-marketing",
     "title": "Associate, Experiential Marketing",
     "company": "KPMG US",
@@ -1019,26 +1059,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Sun ~1:00 AM ET (11 minutes ago / tpr=r21600). LinkedIn id 4479914488. Be among the first 25 applicants.",
     "initials": "LH",
     "color": "#BE185D"
-  },
-  {
-    "id": "net-a-porter-pr-coordinator-net-a-porter",
-    "title": "PR Coordinator",
-    "company": "NET-A-PORTER",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · PR Coordinator @NET-A-PORTER at NET-A-PORTER",
-    "salary": "$66,300",
-    "experience": "1-2 years including internships in PR, communications, or fashion. Good fit for a new grad with PR internships.",
-    "posted": "2 hours ago",
-    "applicants": "36 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4480836297/",
-    "why": "NET-A-PORTER (luxury fashion) PR Coordinator in New York, hybrid, $66,300. Media lists, press coverage tracking, sample trafficking, and press events.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat ~1:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4480836297. 36 applicants. Pay signal: $66,300. Fashion priority. Luxury e-commerce PR team (US market).",
-    "initials": "NP",
-    "color": "#7C3AED"
   },
   {
     "id": "matco-norca-llc-digital-marketing-associate",
@@ -4801,26 +4821,6 @@ const FALLBACK_JOBS = [
     "color": "#2E7D32"
   },
   {
-    "id": "omd-associate-media-operations",
-    "title": "Associate, Media Operations",
-    "company": "OMD",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Omnicom OMD media ops / Hive workflows (beauty category support)",
-    "salary": "$45,000+",
-    "experience": "True entry. Experience not required; 0-2 years media/marketing/sales/tech a plus.",
-    "posted": "1 hour ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4453211068/",
-    "why": "OMD NYC Associate, Media Operations. Explicit entry-level, experience not required. Hive admin, reports, vendor/legal mediation. Classic agency rung.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Posted in ~6h window Fri ~1-7 AM ET. LinkedIn id 4453211068. Not twin of OMD Integrated Media / Video Investment.",
-    "initials": "OM",
-    "color": "#1565C0"
-  },
-  {
     "id": "horizon-next-investor-digital-investment",
     "title": "Investor, Digital Investment",
     "company": "Horizon Next",
@@ -5661,7 +5661,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Thu, Nov 12 · 1:00 AM ET";
+const LAST_UPDATED = "Thu, Nov 12 · 7:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
