@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "dada-goldberg-public-relations-account-coordinator",
+    "title": "Public Relations Account Coordinator",
+    "company": "DADA Goldberg",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Public Relations Account Coordinator at DADA Goldberg",
+    "salary": "",
+    "experience": "Entry level responsibilities include account coo",
+    "posted": "1 hour ago",
+    "applicants": "26 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4490044491/",
+    "why": "DADA Goldberg Public Relations Account Coordinator. New York, NY. Salary not listed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4490044491. 26 applicants.",
+    "initials": "DG",
+    "color": "#D97706"
+  },
+  {
+    "id": "avencia-talent-solutions-event-coordinator",
+    "title": "Event Coordinator",
+    "company": "Avencia Talent Solutions",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "New York · Event Coordinator at Avencia Talent Solutions",
+    "salary": "",
+    "experience": "0-1 year of event coordination or related experience Strong project management a",
+    "posted": "1 day ago",
+    "applicants": "158 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4487800119/",
+    "why": "Avencia Talent Solutions Event Coordinator. New York, NY. Salary not listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 day ago / tpr=r604800). LinkedIn id 4487800119. 158 applicants.",
+    "initials": "AT",
+    "color": "#2563EB"
+  },
+  {
     "id": "razorfish-media-planner",
     "title": "Media Planner",
     "company": "Razorfish",
@@ -56,7 +96,7 @@ const FALLBACK_JOBS = [
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Sun ~7:00 AM ET (1 hour ago / tpr=r604800). LinkedIn id 4487414720. Be among the first 25 applicants. Pay signal: $62.",
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4487414720. Be among the first 25 applicants. Pay signal: $62.",
     "initials": "AT",
     "color": "#4F46E5"
   },
@@ -76,7 +116,7 @@ const FALLBACK_JOBS = [
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Sun ~7:00 AM ET (1 hour ago / tpr=r604800). LinkedIn id 4487409727. Be among the first 25 applicants.",
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 hour ago / tpr=r604800). LinkedIn id 4487409727. Be among the first 25 applicants.",
     "initials": "MI",
     "color": "#DB2777"
   },
@@ -1579,26 +1619,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue ~1:00 PM ET (6 minutes ago / tpr=r21600). LinkedIn id 4478141104. Be among the first 25 applicants. Pay signal: $45,000-$50,000.",
     "initials": "OP",
     "color": "#7C3AED"
-  },
-  {
-    "id": "pine-printing-industries-of-new-england-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "PINE (Printing Industries of New England)",
-    "city": "Southborough",
-    "location": "Southborough, MA",
-    "workplace": "On-site Southborough, MA · Marketing Coordinator at PINE (Printing Industries of New England)",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "2 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4477909764/",
-    "why": "Part-time, on-site Marketing Coordinator at PINE, a printing-industry trade association in Southborough, MA (MetroWest, near Dover). Email, web, and social campaigns, member communications, and event promotion. LinkedIn tags it entry level; prior experience is only a plus. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Mon ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4477909764. Be among the first 25 applicants. Part-time on-site Southborough MA (MetroWest Boston). Entry level; experience a plus.",
-    "initials": "PP",
-    "color": "#DB2777"
   },
   {
     "id": "omnicom-media-integrated-media-planner",
@@ -5661,7 +5681,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Wed, Nov 11 · 1:00 PM ET";
+const LAST_UPDATED = "Wed, Nov 11 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
