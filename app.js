@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "kpmg-us-associate-experiential-marketing",
+    "title": "Associate, Experiential Marketing",
+    "company": "KPMG US",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "On-site New York · Associate, Experiential Marketing at KPMG US",
+    "salary": "",
+    "experience": "Minimum one year of recent event or field marketing experience. Bachelor's required.",
+    "posted": "1 hour ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4489082205/",
+    "why": "KPMG US Associate, Experiential Marketing. New York, NY, On-site. Early applicant window.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (1 hour ago / tpr=r604800). LinkedIn id 4489082205. Be among the first 25 applicants.",
+    "initials": "KU",
+    "color": "#BE185D"
+  },
+  {
     "id": "dada-goldberg-public-relations-account-coordinator",
     "title": "Public Relations Account Coordinator",
     "company": "DADA Goldberg",
@@ -1421,26 +1441,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "id-pr-talent-assistant-public-relations",
-    "title": "Talent Assistant Public Relations",
-    "company": "ID (I D Public Relations)",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site NYC · Talent PR support at the largest independent communications agency in the U.S.",
-    "salary": "Pay n/a",
-    "experience": "Entry level. Bachelor's in Comms/PR/Marketing; prior internship in PR or entertainment media helps.",
-    "posted": "32 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478810467/",
-    "why": "ID Talent Assistant, Public Relations - entry-level talent PR in NYC (press materials, media lists, interviews, appearances). Posted within the hour, early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (32 minutes ago / tpr=r21600). LinkedIn id 4478810467. Be among the first 25 applicants.",
-    "initials": "ID",
-    "color": "#D97706"
-  },
-  {
     "id": "delaware-north-social-media-coordinator-ubs-arena",
     "title": "Social Media Coordinator, UBS Arena",
     "company": "Delaware North",
@@ -1599,26 +1599,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue ~7:00 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4479052727. Be among the first 25 applicants. Pay signal: $15.",
     "initials": "BS",
     "color": "#DB2777"
-  },
-  {
-    "id": "optimist-account-coordinator",
-    "title": "Account Coordinator",
-    "company": "Optimist",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Account Coordinator at Optimist",
-    "salary": "$45,000-$50,000",
-    "experience": "1 year of prior experience in luxury fashion, VIP relations, or co",
-    "posted": "6 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478141104/",
-    "why": "Optimist Account Coordinator, Luxury/Lifestyle Division (fashion PR). NYC hybrid, entry-level. $45,000-$50,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue ~1:00 PM ET (6 minutes ago / tpr=r21600). LinkedIn id 4478141104. Be among the first 25 applicants. Pay signal: $45,000-$50,000.",
-    "initials": "OP",
-    "color": "#7C3AED"
   },
   {
     "id": "omnicom-media-integrated-media-planner",
@@ -5681,7 +5661,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Wed, Nov 11 · 7:00 PM ET";
+const LAST_UPDATED = "Thu, Nov 12 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
