@@ -1241,26 +1241,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "solcomms-account-coordinator-digital-health-oct15",
-    "title": "Account Coordinator",
-    "company": "SolComms",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Account Coordinator at SolComms",
-    "salary": "$45,000-$50,000",
-    "experience": "Entry level (PR agency Account Coordinator)",
-    "posted": "3 hours ago",
-    "applicants": "31 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479841449/",
-    "why": "Entry-level Account Coordinator at SolComms, a PR agency for start-ups (Digital Health and Tech division). Media lists, pitching, coverage tracking, event and influencer invite lists, client calls. $45-50k plus bonus, hybrid NYC.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4479841449. 31 applicants. $45-50k, annual bonus, hybrid. New posting (Digital Health and Tech division); the Sep 25 SolComms card 4465079595 closed separately. Hand-reviewed Oct 15 1 PM.",
-    "initials": "SC",
-    "color": "#DC2626"
-  },
-  {
     "id": "estee-lauder-mac-associate-global-ecommerce",
     "title": "Associate, Global Ecommerce, MAC Cosmetics",
     "company": "The Estée Lauder Companies",
@@ -1519,26 +1499,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Wed ~1:00 PM ET (11 hours ago / tpr=r64800). LinkedIn id 4479276287. 37 applicants. Pay signal: $61,000.",
     "initials": "AU",
     "color": "#2563EB"
-  },
-  {
-    "id": "furniture-com-digital-content-associate",
-    "title": "Digital Content Associate",
-    "company": "Furniture.com",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Furniture.com Brand + Creative (ecommerce content)",
-    "salary": "$75,000-$90,000",
-    "experience": "1-3 years in ecommerce content, digital editorial, interiors or retail (stretch).",
-    "posted": "2 hours ago",
-    "applicants": "28 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478444988/",
-    "why": "Furniture.com Digital Content Associate - $75-90k NYC, Brand + Creative team building shoppable content and visuals. Home/retail ecommerce, stretch on experience.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (2 hours ago / tpr=r64800). LinkedIn id 4478444988. 28 applicants. Pay signal: $75,000.",
-    "initials": "FC",
-    "color": "#D97706"
   },
   {
     "id": "moroccanoil-marketing-intern-global-promotions",
@@ -3900,26 +3860,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "mcdermott-will-schulte-marketing-coordinator",
-    "title": "Marketing Coordinator",
-    "company": "McDermott Will & Schulte",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston · Marketing Coordinator at McDermott Will & Schulte",
-    "salary": "$72,000 - $99,000",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "1 minute ago",
-    "applicants": "182 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461502475/",
-    "why": "McDermott Will & Schulte Marketing Coordinator. Boston, MA. $72,000 - $99,000.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (1 minute ago / tpr=r86400). LinkedIn id 4461502475. 182 applicants. Pay signal: $72,000 - $99,000.",
-    "initials": "MW",
-    "color": "#D97706"
-  },
-  {
     "id": "neon-account-coordinator-8217",
     "title": "Account Coordinator",
     "company": "NEON",
@@ -4038,26 +3978,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Fri 7 PM ET (posted ~2h / r21600). LinkedIn id 4469233806. 42 applicants. Twin refresh Thu ~7:00 PM ET: url updated 4469233806 -> 4477461200.",
     "initials": "UM",
     "color": "#7C3AED"
-  },
-  {
-    "id": "mcb-marketing-events-associate",
-    "title": "Marketing & Events Associate",
-    "company": "Metropolitan Commercial Bank",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Marketing & Events Associate (campaigns, calendar, social, promotional materials)",
-    "salary": "$65,000-$85,000",
-    "experience": "Bachelor’s in Marketing/Comms preferred; 2-3 years marketing or admin preferred. Stretch vs pure ~1yr entry.",
-    "posted": "2 hours ago",
-    "applicants": "200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4458632916/",
-    "why": "Metropolitan Commercial Bank Marketing & Events Associate - NYC true marketing title (campaigns/social/events). Stretch 2-3 yrs preferred.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Fri 7 AM ET (posted ~2h / r21600). LinkedIn id 4458632916. 200 applicants. Non-fashion stretch.",
-    "initials": "MB",
-    "color": "#0E4D92"
   },
   {
     "id": "ralph-lauren-executive-communications-associate",
@@ -4318,26 +4238,6 @@ const FALLBACK_JOBS = [
     "notes": "Consumer brand campus marketing. Strong entry title. Twin refresh Mon 7 PM ET: url updated 4465563940 -> 4468187003.",
     "initials": "BU",
     "color": "#FFC629"
-  },
-  {
-    "id": "aon-marketing-enablement-coordinator",
-    "title": "Marketing Analyst & Enablement Coordinator",
-    "company": "Aon",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Marketing Analyst & Enablement Coordinator",
-    "salary": "$73,000-$85,000",
-    "experience": "1+ year marketing/comms/business coordination.",
-    "posted": "21 hours ago",
-    "applicants": "159 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467414343/",
-    "why": "Aon Marketing Analyst & Enablement Coordinator - $73-85k, 1+ yr, 159 apps.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Title includes Analyst; coordinator enablement seat. Stretch vs pure brand marketing.",
-    "initials": "AO",
-    "color": "#E31837"
   },
   {
     "id": "vaneck-digital-product-marketing-associate",
@@ -5500,26 +5400,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "panda-fest-social-media-content-coordinator",
-    "title": "Social Media & Content Coordinator (Full-Time)",
-    "company": "Panda Fest",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Social Media & Content Coordinator at Panda Fest",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "46 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4487965411/",
-    "why": "Panda Fest Social Media & Content Coordinator. New York, NY, on-site. Entry level, early applicant window. Salary not listed.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (46 minutes ago / guest search). LinkedIn id 4487965411. Be among the first 25 applicants. Company is Panda Fest (LinkedIn poster name shows the job title). Occasional evening/weekend event duty.",
-    "initials": "PF",
-    "color": "#2563EB"
-  },
-  {
     "id": "icr-public-relations-associate-real-estate-financial-services",
     "title": "Public Relations Associate, Real Estate & Financial Services",
     "company": "ICR",
@@ -5560,7 +5440,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Fri, Nov 13 · 1:00 PM ET";
+const LAST_UPDATED = "Fri, Nov 13 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
