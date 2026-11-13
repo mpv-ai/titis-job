@@ -1,6 +1,26 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "prismhelix-brand-communications-marketing-specialist",
+    "title": "Brand Communications & Marketing Specialist",
+    "company": "PrismHelix",
+    "city": "New York",
+    "location": "New York, NY",
+    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at PrismHelix",
+    "salary": "",
+    "experience": "0-1 year in communications, digital marketing, PR, or recruitment marketing. Bachelor's in Marketing, Communications, PR, Journalism or Business.",
+    "posted": "6 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4490304110/",
+    "why": "PrismHelix Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490304110. Be among the first 25 applicants.",
+    "initials": "PH",
+    "color": "#0F766E"
+  },
+  {
     "id": "f-schumacher-co-media-operations-assistant",
     "title": "Media Operations Assistant",
     "company": "F. Schumacher & Co.",
@@ -4160,26 +4180,6 @@ const FALLBACK_JOBS = [
     "color": "#00DCFA"
   },
   {
-    "id": "bloomingdales-digital-merchandise-coordinator-temp",
-    "title": "Digital Merchandise Coordinator (TEMP)",
-    "company": "Bloomingdale's",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC · Bloomingdale's TEMP digital merchandise coordinator (site merch / editorial)",
-    "salary": "$56,280",
-    "experience": "True entry. Bachelor's preferred; no experience required. Digital merch, samples, editorial support.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4467974082/",
-    "why": "Fashion: Bloomingdale's Digital Merchandise Coordinator TEMP - first 25, $56.3k, no exp required NYC digital merch.",
-    "applyFirst": true,
-    "employment": "Temporary",
-    "stretch": false,
-    "notes": "Fashion digital merch. Guest page open. LinkedIn id 4467974082. First 25. Distinct from Influencer Marketing Coordinator TEMP and E-Commerce Junior Merchandiser. BoF twin 4466844104 same posting.",
-    "initials": "BL",
-    "color": "#BE123C"
-  },
-  {
     "id": "via-consumer-growth-marketing-associate",
     "title": "Consumer Growth Marketing Associate",
     "company": "Via",
@@ -5120,26 +5120,6 @@ const FALLBACK_JOBS = [
     "color": "#E85D04"
   },
   {
-    "id": "moomoo-junior-integrated-marketing",
-    "title": "Junior Integrated Marketing Specialist",
-    "company": "moomoo",
-    "city": "New York",
-    "location": "Jersey City, NJ",
-    "workplace": "Onsite",
-    "salary": "$55,000-$70,000 + bonus",
-    "experience": "1-2 years marketing. Internships/early-career welcome.",
-    "posted": "2 hours ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4455837396/",
-    "why": "True junior title at a fintech. OOH, social, digital, TV. Internships count. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Futu US / Moomoo Financial. Office required. Investing interest a plus.",
-    "initials": "MO",
-    "color": "#FF6B00"
-  },
-  {
     "id": "orchestra-travel-account-coordinator",
     "title": "Account Coordinator, Travel & Hospitality",
     "company": "Orchestra",
@@ -5540,7 +5520,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Thu, Nov 12 · 7:00 PM ET";
+const LAST_UPDATED = "Fri, Nov 13 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
