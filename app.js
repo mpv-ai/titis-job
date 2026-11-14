@@ -1,26 +1,6 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
-    "id": "leveraged-media-influencer-marketing-coordinator",
-    "title": "Influencer Marketing Coordinator",
-    "company": "Leveraged Media",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York (3 days on-site, Dumbo) · Influencer Marketing Coordinator at Leveraged Media",
-    "salary": "$60,000-$70,000 base (OTE $80-100k)",
-    "experience": "At least 1 year of relevant work or internship experience in marketing, media buying, or business development.",
-    "posted": "4 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4489325245/",
-    "why": "Leveraged Media Influencer Marketing Coordinator. New York, NY, hybrid. Asks 1 year. Base $60-70k plus bonus.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat ~7:00 AM ET (4 hours ago). LinkedIn id 4489325245. Be among the first 25 applicants.",
-    "initials": "LM",
-    "color": "#0F766E"
-  },
-  {
     "id": "prismhelix-brand-communications-marketing-specialist",
     "title": "Brand Communications & Marketing Specialist",
     "company": "PrismHelix",
@@ -1779,26 +1759,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4475728122. Be among the first 25 applicants. Pay signal: $24/hr. Boston posting of the same fellowship (4475718567) deduped.",
     "initials": "OR",
     "color": "#0F766E"
-  },
-  {
-    "id": "estee-lauder-associate-pr-influencer-aerin",
-    "title": "Associate, PR/Influencer, Estée Lauder & AERIN NA",
-    "company": "The Estée Lauder Companies Inc.",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · Associate, PR/Influencer at The Estée Lauder Companies (Estée Lauder and AERIN Beauty, North America Communications)",
-    "salary": "$66,300",
-    "experience": "2+ years in PR, influencer marketing, or digital/social marketing. BA/BS in Marketing, Communications, PR, or related field.",
-    "posted": "2 hours ago",
-    "applicants": "68 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475499332/",
-    "why": "Estée Lauder Companies is hiring a PR and Influencer Associate on the North America Communications team for the Estée Lauder and AERIN Beauty brands. Helps run editorial and product launch calendars, supports influencer partnerships and experiential activations, tracks earned media value, and handles paid media POs and invoices. Prestige beauty, right in the fashion and beauty lane. Asks for 2+ years, so it is a stretch, but worth a shot.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4475499332. 68 applicants. Pay signal: $66,300. Beauty priority stretch (2+ yrs).",
-    "initials": "EL",
-    "color": "#2563EB"
   },
   {
     "id": "usta-social-media-marketing-associate-part-time",
@@ -5340,7 +5300,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Sat, Nov 14 · 1:00 PM ET";
+const LAST_UPDATED = "Sat, Nov 14 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
