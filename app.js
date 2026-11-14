@@ -1301,46 +1301,6 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   },
   {
-    "id": "kpmg-associate-buyer-marketing",
-    "title": "Associate, Buyer Marketing",
-    "company": "KPMG US",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY · B2B campaign coordination for KPMG's Clients and Markets (Growth Activation) team",
-    "salary": "$68,800-$109,900 (posted range)",
-    "experience": "Minimum 1 year of B2B marketing, campaign coordination or project support. Agency or internship experience highly valued. No visa sponsorship.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478832441/",
-    "why": "KPMG Associate, Buyer Marketing - tracks the campaign calendar, traffics creative, pulls email, web and event results and supports marketing plans. Asks about 1 year, internships count. Posted about an hour ago.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4478832441. Be among the first 25 applicants.",
-    "initials": "KP",
-    "color": "#2563EB"
-  },
-  {
-    "id": "kpmg-associate-buyer-marketing-boston",
-    "title": "Associate, Buyer Marketing",
-    "company": "KPMG US",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Boston, MA · Same KPMG Buyer Marketing associate role, Boston office posting",
-    "salary": "$68,800-$109,900 (posted range)",
-    "experience": "Minimum 1 year of B2B marketing, campaign coordination or project support. Agency or internship experience highly valued. No visa sponsorship.",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4478829629/",
-    "why": "KPMG Associate, Buyer Marketing (Boston posting) - campaign calendar, asset trafficking and performance tracking for B2B marketing. Asks about 1 year, internships count. Posted about an hour ago.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (1 hour ago / tpr=r21600). LinkedIn id 4478829629. Be among the first 25 applicants.",
-    "initials": "KP",
-    "color": "#0891B2"
-  },
-  {
     "id": "sbh-fashion-brand-marketing-associate",
     "title": "Brand Marketing Associate",
     "company": "SBH Fashion",
@@ -5440,7 +5400,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Fri, Nov 13 · 7:00 PM ET";
+const LAST_UPDATED = "Sat, Nov 14 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
