@@ -1041,26 +1041,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "lasante-health-center-digital-marketing-coordinator",
-    "title": "Digital Marketing Coordinator",
-    "company": "LaSante Health Center",
-    "city": "Brooklyn",
-    "location": "Brooklyn, NY",
-    "workplace": "Brooklyn · Digital Marketing Coordinator at LaSante Health Center",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "11 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479914488/",
-    "why": "Entry-level Digital Marketing Coordinator at a Brooklyn health center: digital marketing, patient outreach and communications, data tracking. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sun ~1:00 AM ET (11 minutes ago / tpr=r21600). LinkedIn id 4479914488. Be among the first 25 applicants.",
-    "initials": "LH",
-    "color": "#BE185D"
-  },
-  {
     "id": "exemplar-luxury-group-coordinator-growth-marketing-paid-social",
     "title": "Coordinator, Growth Marketing - Paid Social",
     "company": "Exemplar Luxury Group",
@@ -4219,26 +4199,6 @@ const FALLBACK_JOBS = [
     "color": "#0033A0"
   },
   {
-    "id": "gotham-park-social-digital-content-coordinator",
-    "title": "Social Media & Digital Content Coordinator",
-    "company": "Gotham Park",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "NYC nonprofit · Brooklyn Bridge public-space social + digital storytelling",
-    "salary": "$25-$30/hr",
-    "experience": "2+ years social/digital/content preferred (entry-level seniority); photo/video + posting",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4461980895/",
-    "why": "Gotham Park nonprofit Social Media & Digital Content Coordinator. Hands-on create/publish. Entry seniority, 2+ yrs preferred, $25-30/hr. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Guest page open. Posted in ~6h window Fri ~7 AM-1 PM ET. LinkedIn id 4461980895. Not Gotham FC.",
-    "initials": "GO",
-    "color": "#2E7D32"
-  },
-  {
     "id": "horizon-next-investor-digital-investment",
     "title": "Investor, Digital Investment",
     "company": "Horizon Next",
@@ -5059,7 +5019,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Mon, Nov 16 · 7:00 AM ET";
+const LAST_UPDATED = "Mon, Nov 16 · 1:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
