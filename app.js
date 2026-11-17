@@ -3,21 +3,21 @@ const FALLBACK_JOBS = [
   {
     "id": "prismhelix-brand-communications-marketing-specialist",
     "title": "Brand Communications & Marketing Specialist",
-    "company": "PrismHelix",
+    "company": "WLW Resources",
     "city": "New York",
     "location": "New York, NY",
-    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at PrismHelix",
+    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at WLW Resources",
     "salary": "",
     "experience": "0-1 year in communications, digital marketing, PR, or recruitment marketing. Bachelor's in Marketing, Communications, PR, Journalism or Business.",
     "posted": "6 hours ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4490304110/",
-    "why": "PrismHelix Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
+    "url": "https://www.linkedin.com/jobs/view/4490190748/",
+    "why": "WLW Resources Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490304110. Be among the first 25 applicants.",
-    "initials": "PH",
+    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490190748 (identical repost under WLW Resources; PrismHelix link 404). Be among the first 25 applicants.",
+    "initials": "WR",
     "color": "#0F766E"
   },
   {
@@ -4999,7 +4999,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Mon, Nov 16 · 7:00 PM ET";
+const LAST_UPDATED = "Tue, Nov 17 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
