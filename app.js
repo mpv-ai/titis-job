@@ -3035,26 +3035,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "griffin360-account-coordinator",
-    "title": "Account Coordinator",
-    "company": "griffin360",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Account Coordinator at griffin360",
-    "salary": "",
-    "experience": "Entry level",
-    "posted": "4 hours ago",
-    "applicants": "47 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4481241655/",
-    "why": "griffin360 Account Coordinator. New York, NY, Hybrid. Early applicant window.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri 1:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470331290. Be among the first 25 applicants. Twin refresh Mon ~7:00 PM ET: url updated 4470331290 -> 4481241655.",
-    "initials": "GR",
-    "color": "#DC2626"
-  },
-  {
     "id": "orchestra-account-coordinator-real-estate",
     "title": "Account Coordinator, Real Estate",
     "company": "Orchestra",
@@ -5019,7 +4999,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Mon, Nov 16 · 1:00 PM ET";
+const LAST_UPDATED = "Mon, Nov 16 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
