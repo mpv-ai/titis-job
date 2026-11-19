@@ -1,6 +1,46 @@
 /* Titi's Job */
 const FALLBACK_JOBS = [
   {
+    "id": "msg-rangers-coordinator-marketing-strategy",
+    "title": "Coordinator Marketing Strategy",
+    "company": "MSG Rangers",
+    "city": "New York",
+    "location": "New York City Metropolitan Area",
+    "workplace": "New York, NY · Coordinator Marketing Strategy at MSG Rangers (New York Rangers)",
+    "salary": "$65,000 - $70,000",
+    "experience": "0-2 years of relevant experience in marketing, sports, entertainment or communications, internship experience counts.",
+    "posted": "1 hour ago",
+    "applicants": "58 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4492220046/",
+    "why": "New York Rangers marketing coordinator role. Supports email, community and youth hockey programs. $65-70k, 0-2 yrs.",
+    "applyFirst": true,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4492220046. 58 applicants. Pay $65,000-$70,000. Some evening game and event hours.",
+    "initials": "MR",
+    "color": "#0F766E"
+  },
+  {
+    "id": "hdr-marketing-coordinator-boston",
+    "title": "Marketing Coordinator",
+    "company": "HDR",
+    "city": "Boston",
+    "location": "Boston, MA",
+    "workplace": "Boston, MA · Marketing Coordinator at HDR (Transportation Business Group, A/E firm proposal and BD marketing)",
+    "salary": "",
+    "experience": "No years stated. Required: communication skills, Microsoft Office, Adobe InDesign. Local candidates preferred.",
+    "posted": "2 hours ago",
+    "applicants": "Be among the first 25 applicants",
+    "url": "https://www.linkedin.com/jobs/view/4491890481/",
+    "why": "HDR Boston Marketing Coordinator. Proposals, content, social, internal comms. No experience level stated, pay not listed.",
+    "applyFirst": false,
+    "employment": "Full-time",
+    "stretch": false,
+    "notes": "Guest page open. Primary window Wed ~7:00 PM ET (2 hours ago / tpr=r21600). LinkedIn id 4491890481. First 25 applicants. Pay not listed. Same role family as HDR NYC card, different city.",
+    "initials": "HD",
+    "color": "#1565C0"
+  },
+  {
     "id": "prismhelix-brand-communications-marketing-specialist",
     "title": "Brand Communications & Marketing Specialist",
     "company": "WLW Resources",
@@ -961,26 +1001,6 @@ const FALLBACK_JOBS = [
     "color": "#BE185D"
   },
   {
-    "id": "gymshark-creator-marketing-associate",
-    "title": "Creator Marketing Associate",
-    "company": "Gymshark",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid New York · Creator Marketing Associate at Gymshark",
-    "salary": "$65,000 - $75,000",
-    "experience": "No years required; creator/influencer relationship experience preferred.",
-    "posted": "3 hours ago",
-    "applicants": "63 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4479456715/",
-    "why": "Gymshark (athletic apparel) Creator Marketing Associate. New York, NY, Hybrid. $65-75k salary, no years requirement listed.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~1:00 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4479456715. 63 applicants. Salary $65,000 - $75,000.",
-    "initials": "GY",
-    "color": "#2563EB"
-  },
-  {
     "id": "jefferies-corporate-events-coordinator",
     "title": "Corporate Events Coordinator",
     "company": "Jefferies",
@@ -1438,26 +1458,6 @@ const FALLBACK_JOBS = [
     "stretch": true,
     "notes": "Guest page open. Primary window Fri ~7:00 PM ET (2 hours ago / tpr=r43200 12h window). LinkedIn id 4475263206. Be among the first 25 applicants. Pay signal: $20.",
     "initials": "DM",
-    "color": "#059669"
-  },
-  {
-    "id": "dsm-firmenich-marketing-junior-assistant-fine-fragrance-perfumery-beau",
-    "title": "Marketing Junior Assistant, Fine Fragrance, Perfumery & Beauty - New York, NY",
-    "company": "dsm-firmenich",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Marketing Junior Assistant, Fine Fragrance, Perfumery & Beauty - New York, NY at dsm-firmenich",
-    "salary": "$60,000-$70,000",
-    "experience": "Junior assistant level. Copywriting, trend and category research, presentations.",
-    "posted": "7 minutes ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4475278141/",
-    "why": "Marketing Junior Assistant, Fine Fragrance at dsm-firmenich in Chelsea, NYC. Supports fragrance marketing with trend research, storytelling, copywriting and client presentations. $60k-$70k, on-site, posted minutes ago. Beauty and fragrance fit, so apply first.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Fri ~7:00 PM ET (7 minutes ago / tpr=r43200 12h window). LinkedIn id 4475278141. Be among the first 25 applicants. Pay signal: $60,000-$70,000.",
-    "initials": "DF",
     "color": "#059669"
   },
   {
@@ -3279,26 +3279,6 @@ const FALLBACK_JOBS = [
     "color": "#0D9488"
   },
   {
-    "id": "brahmin-leather-works-creative-marketing-coordinator",
-    "title": "Creative Marketing Coordinator",
-    "company": "Brahmin Leather Works",
-    "city": "Boston",
-    "location": "Boston, MA",
-    "workplace": "Hybrid Boston · Creative Marketing Coordinator at Brahmin Leather Works",
-    "salary": "$19",
-    "experience": "entry-level position will provide essential day-to-day support across <",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4469490435/",
-    "why": "Brahmin Leather Works Creative Marketing Coordinator. Boston, MA, Hybrid. $19. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed 7 PM ET (5 hours ago / tpr=r21600). LinkedIn id 4469490435. Be among the first 25 applicants. Pay signal: $19.",
-    "initials": "BL",
-    "color": "#BE185D"
-  },
-  {
     "id": "pursuit-community-development-partnership-associate",
     "title": "Community Development & Partnership Associate",
     "company": "Pursuit",
@@ -3379,26 +3359,6 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   },
   {
-    "id": "kobrand-fine-wine-spirits-social-media-coordinator",
-    "title": "Social Media Coordinator",
-    "company": "Kobrand Fine Wine & Spirits",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Social Media Coordinator at Kobrand Fine Wine & Spirits",
-    "salary": "$55,000",
-    "experience": "Entry level",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470637177/",
-    "why": "Kobrand Fine Wine & Spirits Social Media Coordinator. New York, NY. $55,000. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 7 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470637177. Be among the first 25 applicants. Pay signal: $55,000.",
-    "initials": "KF",
-    "color": "#7C3AED"
-  },
-  {
     "id": "flatiron-health-associate-product-marketing-real-world-evidence",
     "title": "Associate, Product Marketing (Real-World Evidence)",
     "company": "Flatiron Health",
@@ -3417,26 +3377,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 7 PM ET (3 hours ago / tpr=r21600). LinkedIn id 4470494979. 26 applicants. Pay signal: $88,000.",
     "initials": "FH",
     "color": "#0891B2"
-  },
-  {
-    "id": "kith-temp-vip-marketing-assistant",
-    "title": "Temp, VIP Marketing Assistant",
-    "company": "KITH",
-    "city": "Brooklyn",
-    "location": "Brooklyn, NY",
-    "workplace": "On-site Brooklyn · Temp, VIP Marketing Assistant at KITH",
-    "salary": "$26",
-    "experience": "0-1 year of experience in VIP, PR, or Marketing B",
-    "posted": "1 hour ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4470478029/",
-    "why": "KITH Temp, VIP Marketing Assistant. Brooklyn, NY, On-site. $26. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Tue 1 PM ET (1 hour ago / tpr=r21600). LinkedIn id 4470478029. Be among the first 25 applicants. Pay signal: $26.",
-    "initials": "KI",
-    "color": "#059669"
   },
   {
     "id": "magnite-account-coordinator-media-planning",
@@ -3557,26 +3497,6 @@ const FALLBACK_JOBS = [
     "notes": "Guest page open. Primary window Tue 1 AM ET (3 hours ago / tpr=r21600). LinkedIn id 4470230530. Be among the first 25 applicants. Pay signal: $90-$120.",
     "initials": "ST",
     "color": "#BE185D"
-  },
-  {
-    "id": "healthfitness-harvard-recreation-marketing-assistant",
-    "title": "Marketing Assistant (part-time)",
-    "company": "HealthFitness",
-    "city": "Cambridge",
-    "location": "Cambridge, MA",
-    "workplace": "Cambridge MA · Part-time (~15 hrs/week) Marketing Assistant for Harvard Recreation (social, short-form video, content calendar, event coverage)",
-    "salary": "$19-$20/hour",
-    "experience": "True entry part-time marketing assistant. Social, Reels, graphics, event coverage under Marketing Coordinator. Ideal for hands-on campus recreation marketing.",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466939148/",
-    "why": "HealthFitness Marketing Assistant for Harvard Recreation. Cambridge; $19-20/hr; applyFirst true social/content entry. Stretch: part-time ~15 hrs/week.",
-    "applyFirst": true,
-    "employment": "Part-time",
-    "stretch": true,
-    "notes": "Guest page open. Primary window Sat 1 AM ET (posted ~5h / r21600). LinkedIn id 4466939148. Be among the first 25. Boston metro. Stretch part-time.",
-    "initials": "HF",
-    "color": "#059669"
   },
   {
     "id": "unitedmasters-commerce-artist-marketing-coordinator",
@@ -4439,26 +4359,6 @@ const FALLBACK_JOBS = [
     "color": "#1B3A4B"
   },
   {
-    "id": "child-mind-science-marketing-associate",
-    "title": "Marketing Associate, Science and Engineering",
-    "company": "Child Mind Institute",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "Hybrid · min 4 days in office",
-    "salary": "$70,000-$82,000",
-    "experience": "Stretch. At least 2 years digital marketing/project management. GA/Meta Ads, Mailchimp/Salesforce, WordPress.",
-    "posted": "1 hour ago",
-    "applicants": "118",
-    "url": "https://www.linkedin.com/jobs/view/4448061442/",
-    "why": "Nonprofit digital marketing associate, $70-82k. Email/social/web campaigns translating science for families.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Stretch: 2 years required. LinkedIn bumped it into this 6h window (118 applicants). Hybrid 4 days onsite.",
-    "initials": "CM",
-    "color": "#0B6E4F"
-  },
-  {
     "id": "broadridge-junior-marketing-consultant",
     "title": "Junior Marketing Consultant - Contract (Hybrid)",
     "company": "Broadridge",
@@ -4659,26 +4559,6 @@ const FALLBACK_JOBS = [
     "color": "#312E81"
   },
   {
-    "id": "horizon-trade-marketing-coordinator",
-    "title": "Coordinator, Trade Marketing",
-    "company": "Horizon Media",
-    "city": "New York",
-    "location": "New York City Metropolitan Area",
-    "workplace": "Onsite + occasional event travel",
-    "salary": "$55,000-$65,000",
-    "experience": "1-3 years marketing, event marketing, project coordination, or partnerships.",
-    "posted": "5 hours ago",
-    "applicants": "127",
-    "url": "https://www.linkedin.com/jobs/view/4452291390/",
-    "why": "Coordinator at a real NYC media agency. Events, sponsorships, co-marketing.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Different from HS&E Account Coordinator. Not the closed NBCU trade-sports seat. Evenings/weekends around events.",
-    "initials": "HZ",
-    "color": "#C2410C"
-  },
-  {
     "id": "aipac-marketing-associate",
     "title": "Marketing Associate",
     "company": "AIPAC",
@@ -4839,26 +4719,6 @@ const FALLBACK_JOBS = [
     "color": "#C0392B"
   },
   {
-    "id": "emerson-enrollment-marketing",
-    "title": "Coordinator, Enrollment Marketing",
-    "company": "Emerson College",
-    "city": "Boston",
-    "location": "Greater Boston",
-    "workplace": "",
-    "salary": "",
-    "experience": "Coordinator-level enrollment/email campaigns.",
-    "posted": "2 weeks ago",
-    "applicants": "27",
-    "url": "https://www.linkedin.com/jobs/view/4449332596/",
-    "why": "Higher-ed email/campaign coordinator. Low applicant count.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "",
-    "initials": "EC",
-    "color": "#8B1E3F"
-  },
-  {
     "id": "lehman-college-communications-broadcast-multimedia-production-coordina",
     "title": "Communications Broadcast & Multimedia Production Coordinator (aHEO)",
     "company": "Lehman College",
@@ -4999,7 +4859,7 @@ const FALLBACK_JOBS = [
     "color": "#2563EB"
   }
 ];
-const LAST_UPDATED = "Wed, Nov 18 · 1:00 PM ET";
+const LAST_UPDATED = "Wed, Nov 18 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
