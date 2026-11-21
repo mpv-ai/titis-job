@@ -821,26 +821,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "book-of-the-month-growth-creative-rotational-program",
-    "title": "Growth & Creative Rotational Program",
-    "company": "Book of the Month",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "On-site New York · Growth & Creative Rotational Program at Book of the Month",
-    "salary": "$70k to $90k",
-    "experience": "Entry-level / ~1 year preferred.",
-    "posted": "2 days ago",
-    "applicants": "50 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4483167229/",
-    "why": "Early-career rotational program across influencer, social, performance marketing and creative. Built for new grads.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Added Sun Oct 25 ~6:15 PM ET broadened entry-level run (7-day LinkedIn lookback). LinkedIn id 4483167229. 50 applicants.",
-    "initials": "BM",
-    "color": "#D97706"
-  },
-  {
     "id": "horizon-next-planner-social",
     "title": "Planner, Social",
     "company": "Horizon Next",
@@ -4679,7 +4659,7 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   }
 ];
-const LAST_UPDATED = "Fri, Nov 20 · 1:00 PM ET";
+const LAST_UPDATED = "Fri, Nov 20 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
