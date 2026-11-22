@@ -4659,7 +4659,7 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   }
 ];
-const LAST_UPDATED = "Sat, Nov 21 · 7:00 PM ET";
+const LAST_UPDATED = "Sun, Nov 22 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
