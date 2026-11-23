@@ -1501,26 +1501,6 @@ const FALLBACK_JOBS = [
     "color": "#DC2626"
   },
   {
-    "id": "cape-content-and-social-media-associate",
-    "title": "Content and Social Media Associate",
-    "company": "Cape",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York, NY (or Arlington, VA) · Content and Social Media Associate at Cape (privacy-first mobile carrier startup)",
-    "salary": "$75,000-$110,000",
-    "experience": "No minimum years listed. Excellent, distinctive writing and strong organization. Video filming/editing and a portfolio are bonus points.",
-    "posted": "36 minutes ago",
-    "applicants": "Over 200 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4466592437/",
-    "why": "Cape, a venture-backed privacy-focused mobile carrier, is hiring a Social Media Associate to own its voice on social. Writes and posts social copy end to end, edits blog posts and email marketing copy, helps build email flows, and turns product features into stories for social and video. Full-time, $75k-$110k plus equity. High-ownership writing role, not fashion. Lots of applicants already.",
-    "applyFirst": false,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Wed ~1:00 PM ET (36 minutes ago / tpr=r21600). LinkedIn id 4466592437 (refreshed posting). Over 200 applicants. Pay signal: $75,000-$110,000.",
-    "initials": "CA",
-    "color": "#7C3AED"
-  },
-  {
     "id": "zeno-group-intern-brand",
     "title": "Intern, Brand",
     "company": "Zeno Group",
@@ -2835,26 +2815,6 @@ const FALLBACK_JOBS = [
     "color": "#059669"
   },
   {
-    "id": "on-the-stage-marketing-content-coordinator",
-    "title": "Marketing Content Coordinator",
-    "company": "On The Stage",
-    "city": "New York",
-    "location": "New York, NY",
-    "workplace": "New York · Marketing Content Coordinator at On The Stage",
-    "salary": "",
-    "experience": "1-3 years of experience in content marketing, copywriting, communications, editorial prod",
-    "posted": "5 hours ago",
-    "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4472204778/",
-    "why": "On The Stage Marketing Content Coordinator. New York, NY. Early applicant window.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": false,
-    "notes": "Guest page open. Primary window Sat 1:00 AM ET (5 hours ago / tpr=r21600). LinkedIn id 4472204778. Be among the first 25 applicants.",
-    "initials": "OS",
-    "color": "#7C3AED"
-  },
-  {
     "id": "orchestra-account-coordinator-real-estate",
     "title": "Account Coordinator, Real Estate",
     "company": "Orchestra",
@@ -3977,26 +3937,6 @@ const FALLBACK_JOBS = [
     "color": "#C6002B"
   },
   {
-    "id": "goodkind-bd-assistant",
-    "title": "Business Development Assistant",
-    "company": "Unnamed Midtown law firm via The Goodkind Group",
-    "city": "New York",
-    "location": "New York, NY (Midtown)",
-    "workplace": "Hybrid",
-    "salary": "$75,000-$80,000",
-    "experience": "College degree + 1-2 years marketing/BD in a law firm.",
-    "posted": "1 hour ago",
-    "applicants": "First 25",
-    "url": "https://www.linkedin.com/jobs/view/4457171568/",
-    "why": "Law-firm marketing assistant. Pitches, rankings, events, CRM, social. First 25.",
-    "applyFirst": true,
-    "employment": "Full-time",
-    "stretch": true,
-    "notes": "Same path as Addition / Phoenix / King & Spalding.",
-    "initials": "GK",
-    "color": "#1E3A5F"
-  },
-  {
     "id": "lesse-marketing-coordinator",
     "title": "Brand & Marketing Coordinator",
     "company": "LESSE",
@@ -4376,8 +4316,8 @@ const FALLBACK_JOBS = [
     "initials": "RC",
     "color": "#7C3AED"
   }
-]
-const LAST_UPDATED = "Sun, Nov 22 · 1:00 PM ET";
+];
+const LAST_UPDATED = "Sun, Nov 22 · 7:00 PM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
