@@ -3,21 +3,21 @@ const FALLBACK_JOBS = [
   {
     "id": "prismhelix-brand-communications-marketing-specialist",
     "title": "Brand Communications & Marketing Specialist",
-    "company": "WLW Resources",
+    "company": "Wells & Matt Ltd",
     "city": "New York",
     "location": "New York, NY",
-    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at WLW Resources",
+    "workplace": "Hybrid New York · Brand Communications & Marketing Specialist at Wells & Matt Ltd",
     "salary": "",
     "experience": "0-1 year in communications, digital marketing, PR, or recruitment marketing. Bachelor's in Marketing, Communications, PR, Journalism or Business.",
-    "posted": "6 hours ago",
+    "posted": "40 minutes ago",
     "applicants": "Be among the first 25 applicants",
-    "url": "https://www.linkedin.com/jobs/view/4490190748/",
-    "why": "WLW Resources Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
+    "url": "https://www.linkedin.com/jobs/view/4493614140/",
+    "why": "Wells & Matt Ltd Brand Communications & Marketing Specialist. New York, NY, Hybrid. Asks 0-1 year. Salary not listed.",
     "applyFirst": true,
     "employment": "Full-time",
     "stretch": false,
-    "notes": "Guest page open. Primary window Thu ~7:00 AM ET (6 hours ago / tpr=r43200). LinkedIn id 4490190748 (identical repost under WLW Resources; PrismHelix link 404). Be among the first 25 applicants.",
-    "initials": "WR",
+    "notes": "Guest page open. Primary window Mon ~1:00 AM ET (40 minutes ago). LinkedIn id 4493614140 (identical repost under Wells & Matt Ltd; earlier WLW Resources link 4490190748 404). Be among the first 25 applicants.",
+    "initials": "WM",
     "color": "#0F766E"
   },
   {
@@ -4317,7 +4317,7 @@ const FALLBACK_JOBS = [
     "color": "#7C3AED"
   }
 ];
-const LAST_UPDATED = "Sun, Nov 22 · 7:00 PM ET";
+const LAST_UPDATED = "Mon, Nov 23 · 1:00 AM ET";
 const REFRESH_NOTE = "Tito refreshes every 6 hours";
 
 
